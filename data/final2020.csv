@@ -1,0 +1,1448 @@
+tourney_name,surface,tourney_level,date,winner_id,winner_name,winner_state,loser_id,loser_name,loser_state,winner_rank,winner_points,loser_rank,loser_points
+Atp Cup,Hard,A,2020-01-06,104925,Novak Djokovic,SRB,104745,Rafael Nadal,ESP,1,12030,2,9850
+Atp Cup,Hard,A,2020-01-06,105138,Roberto Bautista Agut,ESP,105583,Dusan Lajovic,SRB,13,2710,26,1785
+Atp Cup,Hard,A,2020-01-06,104925,Novak Djokovic,SRB,106421,Daniil Medvedev,RUS,1,12030,4,8470
+Atp Cup,Hard,A,2020-01-06,105583,Dusan Lajovic,SRB,111575,Karen Khachanov,RUS,26,1785,20,2245
+Atp Cup,Hard,A,2020-01-06,104745,Rafael Nadal,ESP,200282,Alex De Minaur,AUS,2,9850,23,1860
+Atp Cup,Hard,A,2020-01-06,105138,Roberto Bautista Agut,ESP,106401,Nick Kyrgios,AUS,13,2710,45,1170
+Atp Cup,Hard,A,2020-01-06,104925,Novak Djokovic,SRB,133430,Denis Shapovalov,CAN,1,12030,12,2830
+Atp Cup,Hard,A,2020-01-06,105583,Dusan Lajovic,SRB,200000,Felix Auger Aliassime,CAN,26,1785,21,2216
+Atp Cup,Hard,A,2020-01-06,106421,Daniil Medvedev,RUS,106043,Diego Schwartzman,ARG,4,8470,9,3455
+Atp Cup,Hard,A,2020-01-06,111575,Karen Khachanov,RUS,105550,Guido Pella,ARG,20,2245,43,1310
+Atp Cup,Hard,A,2020-01-06,105554,Daniel Evans,GBR,200282,Alex De Minaur,AUS,32,1589,23,1860
+Atp Cup,Hard,A,2020-01-06,106401,Nick Kyrgios,AUS,111815,Cameron Norrie,GBR,45,1170,71,877
+Atp Cup,Hard,A,2020-01-06,105676,David Goffin,BEL,104745,Rafael Nadal,ESP,15,2555,2,9850
+Atp Cup,Hard,A,2020-01-06,105138,Roberto Bautista Agut,ESP,106293,Kimmer Coppejans,BEL,13,2710,177,361
+Atp Cup,Hard,A,2020-01-06,104925,Novak Djokovic,SRB,104792,Gael Monfils,FRA,1,12030,11,2860
+Atp Cup,Hard,A,2020-01-06,105332,Benoit Paire,FRA,105583,Dusan Lajovic,SRB,28,1738,26,1785
+Atp Cup,Hard,A,2020-01-06,104925,Novak Djokovic,SRB,104731,Kevin Anderson,RSA,1,12030,81,825
+Atp Cup,Hard,A,2020-01-06,105583,Dusan Lajovic,SRB,144750,Lloyd Harris,RSA,26,1785,87,793
+Atp Cup,Hard,A,2020-01-06,104925,Novak Djokovic,SRB,106426,Christian Garin,CHI,1,12030,22,2170
+Atp Cup,Hard,A,2020-01-06,105583,Dusan Lajovic,SRB,111797,Nicolas Jarry,CHI,26,1785,0,0
+Atp Cup,Hard,A,2020-01-06,104731,Kevin Anderson,RSA,105332,Benoit Paire,FRA,81,825,28,1738
+Atp Cup,Hard,A,2020-01-06,104468,Gilles Simon,FRA,144750,Lloyd Harris,RSA,63,1005,87,793
+Atp Cup,Hard,A,2020-01-06,104792,Gael Monfils,FRA,106426,Christian Garin,CHI,11,2860,22,2170
+Atp Cup,Hard,A,2020-01-06,105332,Benoit Paire,FRA,111797,Nicolas Jarry,CHI,28,1738,0,0
+Atp Cup,Hard,A,2020-01-06,104731,Kevin Anderson,RSA,106426,Christian Garin,CHI,81,825,22,2170
+Atp Cup,Hard,A,2020-01-06,144750,Lloyd Harris,RSA,111797,Nicolas Jarry,CHI,87,793,0,0
+Atp Cup,Hard,A,2020-01-06,104745,Rafael Nadal,ESP,106415,Yoshihito Nishioka,JPN,2,9850,56,1062
+Atp Cup,Hard,A,2020-01-06,105138,Roberto Bautista Agut,ESP,104424,Go Soeda,JPN,13,2710,133,490
+Atp Cup,Hard,A,2020-01-06,104745,Rafael Nadal,ESP,105932,Nikoloz Basilashvili,GEO,2,9850,40,1395
+Atp Cup,Hard,A,2020-01-06,105138,Roberto Bautista Agut,ESP,106223,Aleksandre Metreveli,GEO,13,2710,593,44
+Atp Cup,Hard,A,2020-01-06,104745,Rafael Nadal,ESP,104655,Pablo Cuevas,URU,2,9850,67,917
+Atp Cup,Hard,A,2020-01-06,105138,Roberto Bautista Agut,ESP,208364,Franco Roncadelli,URU,13,2710,0,0
+Atp Cup,Hard,A,2020-01-06,106415,Yoshihito Nishioka,JPN,105932,Nikoloz Basilashvili,GEO,56,1062,40,1395
+Atp Cup,Hard,A,2020-01-06,104424,Go Soeda,JPN,106223,Aleksandre Metreveli,GEO,133,490,593,44
+Atp Cup,Hard,A,2020-01-06,106415,Yoshihito Nishioka,JPN,104655,Pablo Cuevas,URU,56,1062,67,917
+Atp Cup,Hard,A,2020-01-06,104424,Go Soeda,JPN,105899,Martin Cuevas,URU,133,490,484,72
+Atp Cup,Hard,A,2020-01-06,105932,Nikoloz Basilashvili,GEO,104655,Pablo Cuevas,URU,40,1395,67,917
+Atp Cup,Hard,A,2020-01-06,106223,Aleksandre Metreveli,GEO,208364,Franco Roncadelli,URU,593,44,0,0
+Atp Cup,Hard,A,2020-01-06,105554,Daniel Evans,GBR,105676,David Goffin,BEL,32,1589,15,2555
+Atp Cup,Hard,A,2020-01-06,104327,Steve Darcis,BEL,111815,Cameron Norrie,GBR,273,196,71,877
+Atp Cup,Hard,A,2020-01-06,105676,David Goffin,BEL,105777,Grigor Dimitrov,BUL,15,2555,19,2260
+Atp Cup,Hard,A,2020-01-06,106220,Dimitar Kuzmanov,BUL,104327,Steve Darcis,BEL,295,166,273,196
+Atp Cup,Hard,A,2020-01-06,105676,David Goffin,BEL,105430,Radu Albot,MDA,15,2555,93,772
+Atp Cup,Hard,A,2020-01-06,104327,Steve Darcis,BEL,126612,Alexander Cozbinov,MDA,273,196,761,24
+Atp Cup,Hard,A,2020-01-06,105777,Grigor Dimitrov,BUL,105554,Daniel Evans,GBR,19,2260,32,1589
+Atp Cup,Hard,A,2020-01-06,111815,Cameron Norrie,GBR,106220,Dimitar Kuzmanov,BUL,71,877,295,166
+Atp Cup,Hard,A,2020-01-06,105554,Daniel Evans,GBR,105430,Radu Albot,MDA,32,1589,93,772
+Atp Cup,Hard,A,2020-01-06,111815,Cameron Norrie,GBR,126612,Alexander Cozbinov,MDA,71,877,761,24
+Atp Cup,Hard,A,2020-01-06,105777,Grigor Dimitrov,BUL,105430,Radu Albot,MDA,19,2260,93,772
+Atp Cup,Hard,A,2020-01-06,106220,Dimitar Kuzmanov,BUL,126612,Alexander Cozbinov,MDA,295,166,761,24
+Atp Cup,Hard,A,2020-01-06,106421,Daniil Medvedev,RUS,104926,Fabio Fognini,ITA,4,8470,17,2400
+Atp Cup,Hard,A,2020-01-06,111575,Karen Khachanov,RUS,105882,Stefano Travaglia,ITA,20,2245,74,869
+Atp Cup,Hard,A,2020-01-06,106421,Daniil Medvedev,RUS,104545,John Isner,USA,4,8470,25,1850
+Atp Cup,Hard,A,2020-01-06,111575,Karen Khachanov,RUS,126203,Taylor Fritz,USA,20,2245,29,1670
+Atp Cup,Hard,A,2020-01-06,106421,Daniil Medvedev,RUS,134770,Casper Ruud,NOR,4,8470,27,1739
+Atp Cup,Hard,A,2020-01-06,111575,Karen Khachanov,RUS,126340,Viktor Durasovic,NOR,20,2245,340,127
+Atp Cup,Hard,A,2020-01-06,104926,Fabio Fognini,ITA,104545,John Isner,USA,17,2400,25,1850
+Atp Cup,Hard,A,2020-01-06,105882,Stefano Travaglia,ITA,126203,Taylor Fritz,USA,74,869,29,1670
+Atp Cup,Hard,A,2020-01-06,134770,Casper Ruud,NOR,104926,Fabio Fognini,ITA,27,1739,17,2400
+Atp Cup,Hard,A,2020-01-06,105882,Stefano Travaglia,ITA,126340,Viktor Durasovic,NOR,74,869,340,127
+Atp Cup,Hard,A,2020-01-06,134770,Casper Ruud,NOR,104545,John Isner,USA,27,1739,25,1850
+Atp Cup,Hard,A,2020-01-06,126203,Taylor Fritz,USA,126340,Viktor Durasovic,NOR,29,1670,340,127
+Atp Cup,Hard,A,2020-01-06,106432,Borna Coric,CRO,106233,Dominic Thiem,AUT,24,1855,3,9125
+Atp Cup,Hard,A,2020-01-06,105227,Marin Cilic,CRO,110602,Dennis Novak,AUT,42,1325,96,737
+Atp Cup,Hard,A,2020-01-06,106233,Dominic Thiem,AUT,106043,Diego Schwartzman,ARG,3,9125,9,3455
+Atp Cup,Hard,A,2020-01-06,110602,Dennis Novak,AUT,105550,Guido Pella,ARG,96,737,43,1310
+Atp Cup,Hard,A,2020-01-06,128034,Hubert Hurkacz,POL,106233,Dominic Thiem,AUT,34,1518,3,9125
+Atp Cup,Hard,A,2020-01-06,200390,Kacper Zuk,POL,110602,Dennis Novak,AUT,262,209,96,737
+Atp Cup,Hard,A,2020-01-06,106043,Diego Schwartzman,ARG,106432,Borna Coric,CRO,9,3455,24,1855
+Atp Cup,Hard,A,2020-01-06,105550,Guido Pella,ARG,105227,Marin Cilic,CRO,43,1310,42,1325
+Atp Cup,Hard,A,2020-01-06,128034,Hubert Hurkacz,POL,106432,Borna Coric,CRO,34,1518,24,1855
+Atp Cup,Hard,A,2020-01-06,105227,Marin Cilic,CRO,200390,Kacper Zuk,POL,42,1325,262,209
+Atp Cup,Hard,A,2020-01-06,128034,Hubert Hurkacz,POL,106043,Diego Schwartzman,ARG,34,1518,9,3455
+Atp Cup,Hard,A,2020-01-06,105550,Guido Pella,ARG,111794,Kamil Majchrzak,POL,43,1310,107,680
+Atp Cup,Hard,A,2020-01-06,126774,Stefanos Tsitsipas,GRE,100644,Alexander Zverev,GER,6,5925,7,5525
+Atp Cup,Hard,A,2020-01-06,105526,Jan Lennard Struff,GER,133018,Michail Pervolarakis,CYP,36,1450,456,80
+Atp Cup,Hard,A,2020-01-06,133430,Denis Shapovalov,CAN,100644,Alexander Zverev,GER,12,2830,7,5525
+Atp Cup,Hard,A,2020-01-06,105526,Jan Lennard Struff,GER,200000,Felix Auger Aliassime,CAN,36,1450,21,2216
+Atp Cup,Hard,A,2020-01-06,200282,Alex De Minaur,AUS,100644,Alexander Zverev,GER,23,1860,7,5525
+Atp Cup,Hard,A,2020-01-06,106401,Nick Kyrgios,AUS,105526,Jan Lennard Struff,GER,45,1170,36,1450
+Atp Cup,Hard,A,2020-01-06,133430,Denis Shapovalov,CAN,126774,Stefanos Tsitsipas,GRE,12,2830,6,5925
+Atp Cup,Hard,A,2020-01-06,200000,Felix Auger Aliassime,CAN,133018,Michail Pervolarakis,CYP,21,2216,456,80
+Atp Cup,Hard,A,2020-01-06,106401,Nick Kyrgios,AUS,126774,Stefanos Tsitsipas,GRE,45,1170,6,5925
+Atp Cup,Hard,A,2020-01-06,105357,John Millman,AUS,133018,Michail Pervolarakis,CYP,38,1421,456,80
+Atp Cup,Hard,A,2020-01-06,200282,Alex De Minaur,AUS,133430,Denis Shapovalov,CAN,23,1860,12,2830
+Atp Cup,Hard,A,2020-01-06,105357,John Millman,AUS,200000,Felix Auger Aliassime,CAN,38,1421,21,2216
+Doha,Hard,A,2020-01-06,126094,Andrey Rublev,RUS,144895,Corentin Moutet,FRA,8,4119,77,838
+Doha,Hard,A,2020-01-06,144895,Corentin Moutet,FRA,104527,Stan Wawrinka,SUI,77,838,18,2320
+Doha,Hard,A,2020-01-06,126094,Andrey Rublev,RUS,200175,Miomir Kecmanovic,SRB,8,4119,44,1308
+Doha,Hard,A,2020-01-06,104527,Stan Wawrinka,SUI,105379,Aljaz Bedene,SLO,18,2320,58,1045
+Doha,Hard,A,2020-01-06,144895,Corentin Moutet,FRA,104269,Fernando Verdasco,ESP,77,838,65,975
+Doha,Hard,A,2020-01-06,200175,Miomir Kecmanovic,SRB,105916,Marton Fucsovics,HUN,44,1308,55,1062
+Doha,Hard,A,2020-01-06,126094,Andrey Rublev,RUS,105732,Pierre Hugues Herbert,FRA,8,4119,83,812
+Doha,Hard,A,2020-01-06,104527,Stan Wawrinka,SUI,104871,Jeremy Chardy,FRA,18,2320,75,860
+Doha,Hard,A,2020-01-06,105379,Aljaz Bedene,SLO,122330,Alexander Bublik,KAZ,58,1045,50,1070
+Doha,Hard,A,2020-01-06,144895,Corentin Moutet,FRA,105683,Milos Raonic,CAN,77,838,14,2580
+Doha,Hard,A,2020-01-06,104269,Fernando Verdasco,ESP,105936,Filip Krajinovic,SRB,65,975,31,1628
+Doha,Hard,A,2020-01-06,105916,Marton Fucsovics,HUN,117356,Cem Ilkel,TUR,55,1062,219,260
+Doha,Hard,A,2020-01-06,200175,Miomir Kecmanovic,SRB,104542,Jo-Wilfried Tsonga,FRA,44,1308,62,1005
+Doha,Hard,A,2020-01-06,105732,Pierre Hugues Herbert,FRA,111513,Laslo Djere,SRB,83,812,57,1058
+Doha,Hard,A,2020-01-06,126094,Andrey Rublev,RUS,105062,Mikhail Kukushkin,KAZ,8,4119,89,776
+Doha,Hard,A,2020-01-06,104871,Jeremy Chardy,FRA,106296,Gregoire Barrere,FRA,75,860,109,647
+Doha,Hard,A,2020-01-06,105379,Aljaz Bedene,SLO,144707,Mikael Ymer,SWE,58,1045,94,763
+Doha,Hard,A,2020-01-06,122330,Alexander Bublik,KAZ,105173,Adrian Mannarino,FRA,50,1070,35,1516
+Doha,Hard,A,2020-01-06,144895,Corentin Moutet,FRA,105815,Tennys Sandgren,USA,77,838,49,1081
+Doha,Hard,A,2020-01-06,104269,Fernando Verdasco,ESP,104665,Pablo Andujar,ESP,65,975,60,1024
+Doha,Hard,A,2020-01-06,105936,Filip Krajinovic,SRB,106378,Kyle Edmund,GBR,31,1628,48,1085
+Doha,Hard,A,2020-01-06,105916,Marton Fucsovics,HUN,126207,Frances Tiafoe,USA,55,1062,59,1030
+Doha,Hard,A,2020-01-06,117356,Cem Ilkel,TUR,105575,Ricardas Berankis,LTU,219,260,69,889
+Doha,Hard,A,2020-01-06,200175,Miomir Kecmanovic,SRB,111442,Jordan Thompson,AUS,44,1308,51,1068
+Doha,Hard,A,2020-01-06,111513,Laslo Djere,SRB,132283,Lorenzo Sonego,ITA,57,1058,33,1568
+Doha,Hard,A,2020-01-06,105732,Pierre Hugues Herbert,FRA,106065,Marco Cecchinato,ITA,83,812,80,828
+Doha,Hard,A,2020-01-06,105062,Mikhail Kukushkin,KAZ,104291,Malek Jaziri,TUN,89,776,249,219
+Adelaide,Hard,A,2020-01-13,126094,Andrey Rublev,RUS,144750,Lloyd Harris,RSA,8,4119,87,793
+Adelaide,Hard,A,2020-01-13,144750,Lloyd Harris,RSA,126205,Tommy Paul,USA,87,793,54,1065
+Adelaide,Hard,A,2020-01-13,126094,Andrey Rublev,RUS,200000,Felix Auger Aliassime,CAN,8,4119,21,2216
+Adelaide,Hard,A,2020-01-13,126205,Tommy Paul,USA,105077,Albert Ramos,ESP,54,1065,46,1165
+Adelaide,Hard,A,2020-01-13,144750,Lloyd Harris,RSA,105807,Pablo Carreno Busta,ESP,87,793,16,2535
+Adelaide,Hard,A,2020-01-13,126094,Andrey Rublev,RUS,105554,Daniel Evans,GBR,8,4119,32,1589
+Adelaide,Hard,A,2020-01-13,200000,Felix Auger Aliassime,CAN,106109,Alex Bolt,AUS,21,2216,171,380
+Adelaide,Hard,A,2020-01-13,105077,Albert Ramos,ESP,144719,Jaume Munar,ESP,46,1165,110,646
+Adelaide,Hard,A,2020-01-13,126205,Tommy Paul,USA,104655,Pablo Cuevas,URU,54,1065,67,917
+Adelaide,Hard,A,2020-01-13,105807,Pablo Carreno Busta,ESP,104871,Jeremy Chardy,FRA,16,2535,75,860
+Adelaide,Hard,A,2020-01-13,144750,Lloyd Harris,RSA,111513,Laslo Djere,SRB,87,793,57,1058
+Adelaide,Hard,A,2020-01-13,105554,Daniel Evans,GBR,122330,Alexander Bublik,KAZ,32,1589,50,1070
+Adelaide,Hard,A,2020-01-13,126094,Andrey Rublev,RUS,105023,Sam Querrey,USA,8,4119,53,1065
+Adelaide,Hard,A,2020-01-13,106109,Alex Bolt,AUS,105526,Jan Lennard Struff,GER,171,380,36,1450
+Adelaide,Hard,A,2020-01-13,200000,Felix Auger Aliassime,CAN,105902,James Duckworth,AUS,21,2216,103,701
+Adelaide,Hard,A,2020-01-13,105077,Albert Ramos,ESP,111442,Jordan Thompson,AUS,46,1165,51,1068
+Adelaide,Hard,A,2020-01-13,126205,Tommy Paul,USA,105379,Aljaz Bedene,SLO,54,1065,58,1045
+Adelaide,Hard,A,2020-01-13,104655,Pablo Cuevas,URU,124187,Reilly Opelka,USA,67,917,39,1402
+Adelaide,Hard,A,2020-01-13,104871,Jeremy Chardy,FRA,104468,Gilles Simon,FRA,75,860,63,1005
+Adelaide,Hard,A,2020-01-13,111513,Laslo Djere,SRB,200615,Alexei Popyrin,AUS,57,1058,113,623
+Adelaide,Hard,A,2020-01-13,144750,Lloyd Harris,RSA,106426,Christian Garin,CHI,87,793,22,2170
+Adelaide,Hard,A,2020-01-13,122330,Alexander Bublik,KAZ,126203,Taylor Fritz,USA,50,1070,29,1670
+Adelaide,Hard,A,2020-01-13,105554,Daniel Evans,GBR,106228,Juan Ignacio Londero,ARG,32,1589,79,832
+Adelaide,Hard,A,2020-01-13,105023,Sam Querrey,USA,106296,Gregoire Barrere,FRA,53,1065,109,647
+Adelaide,Hard,A,2020-01-13,105526,Jan Lennard Struff,GER,106099,Salvatore Caruso,ITA,36,1450,76,843
+Adelaide,Hard,A,2020-01-13,106109,Alex Bolt,AUS,103565,Stephane Robert,FRA,171,380,897,15
+Adelaide,Hard,A,2020-01-13,105902,James Duckworth,AUS,105643,Federico Delbonis,ARG,103,701,82,825
+Auckland,Hard,A,2020-01-13,200005,Ugo Humbert,FRA,105332,Benoit Paire,FRA,30,1646,28,1738
+Auckland,Hard,A,2020-01-13,105332,Benoit Paire,FRA,128034,Hubert Hurkacz,POL,28,1738,34,1518
+Auckland,Hard,A,2020-01-13,200005,Ugo Humbert,FRA,104545,John Isner,USA,30,1646,25,1850
+Auckland,Hard,A,2020-01-13,128034,Hubert Hurkacz,POL,103852,Feliciano Lopez,ESP,34,1518,64,998
+Auckland,Hard,A,2020-01-13,105332,Benoit Paire,FRA,105357,John Millman,AUS,28,1738,38,1421
+Auckland,Hard,A,2020-01-13,104545,John Isner,USA,106378,Kyle Edmund,GBR,25,1850,48,1085
+Auckland,Hard,A,2020-01-13,200005,Ugo Humbert,FRA,133430,Denis Shapovalov,CAN,30,1646,12,2830
+Auckland,Hard,A,2020-01-13,103852,Feliciano Lopez,ESP,104926,Fabio Fognini,ITA,64,998,17,2400
+Auckland,Hard,A,2020-01-13,128034,Hubert Hurkacz,POL,144707,Mikael Ymer,SWE,34,1518,94,763
+Auckland,Hard,A,2020-01-13,105357,John Millman,AUS,111575,Karen Khachanov,RUS,38,1421,20,2245
+Auckland,Hard,A,2020-01-13,105332,Benoit Paire,FRA,106329,Thiago Monteiro,BRA,28,1738,84,804
+Auckland,Hard,A,2020-01-13,106378,Kyle Edmund,GBR,104312,Andreas Seppi,ITA,48,1085,106,689
+Auckland,Hard,A,2020-01-13,104545,John Isner,USA,105815,Tennys Sandgren,USA,25,1850,49,1081
+Auckland,Hard,A,2020-01-13,200005,Ugo Humbert,FRA,106065,Marco Cecchinato,ITA,30,1646,80,828
+Auckland,Hard,A,2020-01-13,133430,Denis Shapovalov,CAN,105577,Vasek Pospisil,CAN,12,2830,61,1006
+Auckland,Hard,A,2020-01-13,103852,Feliciano Lopez,ESP,104665,Pablo Andujar,ESP,64,998,60,1024
+Auckland,Hard,A,2020-01-13,144707,Mikael Ymer,SWE,126207,Frances Tiafoe,USA,94,763,59,1030
+Auckland,Hard,A,2020-01-13,128034,Hubert Hurkacz,POL,132283,Lorenzo Sonego,ITA,34,1518,33,1568
+Auckland,Hard,A,2020-01-13,105357,John Millman,AUS,111581,Michael Mmoh,USA,38,1421,174,368
+Auckland,Hard,A,2020-01-13,106329,Thiago Monteiro,BRA,111815,Cameron Norrie,GBR,84,804,71,877
+Auckland,Hard,A,2020-01-13,105332,Benoit Paire,FRA,206173,Jannik Sinner,ITA,28,1738,37,1444
+Auckland,Hard,A,2020-01-13,104312,Andreas Seppi,ITA,105173,Adrian Mannarino,FRA,106,689,35,1516
+Auckland,Hard,A,2020-01-13,106378,Kyle Edmund,GBR,200221,Alejandro Davidovich Fokina,ESP,48,1085,52,1066
+Auckland,Hard,A,2020-01-13,105815,Tennys Sandgren,USA,105030,Michael Venus,NZL,49,1081,0,0
+Auckland,Hard,A,2020-01-13,106065,Marco Cecchinato,ITA,104919,Leonardo Mayer,ARG,80,828,135,482
+Auckland,Hard,A,2020-01-13,200005,Ugo Humbert,FRA,134770,Casper Ruud,NOR,30,1646,27,1739
+Auckland,Hard,A,2020-01-13,105577,Vasek Pospisil,CAN,105311,Joao Sousa,POR,61,1006,90,776
+Australian Open,Hard,G,2020-01-20,104745,Rafael Nadal,ESP,106198,Hugo Dellien,BOL,2,9850,111,638
+Australian Open,Hard,G,2020-01-20,105643,Federico Delbonis,ARG,105311,Joao Sousa,POR,82,825,90,776
+Australian Open,Hard,G,2020-01-20,105376,Peter Gojowczyk,GER,111153,Christopher Eubanks,USA,145,454,235,247
+Australian Open,Hard,G,2020-01-20,105807,Pablo Carreno Busta,ESP,106075,Jozef Kovalik,SVK,16,2535,131,498
+Australian Open,Hard,G,2020-01-20,106401,Nick Kyrgios,AUS,132283,Lorenzo Sonego,ITA,45,1170,33,1568
+Australian Open,Hard,G,2020-01-20,104468,Gilles Simon,FRA,104655,Pablo Cuevas,URU,63,1005,67,917
+Australian Open,Hard,G,2020-01-20,144707,Mikael Ymer,SWE,106034,Yasutaka Uchiyama,JPN,94,763,104,696
+Australian Open,Hard,G,2020-01-20,111575,Karen Khachanov,RUS,106408,Mario Vilella Martinez,ESP,20,2245,191,339
+Australian Open,Hard,G,2020-01-20,104792,Gael Monfils,FRA,104229,Yen Hsun Lu,TPE,11,2860,1007,10
+Australian Open,Hard,G,2020-01-20,103333,Ivo Karlovic,CRO,105577,Vasek Pospisil,CAN,147,444,61,1006
+Australian Open,Hard,G,2020-01-20,105379,Aljaz Bedene,SLO,105902,James Duckworth,AUS,58,1045,103,701
+Australian Open,Hard,G,2020-01-20,105208,Ernests Gulbis,LAT,200000,Felix Auger Aliassime,CAN,181,351,21,2216
+Australian Open,Hard,G,2020-01-20,126203,Taylor Fritz,USA,134868,Tallon Griekspoor,NED,29,1670,153,423
+Australian Open,Hard,G,2020-01-20,104731,Kevin Anderson,RSA,125802,Ilya Ivashka,BLR,81,825,108,674
+Australian Open,Hard,G,2020-01-20,106109,Alex Bolt,AUS,105077,Albert Ramos,ESP,171,380,46,1165
+Australian Open,Hard,G,2020-01-20,106233,Dominic Thiem,AUT,105173,Adrian Mannarino,FRA,3,9125,35,1516
+Australian Open,Hard,G,2020-01-20,106421,Daniil Medvedev,RUS,126207,Frances Tiafoe,USA,4,8470,59,1030
+Australian Open,Hard,G,2020-01-20,124079,Pedro Martinez,ESP,136440,Dominik Koepfer,GER,85,800,66,921
+Australian Open,Hard,G,2020-01-20,144719,Jaume Munar,ESP,200384,Hugo Gaston,FRA,110,646,162,390
+Australian Open,Hard,G,2020-01-20,200615,Alexei Popyrin,AUS,104542,Jo-Wilfried Tsonga,FRA,113,623,62,1005
+Australian Open,Hard,G,2020-01-20,104545,John Isner,USA,106329,Thiago Monteiro,BRA,25,1850,84,804
+Australian Open,Hard,G,2020-01-20,126214,Alejandro Tabilo,CHI,123755,Daniel Elahi Galan,COL,169,382,115,599
+Australian Open,Hard,G,2020-01-20,104312,Andreas Seppi,ITA,200175,Miomir Kecmanovic,SRB,106,689,44,1308
+Australian Open,Hard,G,2020-01-20,104527,Stan Wawrinka,SUI,106000,Damir Dzumhur,BIH,18,2320,119,562
+Australian Open,Hard,G,2020-01-20,105676,David Goffin,BEL,104871,Jeremy Chardy,FRA,15,2555,75,860
+Australian Open,Hard,G,2020-01-20,105732,Pierre Hugues Herbert,FRA,111815,Cameron Norrie,GBR,83,812,71,877
+Australian Open,Hard,G,2020-01-20,105216,Yuichi Sugita,JPN,200611,Elliot Benchetrit,FRA,102,713,223,255
+Australian Open,Hard,G,2020-01-20,126094,Andrey Rublev,RUS,106331,Christopher O'Connell,AUS,8,4119,120,558
+Australian Open,Hard,G,2020-01-20,105932,Nikoloz Basilashvili,GEO,126952,Soon Woo Kwon,KOR,40,1395,95,752
+Australian Open,Hard,G,2020-01-20,104269,Fernando Verdasco,ESP,105539,Evgeny Donskoy,RUS,65,975,123,540
+Australian Open,Hard,G,2020-01-20,106078,Egor Gerasimov,BLR,134770,Casper Ruud,NOR,78,834,27,1739
+Australian Open,Hard,G,2020-01-20,100644,Alexander Zverev,GER,106065,Marco Cecchinato,ITA,7,5525,80,828
+Australian Open,Hard,G,2020-01-20,126610,Matteo Berrettini,ITA,106302,Andrew Harris,AUS,10,3075,229,251
+Australian Open,Hard,G,2020-01-20,105815,Tennys Sandgren,USA,105477,Marco Trungelliti,ARG,49,1081,241,226
+Australian Open,Hard,G,2020-01-20,105575,Ricardas Berankis,LTU,106148,Roberto Carballes Baena,ESP,69,889,97,731
+Australian Open,Hard,G,2020-01-20,105023,Sam Querrey,USA,106432,Borna Coric,CRO,53,1065,24,1855
+Australian Open,Hard,G,2020-01-20,105550,Guido Pella,ARG,105441,John Patrick Smith,AUS,43,1310,313,143
+Australian Open,Hard,G,2020-01-20,106296,Gregoire Barrere,FRA,105633,Mohamed Safwat,EGY,109,647,154,418
+Australian Open,Hard,G,2020-01-20,111442,Jordan Thompson,AUS,122330,Alexander Bublik,KAZ,51,1068,50,1070
+Australian Open,Hard,G,2020-01-20,104926,Fabio Fognini,ITA,124187,Reilly Opelka,USA,17,2400,39,1402
+Australian Open,Hard,G,2020-01-20,105916,Marton Fucsovics,HUN,133430,Denis Shapovalov,CAN,55,1062,12,2830
+Australian Open,Hard,G,2020-01-20,206173,Jannik Sinner,ITA,126845,Max Purcell,AUS,37,1444,239,238
+Australian Open,Hard,G,2020-01-20,126205,Tommy Paul,USA,104919,Leonardo Mayer,ARG,54,1065,135,482
+Australian Open,Hard,G,2020-01-20,105777,Grigor Dimitrov,BUL,106228,Juan Ignacio Londero,ARG,19,2260,79,832
+Australian Open,Hard,G,2020-01-20,128034,Hubert Hurkacz,POL,110602,Dennis Novak,AUT,34,1518,96,737
+Australian Open,Hard,G,2020-01-20,105357,John Millman,AUS,200005,Ugo Humbert,FRA,38,1421,30,1646
+Australian Open,Hard,G,2020-01-20,105936,Filip Krajinovic,SRB,111460,Quentin Halys,FRA,31,1628,203,310
+Australian Open,Hard,G,2020-01-20,103819,Roger Federer,SUI,105449,Steve Johnson,USA,5,6630,72,870
+Australian Open,Hard,G,2020-01-20,126774,Stefanos Tsitsipas,GRE,106099,Salvatore Caruso,ITA,6,5925,76,843
+Australian Open,Hard,G,2020-01-20,104259,Philipp Kohlschreiber,GER,106218,Marcos Giron,USA,98,729,73,869
+Australian Open,Hard,G,2020-01-20,106426,Christian Garin,CHI,105882,Stefano Travaglia,ITA,22,2170,74,869
+Australian Open,Hard,G,2020-01-20,105683,Milos Raonic,CAN,105841,Lorenzo Giustino,ITA,14,2580,152,426
+Australian Open,Hard,G,2020-01-20,105332,Benoit Paire,FRA,105649,Cedrik Marcel Stebe,GER,28,1738,126,529
+Australian Open,Hard,G,2020-01-20,105227,Marin Cilic,CRO,144895,Corentin Moutet,FRA,42,1325,77,838
+Australian Open,Hard,G,2020-01-20,111581,Michael Mmoh,USA,104665,Pablo Andujar,ESP,174,368,60,1024
+Australian Open,Hard,G,2020-01-20,105138,Roberto Bautista Agut,ESP,103852,Feliciano Lopez,ESP,13,2710,64,998
+Australian Open,Hard,G,2020-01-20,106043,Diego Schwartzman,ARG,144750,Lloyd Harris,RSA,9,3455,87,793
+Australian Open,Hard,G,2020-01-20,200221,Alejandro Davidovich Fokina,ESP,105613,Norbert Gombos,SVK,52,1066,88,789
+Australian Open,Hard,G,2020-01-20,117360,Marc Polmans,AUS,105062,Mikhail Kukushkin,KAZ,124,539,89,776
+Australian Open,Hard,G,2020-01-20,105583,Dusan Lajovic,SRB,106378,Kyle Edmund,GBR,26,1785,48,1085
+Australian Open,Hard,G,2020-01-20,105554,Daniel Evans,GBR,111456,Mackenzie McDonald,USA,32,1589,193,335
+Australian Open,Hard,G,2020-01-20,106415,Yoshihito Nishioka,JPN,111513,Laslo Djere,SRB,56,1062,57,1058
+Australian Open,Hard,G,2020-01-20,105147,Tatsuma Ito,JPN,105432,Prajnesh Gunneswaran,IND,186,342,129,506
+Australian Open,Hard,G,2020-01-20,104925,Novak Djokovic,SRB,105526,Jan Lennard Struff,GER,1,12030,36,1450
+Australian Open,Hard,G,2020-01-20,104745,Rafael Nadal,ESP,105643,Federico Delbonis,ARG,2,9850,82,825
+Australian Open,Hard,G,2020-01-20,105807,Pablo Carreno Busta,ESP,105376,Peter Gojowczyk,GER,16,2535,145,454
+Australian Open,Hard,G,2020-01-20,106401,Nick Kyrgios,AUS,104468,Gilles Simon,FRA,45,1170,63,1005
+Australian Open,Hard,G,2020-01-20,111575,Karen Khachanov,RUS,144707,Mikael Ymer,SWE,20,2245,94,763
+Australian Open,Hard,G,2020-01-20,104792,Gael Monfils,FRA,103333,Ivo Karlovic,CRO,11,2860,147,444
+Australian Open,Hard,G,2020-01-20,105208,Ernests Gulbis,LAT,105379,Aljaz Bedene,SLO,181,351,58,1045
+Australian Open,Hard,G,2020-01-20,126203,Taylor Fritz,USA,104731,Kevin Anderson,RSA,29,1670,81,825
+Australian Open,Hard,G,2020-01-20,106233,Dominic Thiem,AUT,106109,Alex Bolt,AUS,3,9125,171,380
+Australian Open,Hard,G,2020-01-20,106421,Daniil Medvedev,RUS,124079,Pedro Martinez,ESP,4,8470,85,800
+Australian Open,Hard,G,2020-01-20,200615,Alexei Popyrin,AUS,144719,Jaume Munar,ESP,113,623,110,646
+Australian Open,Hard,G,2020-01-20,104545,John Isner,USA,126214,Alejandro Tabilo,CHI,25,1850,169,382
+Australian Open,Hard,G,2020-01-20,104527,Stan Wawrinka,SUI,104312,Andreas Seppi,ITA,18,2320,106,689
+Australian Open,Hard,G,2020-01-20,105676,David Goffin,BEL,105732,Pierre Hugues Herbert,FRA,15,2555,83,812
+Australian Open,Hard,G,2020-01-20,126094,Andrey Rublev,RUS,105216,Yuichi Sugita,JPN,8,4119,102,713
+Australian Open,Hard,G,2020-01-20,104269,Fernando Verdasco,ESP,105932,Nikoloz Basilashvili,GEO,65,975,40,1395
+Australian Open,Hard,G,2020-01-20,100644,Alexander Zverev,GER,106078,Egor Gerasimov,BLR,7,5525,78,834
+Australian Open,Hard,G,2020-01-20,105815,Tennys Sandgren,USA,126610,Matteo Berrettini,ITA,49,1081,10,3075
+Australian Open,Hard,G,2020-01-20,105023,Sam Querrey,USA,105575,Ricardas Berankis,LTU,53,1065,69,889
+Australian Open,Hard,G,2020-01-20,105550,Guido Pella,ARG,106296,Gregoire Barrere,FRA,43,1310,109,647
+Australian Open,Hard,G,2020-01-20,104926,Fabio Fognini,ITA,111442,Jordan Thompson,AUS,17,2400,51,1068
+Australian Open,Hard,G,2020-01-20,105916,Marton Fucsovics,HUN,206173,Jannik Sinner,ITA,55,1062,37,1444
+Australian Open,Hard,G,2020-01-20,126205,Tommy Paul,USA,105777,Grigor Dimitrov,BUL,54,1065,19,2260
+Australian Open,Hard,G,2020-01-20,105357,John Millman,AUS,128034,Hubert Hurkacz,POL,38,1421,34,1518
+Australian Open,Hard,G,2020-01-20,103819,Roger Federer,SUI,105936,Filip Krajinovic,SRB,5,6630,31,1628
+Australian Open,Hard,G,2020-01-20,126774,Stefanos Tsitsipas,GRE,104259,Philipp Kohlschreiber,GER,6,5925,98,729
+Australian Open,Hard,G,2020-01-20,105683,Milos Raonic,CAN,106426,Christian Garin,CHI,14,2580,22,2170
+Australian Open,Hard,G,2020-01-20,105227,Marin Cilic,CRO,105332,Benoit Paire,FRA,42,1325,28,1738
+Australian Open,Hard,G,2020-01-20,105138,Roberto Bautista Agut,ESP,111581,Michael Mmoh,USA,13,2710,174,368
+Australian Open,Hard,G,2020-01-20,106043,Diego Schwartzman,ARG,200221,Alejandro Davidovich Fokina,ESP,9,3455,52,1066
+Australian Open,Hard,G,2020-01-20,105583,Dusan Lajovic,SRB,117360,Marc Polmans,AUS,26,1785,124,539
+Australian Open,Hard,G,2020-01-20,106415,Yoshihito Nishioka,JPN,105554,Daniel Evans,GBR,56,1062,32,1589
+Australian Open,Hard,G,2020-01-20,104925,Novak Djokovic,SRB,105147,Tatsuma Ito,JPN,1,12030,186,342
+Australian Open,Hard,G,2020-01-20,104745,Rafael Nadal,ESP,105807,Pablo Carreno Busta,ESP,2,9850,16,2535
+Australian Open,Hard,G,2020-01-20,106401,Nick Kyrgios,AUS,111575,Karen Khachanov,RUS,45,1170,20,2245
+Australian Open,Hard,G,2020-01-20,104792,Gael Monfils,FRA,105208,Ernests Gulbis,LAT,11,2860,181,351
+Australian Open,Hard,G,2020-01-20,106233,Dominic Thiem,AUT,126203,Taylor Fritz,USA,3,9125,29,1670
+Australian Open,Hard,G,2020-01-20,106421,Daniil Medvedev,RUS,200615,Alexei Popyrin,AUS,4,8470,113,623
+Australian Open,Hard,G,2020-01-20,104527,Stan Wawrinka,SUI,104545,John Isner,USA,18,2320,25,1850
+Australian Open,Hard,G,2020-01-20,126094,Andrey Rublev,RUS,105676,David Goffin,BEL,8,4119,15,2555
+Australian Open,Hard,G,2020-01-20,100644,Alexander Zverev,GER,104269,Fernando Verdasco,ESP,7,5525,65,975
+Australian Open,Hard,G,2020-01-20,105815,Tennys Sandgren,USA,105023,Sam Querrey,USA,49,1081,53,1065
+Australian Open,Hard,G,2020-01-20,104926,Fabio Fognini,ITA,105550,Guido Pella,ARG,17,2400,43,1310
+Australian Open,Hard,G,2020-01-20,105916,Marton Fucsovics,HUN,126205,Tommy Paul,USA,55,1062,54,1065
+Australian Open,Hard,G,2020-01-20,103819,Roger Federer,SUI,105357,John Millman,AUS,5,6630,38,1421
+Australian Open,Hard,G,2020-01-20,105683,Milos Raonic,CAN,126774,Stefanos Tsitsipas,GRE,14,2580,6,5925
+Australian Open,Hard,G,2020-01-20,105227,Marin Cilic,CRO,105138,Roberto Bautista Agut,ESP,42,1325,13,2710
+Australian Open,Hard,G,2020-01-20,106043,Diego Schwartzman,ARG,105583,Dusan Lajovic,SRB,9,3455,26,1785
+Australian Open,Hard,G,2020-01-20,104925,Novak Djokovic,SRB,106415,Yoshihito Nishioka,JPN,1,12030,56,1062
+Australian Open,Hard,G,2020-01-20,104745,Rafael Nadal,ESP,106401,Nick Kyrgios,AUS,2,9850,45,1170
+Australian Open,Hard,G,2020-01-20,106233,Dominic Thiem,AUT,104792,Gael Monfils,FRA,3,9125,11,2860
+Australian Open,Hard,G,2020-01-20,104527,Stan Wawrinka,SUI,106421,Daniil Medvedev,RUS,18,2320,4,8470
+Australian Open,Hard,G,2020-01-20,100644,Alexander Zverev,GER,126094,Andrey Rublev,RUS,7,5525,8,4119
+Australian Open,Hard,G,2020-01-20,105815,Tennys Sandgren,USA,104926,Fabio Fognini,ITA,49,1081,17,2400
+Australian Open,Hard,G,2020-01-20,103819,Roger Federer,SUI,105916,Marton Fucsovics,HUN,5,6630,55,1062
+Australian Open,Hard,G,2020-01-20,105683,Milos Raonic,CAN,105227,Marin Cilic,CRO,14,2580,42,1325
+Australian Open,Hard,G,2020-01-20,104925,Novak Djokovic,SRB,106043,Diego Schwartzman,ARG,1,12030,9,3455
+Australian Open,Hard,G,2020-01-20,106233,Dominic Thiem,AUT,104745,Rafael Nadal,ESP,3,9125,2,9850
+Australian Open,Hard,G,2020-01-20,100644,Alexander Zverev,GER,104527,Stan Wawrinka,SUI,7,5525,18,2320
+Australian Open,Hard,G,2020-01-20,103819,Roger Federer,SUI,105815,Tennys Sandgren,USA,5,6630,49,1081
+Australian Open,Hard,G,2020-01-20,104925,Novak Djokovic,SRB,105683,Milos Raonic,CAN,1,12030,14,2580
+Australian Open,Hard,G,2020-01-20,106233,Dominic Thiem,AUT,100644,Alexander Zverev,GER,3,9125,7,5525
+Australian Open,Hard,G,2020-01-20,104925,Novak Djokovic,SRB,103819,Roger Federer,SUI,1,12030,5,6630
+Australian Open,Hard,G,2020-01-20,104925,Novak Djokovic,SRB,106233,Dominic Thiem,AUT,1,12030,3,9125
+Cordoba,Clay,A,2020-02-03,106426,Christian Garin,CHI,106043,Diego Schwartzman,ARG,22,2170,9,3455
+Cordoba,Clay,A,2020-02-03,106043,Diego Schwartzman,ARG,111513,Laslo Djere,SRB,9,3455,57,1058
+Cordoba,Clay,A,2020-02-03,106426,Christian Garin,CHI,105413,Andrej Martin,SVK,22,2170,101,724
+Cordoba,Clay,A,2020-02-03,106043,Diego Schwartzman,ARG,105077,Albert Ramos,ESP,9,3455,46,1165
+Cordoba,Clay,A,2020-02-03,111513,Laslo Djere,SRB,106228,Juan Ignacio Londero,ARG,57,1058,79,832
+Cordoba,Clay,A,2020-02-03,106426,Christian Garin,CHI,104655,Pablo Cuevas,URU,22,2170,67,917
+Cordoba,Clay,A,2020-02-03,105413,Andrej Martin,SVK,144895,Corentin Moutet,FRA,101,724,77,838
+Cordoba,Clay,A,2020-02-03,106043,Diego Schwartzman,ARG,144719,Jaume Munar,ESP,9,3455,110,646
+Cordoba,Clay,A,2020-02-03,105077,Albert Ramos,ESP,104665,Pablo Andujar,ESP,46,1165,60,1024
+Cordoba,Clay,A,2020-02-03,111513,Laslo Djere,SRB,124079,Pedro Martinez,ESP,57,1058,85,800
+Cordoba,Clay,A,2020-02-03,106228,Juan Ignacio Londero,ARG,106398,Pedro Cachin,ARG,79,832,368,111
+Cordoba,Clay,A,2020-02-03,104655,Pablo Cuevas,URU,126149,Gianluca Mager,ITA,67,917,100,725
+Cordoba,Clay,A,2020-02-03,106426,Christian Garin,CHI,105226,Attila Balazs,HUN,22,2170,92,774
+Cordoba,Clay,A,2020-02-03,105413,Andrej Martin,SVK,126535,Carlos Taberner,ESP,101,724,143,457
+Cordoba,Clay,A,2020-02-03,144895,Corentin Moutet,FRA,105550,Guido Pella,ARG,77,838,43,1310
+Cordoba,Clay,A,2020-02-03,144719,Jaume Munar,ESP,104919,Leonardo Mayer,ARG,110,646,135,482
+Cordoba,Clay,A,2020-02-03,104665,Pablo Andujar,ESP,106110,Filip Horansky,SVK,60,1024,185,345
+Cordoba,Clay,A,2020-02-03,105077,Albert Ramos,ESP,105487,Facundo Bagnis,ARG,46,1165,125,531
+Cordoba,Clay,A,2020-02-03,124079,Pedro Martinez,ESP,105943,Federico Gaio,ITA,85,800,137,474
+Cordoba,Clay,A,2020-02-03,106398,Pedro Cachin,ARG,106198,Hugo Dellien,BOL,368,111,111,638
+Cordoba,Clay,A,2020-02-03,106228,Juan Ignacio Londero,ARG,106065,Marco Cecchinato,ITA,79,832,80,828
+Cordoba,Clay,A,2020-02-03,104655,Pablo Cuevas,URU,105643,Federico Delbonis,ARG,67,917,82,825
+Cordoba,Clay,A,2020-02-03,126149,Gianluca Mager,ITA,126663,Juan Pablo Ficovich,ARG,100,725,206,304
+Cordoba,Clay,A,2020-02-03,105226,Attila Balazs,HUN,132283,Lorenzo Sonego,ITA,92,774,33,1568
+Cordoba,Clay,A,2020-02-03,126535,Carlos Taberner,ESP,104269,Fernando Verdasco,ESP,143,457,65,975
+Cordoba,Clay,A,2020-02-03,105413,Andrej Martin,SVK,105948,Federico Coria,ARG,101,724,91,775
+Cordoba,Clay,A,2020-02-03,144895,Corentin Moutet,FRA,106329,Thiago Monteiro,BRA,77,838,84,804
+Montpellier,Hard,A,2020-02-03,104792,Gael Monfils,FRA,105577,Vasek Pospisil,CAN,11,2860,61,1006
+Montpellier,Hard,A,2020-02-03,104792,Gael Monfils,FRA,105936,Filip Krajinovic,SRB,11,2860,31,1628
+Montpellier,Hard,A,2020-02-03,105577,Vasek Pospisil,CAN,105676,David Goffin,BEL,61,1006,15,2555
+Montpellier,Hard,A,2020-02-03,104792,Gael Monfils,FRA,105613,Norbert Gombos,SVK,11,2860,88,789
+Montpellier,Hard,A,2020-02-03,105936,Filip Krajinovic,SRB,106296,Gregoire Barrere,FRA,31,1628,109,647
+Montpellier,Hard,A,2020-02-03,105577,Vasek Pospisil,CAN,104755,Richard Gasquet,FRA,61,1006,47,1145
+Montpellier,Hard,A,2020-02-03,105676,David Goffin,BEL,105732,Pierre Hugues Herbert,FRA,15,2555,83,812
+Montpellier,Hard,A,2020-02-03,104792,Gael Monfils,FRA,105173,Adrian Mannarino,FRA,11,2860,35,1516
+Montpellier,Hard,A,2020-02-03,105613,Norbert Gombos,SVK,200325,Emil Ruusuvuori,FIN,88,789,86,796
+Montpellier,Hard,A,2020-02-03,106296,Gregoire Barrere,FRA,105777,Grigor Dimitrov,BUL,109,647,19,2260
+Montpellier,Hard,A,2020-02-03,105936,Filip Krajinovic,SRB,144707,Mikael Ymer,SWE,31,1628,94,763
+Montpellier,Hard,A,2020-02-03,104755,Richard Gasquet,FRA,103852,Feliciano Lopez,ESP,47,1145,64,998
+Montpellier,Hard,A,2020-02-03,105577,Vasek Pospisil,CAN,133430,Denis Shapovalov,CAN,61,1006,12,2830
+Montpellier,Hard,A,2020-02-03,105732,Pierre Hugues Herbert,FRA,200000,Felix Auger Aliassime,CAN,83,812,21,2216
+Montpellier,Hard,A,2020-02-03,105676,David Goffin,BEL,122330,Alexander Bublik,KAZ,15,2555,50,1070
+Montpellier,Hard,A,2020-02-03,105173,Adrian Mannarino,FRA,200615,Alexei Popyrin,AUS,35,1516,113,623
+Montpellier,Hard,A,2020-02-03,200325,Emil Ruusuvuori,FIN,110602,Dennis Novak,AUT,86,796,96,737
+Montpellier,Hard,A,2020-02-03,105613,Norbert Gombos,SVK,105807,Pablo Carreno Busta,ESP,88,789,16,2535
+Montpellier,Hard,A,2020-02-03,106296,Gregoire Barrere,FRA,105311,Joao Sousa,POR,109,647,90,776
+Montpellier,Hard,A,2020-02-03,144707,Mikael Ymer,SWE,206173,Jannik Sinner,ITA,94,763,37,1444
+Montpellier,Hard,A,2020-02-03,105936,Filip Krajinovic,SRB,111505,Enzo Couacaud,FRA,31,1628,211,287
+Montpellier,Hard,A,2020-02-03,103852,Feliciano Lopez,ESP,200005,Ugo Humbert,FRA,64,998,30,1646
+Montpellier,Hard,A,2020-02-03,104755,Richard Gasquet,FRA,104468,Gilles Simon,FRA,47,1145,63,1005
+Montpellier,Hard,A,2020-02-03,105577,Vasek Pospisil,CAN,105379,Aljaz Bedene,SLO,61,1006,58,1045
+Montpellier,Hard,A,2020-02-03,200000,Felix Auger Aliassime,CAN,106000,Damir Dzumhur,BIH,21,2216,119,562
+Montpellier,Hard,A,2020-02-03,105732,Pierre Hugues Herbert,FRA,104660,Sergiy Stakhovsky,UKR,83,812,202,322
+Montpellier,Hard,A,2020-02-03,122330,Alexander Bublik,KAZ,105967,Henri Laaksonen,SUI,50,1070,134,485
+Pune,Hard,A,2020-02-03,106210,Jiri Vesely,CZE,106078,Egor Gerasimov,BLR,68,913,78,834
+Pune,Hard,A,2020-02-03,106078,Egor Gerasimov,BLR,105902,James Duckworth,AUS,78,834,103,701
+Pune,Hard,A,2020-02-03,106210,Jiri Vesely,CZE,105575,Ricardas Berankis,LTU,68,913,69,889
+Pune,Hard,A,2020-02-03,105902,James Duckworth,AUS,105406,Roberto Marcora,ITA,103,701,180,352
+Pune,Hard,A,2020-02-03,106078,Egor Gerasimov,BLR,126952,Soon Woo Kwon,KOR,78,834,95,752
+Pune,Hard,A,2020-02-03,106210,Jiri Vesely,CZE,125802,Ilya Ivashka,BLR,68,913,108,674
+Pune,Hard,A,2020-02-03,105575,Ricardas Berankis,LTU,105216,Yuichi Sugita,JPN,69,889,102,713
+Pune,Hard,A,2020-02-03,105406,Roberto Marcora,ITA,105332,Benoit Paire,FRA,180,352,28,1738
+Pune,Hard,A,2020-02-03,105902,James Duckworth,AUS,106121,Taro Daniel,JPN,103,701,117,581
+Pune,Hard,A,2020-02-03,126952,Soon Woo Kwon,KOR,105432,Prajnesh Gunneswaran,IND,95,752,129,506
+Pune,Hard,A,2020-02-03,106078,Egor Gerasimov,BLR,110748,Nikola Milojevic,SRB,78,834,138,472
+Pune,Hard,A,2020-02-03,106210,Jiri Vesely,CZE,106099,Salvatore Caruso,ITA,68,913,76,843
+Pune,Hard,A,2020-02-03,125802,Ilya Ivashka,BLR,105882,Stefano Travaglia,ITA,108,674,74,869
+Pune,Hard,A,2020-02-03,105216,Yuichi Sugita,JPN,104678,Viktor Troicki,SRB,102,713,201,323
+Pune,Hard,A,2020-02-03,105575,Ricardas Berankis,LTU,105649,Cedrik Marcel Stebe,GER,69,889,126,529
+Pune,Hard,A,2020-02-03,105406,Roberto Marcora,ITA,104586,Lukas Rosol,CZE,180,352,199,327
+Pune,Hard,A,2020-02-03,106121,Taro Daniel,JPN,124154,Sasi Kumar Mukund,IND,117,581,300,157
+Pune,Hard,A,2020-02-03,105902,James Duckworth,AUS,105376,Peter Gojowczyk,GER,103,701,145,454
+Pune,Hard,A,2020-02-03,105432,Prajnesh Gunneswaran,IND,120424,Yannick Maden,GER,129,506,173,378
+Pune,Hard,A,2020-02-03,110748,Nikola Milojevic,SRB,126156,Antoine Hoang,FRA,138,472,121,550
+Pune,Hard,A,2020-02-03,106078,Egor Gerasimov,BLR,103893,Paolo Lorenzi,ITA,78,834,146,450
+Pune,Hard,A,2020-02-03,106099,Salvatore Caruso,ITA,106368,Ramkumar Ramanathan,IND,76,843,190,340
+Pune,Hard,A,2020-02-03,106210,Jiri Vesely,CZE,111459,Arjun Kadhe,IND,68,913,662,34
+Pune,Hard,A,2020-02-03,125802,Ilya Ivashka,BLR,105539,Evgeny Donskoy,RUS,108,674,123,540
+Pune,Hard,A,2020-02-03,105216,Yuichi Sugita,JPN,105341,Thomas Fabbiano,ITA,102,713,172,379
+Pune,Hard,A,2020-02-03,104678,Viktor Troicki,SRB,111576,Sumit Nagal,IND,201,323,136,475
+Pune,Hard,A,2020-02-03,105649,Cedrik Marcel Stebe,GER,103333,Ivo Karlovic,CRO,126,529,147,444
+Buenos Aires,Clay,A,2020-02-10,134770,Casper Ruud,NOR,105155,Pedro Sousa,POR,27,1739,105,691
+Buenos Aires,Clay,A,2020-02-10,105155,Pedro Sousa,POR,106043,Diego Schwartzman,ARG,105,691,9,3455
+Buenos Aires,Clay,A,2020-02-10,134770,Casper Ruud,NOR,106228,Juan Ignacio Londero,ARG,27,1739,79,832
+Buenos Aires,Clay,A,2020-02-10,106043,Diego Schwartzman,ARG,104655,Pablo Cuevas,URU,9,3455,67,917
+Buenos Aires,Clay,A,2020-02-10,105155,Pedro Sousa,POR,106329,Thiago Monteiro,BRA,105,691,84,804
+Buenos Aires,Clay,A,2020-02-10,134770,Casper Ruud,NOR,105583,Dusan Lajovic,SRB,27,1739,26,1785
+Buenos Aires,Clay,A,2020-02-10,106228,Juan Ignacio Londero,ARG,105550,Guido Pella,ARG,79,832,43,1310
+Buenos Aires,Clay,A,2020-02-10,106043,Diego Schwartzman,ARG,105643,Federico Delbonis,ARG,9,3455,82,825
+Buenos Aires,Clay,A,2020-02-10,104655,Pablo Cuevas,URU,105077,Albert Ramos,ESP,67,917,46,1165
+Buenos Aires,Clay,A,2020-02-10,106329,Thiago Monteiro,BRA,106432,Borna Coric,CRO,84,804,24,1855
+Buenos Aires,Clay,A,2020-02-10,105155,Pedro Sousa,POR,106075,Jozef Kovalik,SVK,105,691,131,498
+Buenos Aires,Clay,A,2020-02-10,134770,Casper Ruud,NOR,106148,Roberto Carballes Baena,ESP,27,1739,97,731
+Buenos Aires,Clay,A,2020-02-10,105583,Dusan Lajovic,SRB,124079,Pedro Martinez,ESP,26,1785,85,800
+Buenos Aires,Clay,A,2020-02-10,106228,Juan Ignacio Londero,ARG,111513,Laslo Djere,SRB,79,832,57,1058
+Buenos Aires,Clay,A,2020-02-10,105550,Guido Pella,ARG,105487,Facundo Bagnis,ARG,43,1310,125,531
+Buenos Aires,Clay,A,2020-02-10,105643,Federico Delbonis,ARG,106198,Hugo Dellien,BOL,82,825,111,638
+Buenos Aires,Clay,A,2020-02-10,104655,Pablo Cuevas,URU,132283,Lorenzo Sonego,ITA,67,917,33,1568
+Buenos Aires,Clay,A,2020-02-10,105077,Albert Ramos,ESP,104919,Leonardo Mayer,ARG,46,1165,135,482
+Buenos Aires,Clay,A,2020-02-10,106329,Thiago Monteiro,BRA,144719,Jaume Munar,ESP,84,804,110,646
+Buenos Aires,Clay,A,2020-02-10,106075,Jozef Kovalik,SVK,144895,Corentin Moutet,FRA,131,498,77,838
+Buenos Aires,Clay,A,2020-02-10,105155,Pedro Sousa,POR,207680,Facundo Diaz Acosta,ARG,105,691,403,98
+Buenos Aires,Clay,A,2020-02-10,134770,Casper Ruud,NOR,104665,Pablo Andujar,ESP,27,1739,60,1024
+Buenos Aires,Clay,A,2020-02-10,106148,Roberto Carballes Baena,ESP,106065,Marco Cecchinato,ITA,97,731,80,828
+Buenos Aires,Clay,A,2020-02-10,124079,Pedro Martinez,ESP,106249,Joao Domingues,POR,85,800,176,364
+Buenos Aires,Clay,A,2020-02-10,111513,Laslo Djere,SRB,202103,Francisco Cerundolo,ARG,57,1058,139,471
+Buenos Aires,Clay,A,2020-02-10,106228,Juan Ignacio Londero,ARG,106110,Filip Horansky,SVK,79,832,185,345
+Buenos Aires,Clay,A,2020-02-10,105487,Facundo Bagnis,ARG,105413,Andrej Martin,SVK,125,531,101,724
+New York,Hard,A,2020-02-10,106378,Kyle Edmund,GBR,104312,Andreas Seppi,ITA,48,1085,106,689
+New York,Hard,A,2020-02-10,104312,Andreas Seppi,ITA,105359,Jason Jung,TPE,106,689,132,490
+New York,Hard,A,2020-02-10,106378,Kyle Edmund,GBR,200175,Miomir Kecmanovic,SRB,48,1085,44,1308
+New York,Hard,A,2020-02-10,104312,Andreas Seppi,ITA,111442,Jordan Thompson,AUS,106,689,51,1068
+New York,Hard,A,2020-02-10,105359,Jason Jung,TPE,124187,Reilly Opelka,USA,132,490,39,1402
+New York,Hard,A,2020-02-10,200175,Miomir Kecmanovic,SRB,200005,Ugo Humbert,FRA,44,1308,30,1646
+New York,Hard,A,2020-02-10,106378,Kyle Edmund,GBR,126952,Soon Woo Kwon,KOR,48,1085,95,752
+New York,Hard,A,2020-02-10,111442,Jordan Thompson,AUS,104545,John Isner,USA,51,1068,25,1850
+New York,Hard,A,2020-02-10,104312,Andreas Seppi,ITA,105449,Steve Johnson,USA,106,689,72,870
+New York,Hard,A,2020-02-10,124187,Reilly Opelka,USA,106415,Yoshihito Nishioka,JPN,39,1402,56,1062
+New York,Hard,A,2020-02-10,105359,Jason Jung,TPE,111815,Cameron Norrie,GBR,132,490,71,877
+New York,Hard,A,2020-02-10,200175,Miomir Kecmanovic,SRB,103893,Paolo Lorenzi,ITA,44,1308,146,450
+New York,Hard,A,2020-02-10,200005,Ugo Humbert,FRA,106218,Marcos Giron,USA,30,1646,73,869
+New York,Hard,A,2020-02-10,106378,Kyle Edmund,GBR,136440,Dominik Koepfer,GER,48,1085,66,921
+New York,Hard,A,2020-02-10,126952,Soon Woo Kwon,KOR,105683,Milos Raonic,CAN,95,752,14,2580
+New York,Hard,A,2020-02-10,111442,Jordan Thompson,AUS,103333,Ivo Karlovic,CRO,51,1068,147,444
+New York,Hard,A,2020-02-10,104312,Andreas Seppi,ITA,106000,Damir Dzumhur,BIH,106,689,119,562
+New York,Hard,A,2020-02-10,105449,Steve Johnson,USA,105815,Tennys Sandgren,USA,72,870,49,1081
+New York,Hard,A,2020-02-10,106415,Yoshihito Nishioka,JPN,105967,Henri Laaksonen,SUI,56,1062,134,485
+New York,Hard,A,2020-02-10,105359,Jason Jung,TPE,104731,Kevin Anderson,RSA,132,490,81,825
+New York,Hard,A,2020-02-10,111815,Cameron Norrie,GBR,208108,Brian Shi,USA,71,877,0,0
+New York,Hard,A,2020-02-10,200175,Miomir Kecmanovic,SRB,126205,Tommy Paul,USA,44,1308,54,1065
+New York,Hard,A,2020-02-10,103893,Paolo Lorenzi,ITA,105905,Danilo Petrovic,SRB,146,450,142,458
+New York,Hard,A,2020-02-10,106218,Marcos Giron,USA,106058,Jack Sock,USA,73,869,253,217
+New York,Hard,A,2020-02-10,106378,Kyle Edmund,GBR,106034,Yasutaka Uchiyama,JPN,48,1085,104,696
+New York,Hard,A,2020-02-10,136440,Dominik Koepfer,GER,111790,Brayden Schnur,CAN,66,921,208,301
+New York,Hard,A,2020-02-10,126952,Soon Woo Kwon,KOR,104424,Go Soeda,JPN,95,752,133,490
+Rotterdam,Hard,A,2020-02-10,104792,Gael Monfils,FRA,200000,Felix Auger Aliassime,CAN,11,2860,21,2216
+Rotterdam,Hard,A,2020-02-10,104792,Gael Monfils,FRA,105936,Filip Krajinovic,SRB,11,2860,31,1628
+Rotterdam,Hard,A,2020-02-10,200000,Felix Auger Aliassime,CAN,105807,Pablo Carreno Busta,ESP,21,2216,16,2535
+Rotterdam,Hard,A,2020-02-10,105936,Filip Krajinovic,SRB,126094,Andrey Rublev,RUS,31,1628,8,4119
+Rotterdam,Hard,A,2020-02-10,104792,Gael Monfils,FRA,105554,Daniel Evans,GBR,11,2860,32,1589
+Rotterdam,Hard,A,2020-02-10,105807,Pablo Carreno Busta,ESP,206173,Jannik Sinner,ITA,16,2535,37,1444
+Rotterdam,Hard,A,2020-02-10,200000,Felix Auger Aliassime,CAN,105379,Aljaz Bedene,SLO,21,2216,58,1045
+Rotterdam,Hard,A,2020-02-10,105936,Filip Krajinovic,SRB,105577,Vasek Pospisil,CAN,31,1628,61,1006
+Rotterdam,Hard,A,2020-02-10,126094,Andrey Rublev,RUS,122330,Alexander Bublik,KAZ,8,4119,50,1070
+Rotterdam,Hard,A,2020-02-10,104792,Gael Monfils,FRA,104468,Gilles Simon,FRA,11,2860,63,1005
+Rotterdam,Hard,A,2020-02-10,105554,Daniel Evans,GBR,111575,Karen Khachanov,RUS,32,1589,20,2245
+Rotterdam,Hard,A,2020-02-10,105807,Pablo Carreno Busta,ESP,105138,Roberto Bautista Agut,ESP,16,2535,13,2710
+Rotterdam,Hard,A,2020-02-10,206173,Jannik Sinner,ITA,105676,David Goffin,BEL,37,1444,15,2555
+Rotterdam,Hard,A,2020-02-10,200000,Felix Auger Aliassime,CAN,105777,Grigor Dimitrov,BUL,21,2216,19,2260
+Rotterdam,Hard,A,2020-02-10,105379,Aljaz Bedene,SLO,126774,Stefanos Tsitsipas,GRE,58,1045,6,5925
+Rotterdam,Hard,A,2020-02-10,105577,Vasek Pospisil,CAN,106421,Daniil Medvedev,RUS,61,1006,4,8470
+Rotterdam,Hard,A,2020-02-10,105936,Filip Krajinovic,SRB,134868,Tallon Griekspoor,NED,31,1628,153,423
+Rotterdam,Hard,A,2020-02-10,122330,Alexander Bublik,KAZ,106296,Gregoire Barrere,FRA,50,1070,109,647
+Rotterdam,Hard,A,2020-02-10,126094,Andrey Rublev,RUS,105932,Nikoloz Basilashvili,GEO,8,4119,40,1395
+Rotterdam,Hard,A,2020-02-10,104792,Gael Monfils,FRA,105311,Joao Sousa,POR,11,2860,90,776
+Rotterdam,Hard,A,2020-02-10,104468,Gilles Simon,FRA,105062,Mikhail Kukushkin,KAZ,63,1005,89,776
+Rotterdam,Hard,A,2020-02-10,105554,Daniel Evans,GBR,104259,Philipp Kohlschreiber,GER,32,1589,98,729
+Rotterdam,Hard,A,2020-02-10,111575,Karen Khachanov,RUS,104926,Fabio Fognini,ITA,20,2245,17,2400
+Rotterdam,Hard,A,2020-02-10,105138,Roberto Bautista Agut,ESP,105916,Marton Fucsovics,HUN,13,2710,55,1062
+Rotterdam,Hard,A,2020-02-10,105807,Pablo Carreno Busta,ESP,105173,Adrian Mannarino,FRA,16,2535,35,1516
+Rotterdam,Hard,A,2020-02-10,206173,Jannik Sinner,ITA,105430,Radu Albot,MDA,37,1444,93,772
+Rotterdam,Hard,A,2020-02-10,105676,David Goffin,BEL,104898,Robin Haase,NED,15,2555,197,330
+Rotterdam,Hard,A,2020-02-10,105777,Grigor Dimitrov,BUL,133430,Denis Shapovalov,CAN,19,2260,12,2830
+Rotterdam,Hard,A,2020-02-10,200000,Felix Auger Aliassime,CAN,105526,Jan Lennard Struff,GER,21,2216,36,1450
+Rotterdam,Hard,A,2020-02-10,105379,Aljaz Bedene,SLO,105332,Benoit Paire,FRA,58,1045,28,1738
+Rotterdam,Hard,A,2020-02-10,126774,Stefanos Tsitsipas,GRE,128034,Hubert Hurkacz,POL,6,5925,34,1518
+Delray Beach,Hard,A,2020-02-17,124187,Reilly Opelka,USA,106415,Yoshihito Nishioka,JPN,39,1402,56,1062
+Delray Beach,Hard,A,2020-02-17,106415,Yoshihito Nishioka,JPN,200005,Ugo Humbert,FRA,56,1062,30,1646
+Delray Beach,Hard,A,2020-02-17,124187,Reilly Opelka,USA,105683,Milos Raonic,CAN,39,1402,14,2580
+Delray Beach,Hard,A,2020-02-17,200005,Ugo Humbert,FRA,126207,Frances Tiafoe,USA,30,1646,59,1030
+Delray Beach,Hard,A,2020-02-17,106415,Yoshihito Nishioka,JPN,206909,Brandon Nakashima,USA,56,1062,166,387
+Delray Beach,Hard,A,2020-02-17,124187,Reilly Opelka,USA,126952,Soon Woo Kwon,KOR,39,1402,95,752
+Delray Beach,Hard,A,2020-02-17,105683,Milos Raonic,CAN,105449,Steve Johnson,USA,14,2580,72,870
+Delray Beach,Hard,A,2020-02-17,126207,Frances Tiafoe,USA,126205,Tommy Paul,USA,59,1030,54,1065
+Delray Beach,Hard,A,2020-02-17,200005,Ugo Humbert,FRA,200175,Miomir Kecmanovic,SRB,30,1646,44,1308
+Delray Beach,Hard,A,2020-02-17,206909,Brandon Nakashima,USA,111815,Cameron Norrie,GBR,166,387,71,877
+Delray Beach,Hard,A,2020-02-17,106415,Yoshihito Nishioka,JPN,111511,Noah Rubin,USA,56,1062,250,219
+Delray Beach,Hard,A,2020-02-17,126952,Soon Woo Kwon,KOR,105992,Ryan Harrison,USA,95,752,478,73
+Delray Beach,Hard,A,2020-02-17,124187,Reilly Opelka,USA,111456,Mackenzie McDonald,USA,39,1402,193,335
+Delray Beach,Hard,A,2020-02-17,105449,Steve Johnson,USA,106058,Jack Sock,USA,72,870,253,217
+Delray Beach,Hard,A,2020-02-17,105683,Milos Raonic,CAN,105649,Cedrik Marcel Stebe,GER,14,2580,126,529
+Delray Beach,Hard,A,2020-02-17,126205,Tommy Paul,USA,123755,Daniel Elahi Galan,COL,54,1065,115,599
+Delray Beach,Hard,A,2020-02-17,126207,Frances Tiafoe,USA,105877,Emilio Gomez,ECU,59,1030,160,395
+Delray Beach,Hard,A,2020-02-17,200175,Miomir Kecmanovic,SRB,111442,Jordan Thompson,AUS,44,1308,51,1068
+Delray Beach,Hard,A,2020-02-17,200005,Ugo Humbert,FRA,111578,Stefan Kozlov,USA,30,1646,370,110
+Delray Beach,Hard,A,2020-02-17,111815,Cameron Norrie,GBR,126203,Taylor Fritz,USA,71,877,29,1670
+Delray Beach,Hard,A,2020-02-17,206909,Brandon Nakashima,USA,106210,Jiri Vesely,CZE,166,387,68,913
+Delray Beach,Hard,A,2020-02-17,111511,Noah Rubin,USA,105359,Jason Jung,TPE,250,219,132,490
+Delray Beach,Hard,A,2020-02-17,106415,Yoshihito Nishioka,JPN,105357,John Millman,AUS,56,1062,38,1421
+Delray Beach,Hard,A,2020-02-17,126952,Soon Woo Kwon,KOR,105173,Adrian Mannarino,FRA,95,752,35,1516
+Delray Beach,Hard,A,2020-02-17,105992,Ryan Harrison,USA,106000,Damir Dzumhur,BIH,478,73,119,562
+Delray Beach,Hard,A,2020-02-17,111456,Mackenzie McDonald,USA,106034,Yasutaka Uchiyama,JPN,193,335,104,696
+Delray Beach,Hard,A,2020-02-17,124187,Reilly Opelka,USA,105208,Ernests Gulbis,LAT,39,1402,181,351
+Delray Beach,Hard,A,2020-02-17,106058,Jack Sock,USA,105430,Radu Albot,MDA,253,217,93,772
+Delray Beach,Hard,A,2020-02-17,105449,Steve Johnson,USA,105967,Henri Laaksonen,SUI,72,870,134,485
+Delray Beach,Hard,A,2020-02-17,105649,Cedrik Marcel Stebe,GER,106071,Bernard Tomic,AUS,126,529,226,253
+Delray Beach,Hard,A,2020-02-17,105683,Milos Raonic,CAN,104797,Denis Istomin,UZB,14,2580,184,348
+Marseille,Hard,A,2020-02-17,126774,Stefanos Tsitsipas,GRE,200000,Felix Auger Aliassime,CAN,6,5925,21,2216
+Marseille,Hard,A,2020-02-17,200000,Felix Auger Aliassime,CAN,104468,Gilles Simon,FRA,21,2216,63,1005
+Marseille,Hard,A,2020-02-17,126774,Stefanos Tsitsipas,GRE,122330,Alexander Bublik,KAZ,6,5925,50,1070
+Marseille,Hard,A,2020-02-17,104468,Gilles Simon,FRA,106421,Daniil Medvedev,RUS,63,1005,4,8470
+Marseille,Hard,A,2020-02-17,200000,Felix Auger Aliassime,CAN,106078,Egor Gerasimov,BLR,21,2216,78,834
+Marseille,Hard,A,2020-02-17,122330,Alexander Bublik,KAZ,133430,Denis Shapovalov,CAN,50,1070,12,2830
+Marseille,Hard,A,2020-02-17,126774,Stefanos Tsitsipas,GRE,105577,Vasek Pospisil,CAN,6,5925,61,1006
+Marseille,Hard,A,2020-02-17,106421,Daniil Medvedev,RUS,206173,Jannik Sinner,ITA,4,8470,37,1444
+Marseille,Hard,A,2020-02-17,104468,Gilles Simon,FRA,105379,Aljaz Bedene,SLO,63,1005,58,1045
+Marseille,Hard,A,2020-02-17,106078,Egor Gerasimov,BLR,105676,David Goffin,BEL,78,834,15,2555
+Marseille,Hard,A,2020-02-17,200000,Felix Auger Aliassime,CAN,105732,Pierre Hugues Herbert,FRA,21,2216,83,812
+Marseille,Hard,A,2020-02-17,122330,Alexander Bublik,KAZ,105332,Benoit Paire,FRA,50,1070,28,1738
+Marseille,Hard,A,2020-02-17,133430,Denis Shapovalov,CAN,105227,Marin Cilic,CRO,12,2830,42,1325
+Marseille,Hard,A,2020-02-17,105577,Vasek Pospisil,CAN,128034,Hubert Hurkacz,POL,61,1006,34,1518
+Marseille,Hard,A,2020-02-17,126774,Stefanos Tsitsipas,GRE,144707,Mikael Ymer,SWE,6,5925,94,763
+Marseille,Hard,A,2020-02-17,206173,Jannik Sinner,ITA,105613,Norbert Gombos,SVK,37,1444,88,789
+Marseille,Hard,A,2020-02-17,104468,Gilles Simon,FRA,208004,Harold Mayot,FRA,63,1005,426,88
+Marseille,Hard,A,2020-02-17,105379,Aljaz Bedene,SLO,111575,Karen Khachanov,RUS,58,1045,20,2245
+Marseille,Hard,A,2020-02-17,106078,Egor Gerasimov,BLR,110602,Dennis Novak,AUT,78,834,96,737
+Marseille,Hard,A,2020-02-17,105732,Pierre Hugues Herbert,FRA,105062,Mikhail Kukushkin,KAZ,83,812,89,776
+Marseille,Hard,A,2020-02-17,200000,Felix Auger Aliassime,CAN,105882,Stefano Travaglia,ITA,21,2216,74,869
+Marseille,Hard,A,2020-02-17,105332,Benoit Paire,FRA,106296,Gregoire Barrere,FRA,28,1738,109,647
+Marseille,Hard,A,2020-02-17,122330,Alexander Bublik,KAZ,105916,Marton Fucsovics,HUN,50,1070,55,1062
+Marseille,Hard,A,2020-02-17,105227,Marin Cilic,CRO,125802,Ilya Ivashka,BLR,42,1325,108,674
+Marseille,Hard,A,2020-02-17,128034,Hubert Hurkacz,POL,126156,Antoine Hoang,FRA,34,1518,121,550
+Marseille,Hard,A,2020-02-17,105577,Vasek Pospisil,CAN,200325,Emil Ruusuvuori,FIN,61,1006,86,796
+Marseille,Hard,A,2020-02-17,144707,Mikael Ymer,SWE,104755,Richard Gasquet,FRA,94,763,47,1145
+Rio De Janeiro,Clay,A,2020-02-17,106426,Christian Garin,CHI,126149,Gianluca Mager,ITA,22,2170,100,725
+Rio De Janeiro,Clay,A,2020-02-17,126149,Gianluca Mager,ITA,105226,Attila Balazs,HUN,100,725,92,774
+Rio De Janeiro,Clay,A,2020-02-17,106426,Christian Garin,CHI,106432,Borna Coric,CRO,22,2170,24,1855
+Rio De Janeiro,Clay,A,2020-02-17,126149,Gianluca Mager,ITA,106233,Dominic Thiem,AUT,100,725,3,9125
+Rio De Janeiro,Clay,A,2020-02-17,105226,Attila Balazs,HUN,124079,Pedro Martinez,ESP,92,774,85,800
+Rio De Janeiro,Clay,A,2020-02-17,106426,Christian Garin,CHI,105948,Federico Coria,ARG,22,2170,91,775
+Rio De Janeiro,Clay,A,2020-02-17,106432,Borna Coric,CRO,132283,Lorenzo Sonego,ITA,24,1855,33,1568
+Rio De Janeiro,Clay,A,2020-02-17,106233,Dominic Thiem,AUT,144719,Jaume Munar,ESP,3,9125,110,646
+Rio De Janeiro,Clay,A,2020-02-17,126149,Gianluca Mager,ITA,106249,Joao Domingues,POR,100,725,176,364
+Rio De Janeiro,Clay,A,2020-02-17,105226,Attila Balazs,HUN,106329,Thiago Monteiro,BRA,92,774,84,804
+Rio De Janeiro,Clay,A,2020-02-17,124079,Pedro Martinez,ESP,104665,Pablo Andujar,ESP,85,800,60,1024
+Rio De Janeiro,Clay,A,2020-02-17,105948,Federico Coria,ARG,207989,Carlos Alcaraz Garfia,ESP,91,775,141,464
+Rio De Janeiro,Clay,A,2020-02-17,106426,Christian Garin,CHI,105643,Federico Delbonis,ARG,22,2170,82,825
+Rio De Janeiro,Clay,A,2020-02-17,106432,Borna Coric,CRO,205734,Thiago Seyboth Wild,BRA,24,1855,116,586
+Rio De Janeiro,Clay,A,2020-02-17,132283,Lorenzo Sonego,ITA,105583,Dusan Lajovic,SRB,33,1568,26,1785
+Rio De Janeiro,Clay,A,2020-02-17,106233,Dominic Thiem,AUT,200335,Felipe Meligeni Rodrigues Alves,BRA,3,9125,231,250
+Rio De Janeiro,Clay,A,2020-02-17,144719,Jaume Munar,ESP,106099,Salvatore Caruso,ITA,110,646,76,843
+Rio De Janeiro,Clay,A,2020-02-17,106249,Joao Domingues,POR,105943,Federico Gaio,ITA,176,364,137,474
+Rio De Janeiro,Clay,A,2020-02-17,126149,Gianluca Mager,ITA,134770,Casper Ruud,NOR,100,725,27,1739
+Rio De Janeiro,Clay,A,2020-02-17,106329,Thiago Monteiro,BRA,105550,Guido Pella,ARG,84,804,43,1310
+Rio De Janeiro,Clay,A,2020-02-17,105226,Attila Balazs,HUN,104655,Pablo Cuevas,URU,92,774,67,917
+Rio De Janeiro,Clay,A,2020-02-17,124079,Pedro Martinez,ESP,106198,Hugo Dellien,BOL,85,800,111,638
+Rio De Janeiro,Clay,A,2020-02-17,104665,Pablo Andujar,ESP,104269,Fernando Verdasco,ESP,60,1024,65,975
+Rio De Janeiro,Clay,A,2020-02-17,207989,Carlos Alcaraz Garfia,ESP,105077,Albert Ramos,ESP,141,464,46,1165
+Rio De Janeiro,Clay,A,2020-02-17,105948,Federico Coria,ARG,144895,Corentin Moutet,FRA,91,775,77,838
+Rio De Janeiro,Clay,A,2020-02-17,105643,Federico Delbonis,ARG,106148,Roberto Carballes Baena,ESP,82,825,97,731
+Rio De Janeiro,Clay,A,2020-02-17,106426,Christian Garin,CHI,105413,Andrej Martin,SVK,22,2170,101,724
+Rio De Janeiro,Clay,A,2020-02-17,106432,Borna Coric,CRO,106228,Juan Ignacio Londero,ARG,24,1855,79,832
+Rio De Janeiro,Clay,A,2020-02-17,205734,Thiago Seyboth Wild,BRA,200221,Alejandro Davidovich Fokina,ESP,116,586,52,1066
+Rio De Janeiro,Clay,A,2020-02-17,132283,Lorenzo Sonego,ITA,104919,Leonardo Mayer,ARG,33,1568,135,482
+Rio De Janeiro,Clay,A,2020-02-17,105583,Dusan Lajovic,SRB,106065,Marco Cecchinato,ITA,26,1785,80,828
+Acapulco,Hard,A,2020-02-24,104745,Rafael Nadal,ESP,126203,Taylor Fritz,USA,2,9850,29,1670
+Acapulco,Hard,A,2020-02-24,104745,Rafael Nadal,ESP,105777,Grigor Dimitrov,BUL,2,9850,19,2260
+Acapulco,Hard,A,2020-02-24,126203,Taylor Fritz,USA,104545,John Isner,USA,29,1670,25,1850
+Acapulco,Hard,A,2020-02-24,104745,Rafael Nadal,ESP,126952,Soon Woo Kwon,KOR,2,9850,95,752
+Acapulco,Hard,A,2020-02-24,105777,Grigor Dimitrov,BUL,104527,Stan Wawrinka,SUI,19,2260,18,2320
+Acapulco,Hard,A,2020-02-24,126203,Taylor Fritz,USA,106378,Kyle Edmund,GBR,29,1670,48,1085
+Acapulco,Hard,A,2020-02-24,104545,John Isner,USA,126205,Tommy Paul,USA,25,1850,54,1065
+Acapulco,Hard,A,2020-02-24,104745,Rafael Nadal,ESP,200175,Miomir Kecmanovic,SRB,2,9850,44,1308
+Acapulco,Hard,A,2020-02-24,126952,Soon Woo Kwon,KOR,105583,Dusan Lajovic,SRB,95,752,26,1785
+Acapulco,Hard,A,2020-02-24,104527,Stan Wawrinka,SUI,124079,Pedro Martinez,ESP,18,2320,85,800
+Acapulco,Hard,A,2020-02-24,105777,Grigor Dimitrov,BUL,105173,Adrian Mannarino,FRA,19,2260,35,1516
+Acapulco,Hard,A,2020-02-24,126203,Taylor Fritz,USA,200005,Ugo Humbert,FRA,29,1670,30,1646
+Acapulco,Hard,A,2020-02-24,106378,Kyle Edmund,GBR,200000,Felix Auger Aliassime,CAN,48,1085,21,2216
+Acapulco,Hard,A,2020-02-24,104545,John Isner,USA,106218,Marcos Giron,USA,25,1850,73,869
+Acapulco,Hard,A,2020-02-24,126205,Tommy Paul,USA,100644,Alexander Zverev,GER,54,1065,7,5525
+Acapulco,Hard,A,2020-02-24,104745,Rafael Nadal,ESP,104665,Pablo Andujar,ESP,2,9850,60,1024
+Acapulco,Hard,A,2020-02-24,200175,Miomir Kecmanovic,SRB,200282,Alex De Minaur,AUS,44,1308,23,1860
+Acapulco,Hard,A,2020-02-24,126952,Soon Woo Kwon,KOR,106121,Taro Daniel,JPN,95,752,117,581
+Acapulco,Hard,A,2020-02-24,105583,Dusan Lajovic,SRB,105449,Steve Johnson,USA,26,1785,72,870
+Acapulco,Hard,A,2020-02-24,104527,Stan Wawrinka,SUI,126207,Frances Tiafoe,USA,18,2320,59,1030
+Acapulco,Hard,A,2020-02-24,124079,Pedro Martinez,ESP,105430,Radu Albot,MDA,85,800,93,772
+Acapulco,Hard,A,2020-02-24,105173,Adrian Mannarino,FRA,111815,Cameron Norrie,GBR,35,1516,71,877
+Acapulco,Hard,A,2020-02-24,105777,Grigor Dimitrov,BUL,106000,Damir Dzumhur,BIH,19,2260,119,562
+Acapulco,Hard,A,2020-02-24,200005,Ugo Humbert,FRA,106401,Nick Kyrgios,AUS,30,1646,45,1170
+Acapulco,Hard,A,2020-02-24,126203,Taylor Fritz,USA,105357,John Millman,AUS,29,1670,38,1421
+Acapulco,Hard,A,2020-02-24,106378,Kyle Edmund,GBR,103852,Feliciano Lopez,ESP,48,1085,64,998
+Acapulco,Hard,A,2020-02-24,200000,Felix Auger Aliassime,CAN,106109,Alex Bolt,AUS,21,2216,171,380
+Acapulco,Hard,A,2020-02-24,104545,John Isner,USA,104999,Mischa Zverev,GER,25,1850,264,208
+Acapulco,Hard,A,2020-02-24,106218,Marcos Giron,USA,126204,Gerardo Lopez Villasenor,MEX,73,869,549,55
+Acapulco,Hard,A,2020-02-24,126205,Tommy Paul,USA,111456,Mackenzie McDonald,USA,54,1065,193,335
+Acapulco,Hard,A,2020-02-24,100644,Alexander Zverev,GER,105359,Jason Jung,TPE,7,5525,132,490
+Dubai,Hard,A,2020-02-24,104925,Novak Djokovic,SRB,126774,Stefanos Tsitsipas,GRE,1,12030,6,5925
+Dubai,Hard,A,2020-02-24,104925,Novak Djokovic,SRB,104792,Gael Monfils,FRA,1,12030,11,2860
+Dubai,Hard,A,2020-02-24,126774,Stefanos Tsitsipas,GRE,105554,Daniel Evans,GBR,6,5925,32,1589
+Dubai,Hard,A,2020-02-24,104925,Novak Djokovic,SRB,111575,Karen Khachanov,RUS,1,12030,20,2245
+Dubai,Hard,A,2020-02-24,104792,Gael Monfils,FRA,104755,Richard Gasquet,FRA,11,2860,47,1145
+Dubai,Hard,A,2020-02-24,105554,Daniel Evans,GBR,126094,Andrey Rublev,RUS,32,1589,8,4119
+Dubai,Hard,A,2020-02-24,126774,Stefanos Tsitsipas,GRE,105526,Jan Lennard Struff,GER,6,5925,36,1450
+Dubai,Hard,A,2020-02-24,104925,Novak Djokovic,SRB,104259,Philipp Kohlschreiber,GER,1,12030,98,729
+Dubai,Hard,A,2020-02-24,111575,Karen Khachanov,RUS,110602,Dennis Novak,AUT,20,2245,96,737
+Dubai,Hard,A,2020-02-24,104792,Gael Monfils,FRA,106034,Yasutaka Uchiyama,JPN,11,2860,104,696
+Dubai,Hard,A,2020-02-24,104755,Richard Gasquet,FRA,105332,Benoit Paire,FRA,47,1145,28,1738
+Dubai,Hard,A,2020-02-24,126094,Andrey Rublev,RUS,105936,Filip Krajinovic,SRB,8,4119,31,1628
+Dubai,Hard,A,2020-02-24,105554,Daniel Evans,GBR,105732,Pierre Hugues Herbert,FRA,32,1589,83,812
+Dubai,Hard,A,2020-02-24,105526,Jan Lennard Struff,GER,105932,Nikoloz Basilashvili,GEO,36,1450,40,1395
+Dubai,Hard,A,2020-02-24,126774,Stefanos Tsitsipas,GRE,122330,Alexander Bublik,KAZ,6,5925,50,1070
+Dubai,Hard,A,2020-02-24,104925,Novak Djokovic,SRB,104291,Malek Jaziri,TUN,1,12030,249,219
+Dubai,Hard,A,2020-02-24,104259,Philipp Kohlschreiber,GER,105633,Mohamed Safwat,EGY,98,729,154,418
+Dubai,Hard,A,2020-02-24,110602,Dennis Novak,AUT,105432,Prajnesh Gunneswaran,IND,96,737,129,506
+Dubai,Hard,A,2020-02-24,111575,Karen Khachanov,RUS,105062,Mikhail Kukushkin,KAZ,20,2245,89,776
+Dubai,Hard,A,2020-02-24,104792,Gael Monfils,FRA,105916,Marton Fucsovics,HUN,11,2860,55,1062
+Dubai,Hard,A,2020-02-24,106034,Yasutaka Uchiyama,JPN,104229,Yen Hsun Lu,TPE,104,696,1007,10
+Dubai,Hard,A,2020-02-24,104755,Richard Gasquet,FRA,144750,Lloyd Harris,RSA,47,1145,87,793
+Dubai,Hard,A,2020-02-24,105332,Benoit Paire,FRA,105227,Marin Cilic,CRO,28,1738,42,1325
+Dubai,Hard,A,2020-02-24,126094,Andrey Rublev,RUS,207518,Lorenzo Musetti,ITA,8,4119,128,509
+Dubai,Hard,A,2020-02-24,105936,Filip Krajinovic,SRB,105311,Joao Sousa,POR,31,1628,90,776
+Dubai,Hard,A,2020-02-24,105732,Pierre Hugues Herbert,FRA,106415,Yoshihito Nishioka,JPN,83,812,56,1062
+Dubai,Hard,A,2020-02-24,105554,Daniel Evans,GBR,104926,Fabio Fognini,ITA,32,1589,17,2400
+Dubai,Hard,A,2020-02-24,105526,Jan Lennard Struff,GER,105138,Roberto Bautista Agut,ESP,36,1450,13,2710
+Dubai,Hard,A,2020-02-24,105932,Nikoloz Basilashvili,GEO,105575,Ricardas Berankis,LTU,40,1395,69,889
+Dubai,Hard,A,2020-02-24,122330,Alexander Bublik,KAZ,128034,Hubert Hurkacz,POL,50,1070,34,1518
+Dubai,Hard,A,2020-02-24,126774,Stefanos Tsitsipas,GRE,105807,Pablo Carreno Busta,ESP,6,5925,16,2535
+Santiago,Clay,A,2020-02-24,205734,Thiago Seyboth Wild,BRA,134770,Casper Ruud,NOR,116,586,27,1739
+Santiago,Clay,A,2020-02-24,205734,Thiago Seyboth Wild,BRA,105952,Renzo Olivo,ARG,116,586,214,281
+Santiago,Clay,A,2020-02-24,134770,Casper Ruud,NOR,105077,Albert Ramos,ESP,27,1739,46,1165
+Santiago,Clay,A,2020-02-24,205734,Thiago Seyboth Wild,BRA,106426,Christian Garin,CHI,116,586,22,2170
+Santiago,Clay,A,2020-02-24,105952,Renzo Olivo,ARG,106198,Hugo Dellien,BOL,214,281,111,638
+Santiago,Clay,A,2020-02-24,105077,Albert Ramos,ESP,106329,Thiago Monteiro,BRA,46,1165,84,804
+Santiago,Clay,A,2020-02-24,134770,Casper Ruud,NOR,105643,Federico Delbonis,ARG,27,1739,82,825
+Santiago,Clay,A,2020-02-24,106426,Christian Garin,CHI,200221,Alejandro Davidovich Fokina,ESP,22,2170,52,1066
+Santiago,Clay,A,2020-02-24,205734,Thiago Seyboth Wild,BRA,106228,Juan Ignacio Londero,ARG,116,586,79,832
+Santiago,Clay,A,2020-02-24,105952,Renzo Olivo,ARG,104655,Pablo Cuevas,URU,214,281,67,917
+Santiago,Clay,A,2020-02-24,106198,Hugo Dellien,BOL,144642,Marcelo Tomas Barrios Vera,CHI,111,638,254,214
+Santiago,Clay,A,2020-02-24,106329,Thiago Monteiro,BRA,106148,Roberto Carballes Baena,ESP,84,804,97,731
+Santiago,Clay,A,2020-02-24,105077,Albert Ramos,ESP,122669,Juan Pablo Varillas,PER,46,1165,158,411
+Santiago,Clay,A,2020-02-24,105643,Federico Delbonis,ARG,106099,Salvatore Caruso,ITA,82,825,76,843
+Santiago,Clay,A,2020-02-24,134770,Casper Ruud,NOR,126214,Alejandro Tabilo,CHI,27,1739,169,382
+Santiago,Clay,A,2020-02-24,200221,Alejandro Davidovich Fokina,ESP,105413,Andrej Martin,SVK,52,1066,101,724
+Santiago,Clay,A,2020-02-24,205734,Thiago Seyboth Wild,BRA,105487,Facundo Bagnis,ARG,116,586,125,531
+Santiago,Clay,A,2020-02-24,106228,Juan Ignacio Londero,ARG,105948,Federico Coria,ARG,79,832,91,775
+Santiago,Clay,A,2020-02-24,105952,Renzo Olivo,ARG,105155,Pedro Sousa,POR,214,281,105,691
+Santiago,Clay,A,2020-02-24,144642,Marcelo Tomas Barrios Vera,CHI,126535,Carlos Taberner,ESP,254,214,143,457
+Santiago,Clay,A,2020-02-24,106198,Hugo Dellien,BOL,106065,Marco Cecchinato,ITA,111,638,80,828
+Santiago,Clay,A,2020-02-24,106329,Thiago Monteiro,BRA,104919,Leonardo Mayer,ARG,84,804,135,482
+Santiago,Clay,A,2020-02-24,106148,Roberto Carballes Baena,ESP,144719,Jaume Munar,ESP,97,731,110,646
+Santiago,Clay,A,2020-02-24,122669,Juan Pablo Varillas,PER,106110,Filip Horansky,SVK,158,411,185,345
+Santiago,Clay,A,2020-02-24,105643,Federico Delbonis,ARG,105373,Martin Klizan,SVK,82,825,151,432
+Santiago,Clay,A,2020-02-24,106099,Salvatore Caruso,ITA,106075,Jozef Kovalik,SVK,76,843,131,498
+Santiago,Clay,A,2020-02-24,126214,Alejandro Tabilo,CHI,103893,Paolo Lorenzi,ITA,169,382,146,450
+Cincinnati Masters,Hard,M,2020-08-24,104925,Novak Djokovic,SRB,105683,Milos Raonic,CAN,1,12030,14,2580
+Cincinnati Masters,Hard,M,2020-08-24,104925,Novak Djokovic,SRB,105138,Roberto Bautista Agut,ESP,1,12030,13,2710
+Cincinnati Masters,Hard,M,2020-08-24,105683,Milos Raonic,CAN,126774,Stefanos Tsitsipas,GRE,14,2580,6,5925
+Cincinnati Masters,Hard,M,2020-08-24,104925,Novak Djokovic,SRB,105526,Jan Lennard Struff,GER,1,12030,36,1450
+Cincinnati Masters,Hard,M,2020-08-24,105138,Roberto Bautista Agut,ESP,106421,Daniil Medvedev,RUS,13,2710,4,8470
+Cincinnati Masters,Hard,M,2020-08-24,126774,Stefanos Tsitsipas,GRE,124187,Reilly Opelka,USA,6,5925,39,1402
+Cincinnati Masters,Hard,M,2020-08-24,105683,Milos Raonic,CAN,105936,Filip Krajinovic,SRB,14,2580,31,1628
+Cincinnati Masters,Hard,M,2020-08-24,104925,Novak Djokovic,SRB,105815,Tennys Sandgren,USA,1,12030,49,1081
+Cincinnati Masters,Hard,M,2020-08-24,105526,Jan Lennard Struff,GER,105676,David Goffin,BEL,36,1450,15,2555
+Cincinnati Masters,Hard,M,2020-08-24,106421,Daniil Medvedev,RUS,105379,Aljaz Bedene,SLO,4,8470,58,1045
+Cincinnati Masters,Hard,M,2020-08-24,105138,Roberto Bautista Agut,ESP,111575,Karen Khachanov,RUS,13,2710,20,2245
+Cincinnati Masters,Hard,M,2020-08-24,124187,Reilly Opelka,USA,126610,Matteo Berrettini,ITA,39,1402,10,3075
+Cincinnati Masters,Hard,M,2020-08-24,126774,Stefanos Tsitsipas,GRE,104545,John Isner,USA,6,5925,25,1850
+Cincinnati Masters,Hard,M,2020-08-24,105683,Milos Raonic,CAN,104918,Andy Murray,GBR,14,2580,122,547
+Cincinnati Masters,Hard,M,2020-08-24,105936,Filip Krajinovic,SRB,105916,Marton Fucsovics,HUN,31,1628,55,1062
+Cincinnati Masters,Hard,M,2020-08-24,104925,Novak Djokovic,SRB,105575,Ricardas Berankis,LTU,1,12030,69,889
+Cincinnati Masters,Hard,M,2020-08-24,105815,Tennys Sandgren,USA,200000,Felix Auger Aliassime,CAN,49,1081,21,2216
+Cincinnati Masters,Hard,M,2020-08-24,105526,Jan Lennard Struff,GER,133430,Denis Shapovalov,CAN,36,1450,12,2830
+Cincinnati Masters,Hard,M,2020-08-24,105676,David Goffin,BEL,106432,Borna Coric,CRO,15,2555,24,1855
+Cincinnati Masters,Hard,M,2020-08-24,106421,Daniil Medvedev,RUS,106218,Marcos Giron,USA,4,8470,73,869
+Cincinnati Masters,Hard,M,2020-08-24,105379,Aljaz Bedene,SLO,126203,Taylor Fritz,USA,58,1045,29,1670
+Cincinnati Masters,Hard,M,2020-08-24,111575,Karen Khachanov,RUS,105807,Pablo Carreno Busta,ESP,20,2245,16,2535
+Cincinnati Masters,Hard,M,2020-08-24,105138,Roberto Bautista Agut,ESP,104755,Richard Gasquet,FRA,13,2710,47,1145
+Cincinnati Masters,Hard,M,2020-08-24,126610,Matteo Berrettini,ITA,200325,Emil Ruusuvuori,FIN,10,3075,86,796
+Cincinnati Masters,Hard,M,2020-08-24,124187,Reilly Opelka,USA,106043,Diego Schwartzman,ARG,39,1402,9,3455
+Cincinnati Masters,Hard,M,2020-08-24,104545,John Isner,USA,105357,John Millman,AUS,25,1850,38,1421
+Cincinnati Masters,Hard,M,2020-08-24,126774,Stefanos Tsitsipas,GRE,104731,Kevin Anderson,RSA,6,5925,81,825
+Cincinnati Masters,Hard,M,2020-08-24,104918,Andy Murray,GBR,100644,Alexander Zverev,GER,122,547,7,5525
+Cincinnati Masters,Hard,M,2020-08-24,105683,Milos Raonic,CAN,105554,Daniel Evans,GBR,14,2580,32,1589
+Cincinnati Masters,Hard,M,2020-08-24,105916,Marton Fucsovics,HUN,105777,Grigor Dimitrov,BUL,55,1062,19,2260
+Cincinnati Masters,Hard,M,2020-08-24,105936,Filip Krajinovic,SRB,106233,Dominic Thiem,AUT,31,1628,3,9125
+Cincinnati Masters,Hard,M,2020-08-24,105575,Ricardas Berankis,LTU,126205,Tommy Paul,USA,69,889,54,1065
+Cincinnati Masters,Hard,M,2020-08-24,105815,Tennys Sandgren,USA,132283,Lorenzo Sonego,ITA,49,1081,33,1568
+Cincinnati Masters,Hard,M,2020-08-24,200000,Felix Auger Aliassime,CAN,105932,Nikoloz Basilashvili,GEO,21,2216,40,1395
+Cincinnati Masters,Hard,M,2020-08-24,133430,Denis Shapovalov,CAN,105227,Marin Cilic,CRO,12,2830,42,1325
+Cincinnati Masters,Hard,M,2020-08-24,105526,Jan Lennard Struff,GER,200282,Alex De Minaur,AUS,36,1450,23,1860
+Cincinnati Masters,Hard,M,2020-08-24,106432,Borna Coric,CRO,105332,Benoit Paire,FRA,24,1855,28,1738
+Cincinnati Masters,Hard,M,2020-08-24,106218,Marcos Giron,USA,111456,Mackenzie McDonald,USA,73,869,193,335
+Cincinnati Masters,Hard,M,2020-08-24,126203,Taylor Fritz,USA,144750,Lloyd Harris,RSA,29,1670,87,793
+Cincinnati Masters,Hard,M,2020-08-24,105379,Aljaz Bedene,SLO,106426,Christian Garin,CHI,58,1045,22,2170
+Cincinnati Masters,Hard,M,2020-08-24,111575,Karen Khachanov,RUS,122330,Alexander Bublik,KAZ,20,2245,50,1070
+Cincinnati Masters,Hard,M,2020-08-24,105807,Pablo Carreno Busta,ESP,105583,Dusan Lajovic,SRB,16,2535,26,1785
+Cincinnati Masters,Hard,M,2020-08-24,104755,Richard Gasquet,FRA,200670,J.J. Wolf,USA,47,1145,127,519
+Cincinnati Masters,Hard,M,2020-08-24,200325,Emil Ruusuvuori,FIN,200624,Sebastian Korda,USA,86,796,118,563
+Cincinnati Masters,Hard,M,2020-08-24,124187,Reilly Opelka,USA,111815,Cameron Norrie,GBR,39,1402,71,877
+Cincinnati Masters,Hard,M,2020-08-24,106043,Diego Schwartzman,ARG,134770,Casper Ruud,NOR,9,3455,27,1739
+Cincinnati Masters,Hard,M,2020-08-24,104545,John Isner,USA,128034,Hubert Hurkacz,POL,25,1850,34,1518
+Cincinnati Masters,Hard,M,2020-08-24,105357,John Millman,AUS,105173,Adrian Mannarino,FRA,38,1421,35,1516
+Cincinnati Masters,Hard,M,2020-08-24,104731,Kevin Anderson,RSA,106378,Kyle Edmund,GBR,81,825,48,1085
+Cincinnati Masters,Hard,M,2020-08-24,104918,Andy Murray,GBR,126207,Frances Tiafoe,USA,122,547,59,1030
+Cincinnati Masters,Hard,M,2020-08-24,105683,Milos Raonic,CAN,105023,Sam Querrey,USA,14,2580,53,1065
+Cincinnati Masters,Hard,M,2020-08-24,105554,Daniel Evans,GBR,126094,Andrey Rublev,RUS,32,1589,8,4119
+Cincinnati Masters,Hard,M,2020-08-24,105777,Grigor Dimitrov,BUL,200005,Ugo Humbert,FRA,19,2260,30,1646
+Cincinnati Masters,Hard,M,2020-08-24,105916,Marton Fucsovics,HUN,105613,Norbert Gombos,SVK,55,1062,88,789
+Cincinnati Masters,Hard,M,2020-08-24,105936,Filip Krajinovic,SRB,106099,Salvatore Caruso,ITA,31,1628,76,843
+Us Open,Hard,G,2020-08-31,104925,Novak Djokovic,SRB,106000,Damir Dzumhur,BIH,1,12030,119,562
+Us Open,Hard,G,2020-08-31,106378,Kyle Edmund,GBR,122330,Alexander Bublik,KAZ,48,1085,50,1070
+Us Open,Hard,G,2020-08-31,111581,Michael Mmoh,USA,105311,Joao Sousa,POR,174,368,90,776
+Us Open,Hard,G,2020-08-31,105526,Jan Lennard Struff,GER,124079,Pedro Martinez,ESP,36,1450,85,800
+Us Open,Hard,G,2020-08-31,105807,Pablo Carreno Busta,ESP,106034,Yasutaka Uchiyama,JPN,16,2535,104,696
+Us Open,Hard,G,2020-08-31,106283,Mitchell Krueger,USA,105155,Pedro Sousa,POR,192,337,105,691
+Us Open,Hard,G,2020-08-31,105575,Ricardas Berankis,LTU,105943,Federico Gaio,ITA,69,889,137,474
+Us Open,Hard,G,2020-08-31,105449,Steve Johnson,USA,104545,John Isner,USA,72,870,25,1850
+Us Open,Hard,G,2020-08-31,133430,Denis Shapovalov,CAN,200624,Sebastian Korda,USA,12,2830,118,563
+Us Open,Hard,G,2020-08-31,126952,Soon Woo Kwon,KOR,111515,Thai Son Kwiatkowski,USA,95,752,212,283
+Us Open,Hard,G,2020-08-31,104468,Gilles Simon,FRA,105633,Mohamed Safwat,EGY,63,1005,154,418
+Us Open,Hard,G,2020-08-31,126203,Taylor Fritz,USA,136440,Dominik Koepfer,GER,29,1670,66,921
+Us Open,Hard,G,2020-08-31,105936,Filip Krajinovic,SRB,144707,Mikael Ymer,SWE,31,1628,94,763
+Us Open,Hard,G,2020-08-31,106218,Marcos Giron,USA,117360,Marc Polmans,AUS,73,869,124,539
+Us Open,Hard,G,2020-08-31,144750,Lloyd Harris,RSA,106065,Marco Cecchinato,ITA,87,793,80,828
+Us Open,Hard,G,2020-08-31,105676,David Goffin,BEL,124187,Reilly Opelka,USA,15,2555,39,1402
+Us Open,Hard,G,2020-08-31,126774,Stefanos Tsitsipas,GRE,105077,Albert Ramos,ESP,6,5925,46,1165
+Us Open,Hard,G,2020-08-31,202195,Maxime Cressy,FRA,106075,Jozef Kovalik,SVK,168,384,131,498
+Us Open,Hard,G,2020-08-31,106228,Juan Ignacio Londero,ARG,105539,Evgeny Donskoy,RUS,79,832,123,540
+Us Open,Hard,G,2020-08-31,106432,Borna Coric,CRO,104665,Pablo Andujar,ESP,24,1855,60,1024
+Us Open,Hard,G,2020-08-31,106078,Egor Gerasimov,BLR,105583,Dusan Lajovic,SRB,78,834,26,1785
+Us Open,Hard,G,2020-08-31,111442,Jordan Thompson,AUS,105882,Stefano Travaglia,ITA,51,1068,74,869
+Us Open,Hard,G,2020-08-31,105062,Mikhail Kukushkin,KAZ,105226,Attila Balazs,HUN,89,776,92,774
+Us Open,Hard,G,2020-08-31,106426,Christian Garin,CHI,200265,Ulises Blanch,USA,22,2170,243,224
+Us Open,Hard,G,2020-08-31,111815,Cameron Norrie,GBR,106043,Diego Schwartzman,ARG,71,877,9,3455
+Us Open,Hard,G,2020-08-31,105948,Federico Coria,ARG,105359,Jason Jung,TPE,91,775,132,490
+Us Open,Hard,G,2020-08-31,200221,Alejandro Davidovich Fokina,ESP,110602,Dennis Novak,AUT,52,1066,96,737
+Us Open,Hard,G,2020-08-31,128034,Hubert Hurkacz,POL,105376,Peter Gojowczyk,GER,34,1518,145,454
+Us Open,Hard,G,2020-08-31,105173,Adrian Mannarino,FRA,132283,Lorenzo Sonego,ITA,35,1516,33,1568
+Us Open,Hard,G,2020-08-31,106058,Jack Sock,USA,104655,Pablo Cuevas,URU,253,217,67,917
+Us Open,Hard,G,2020-08-31,206909,Brandon Nakashima,USA,103893,Paolo Lorenzi,ITA,166,387,146,450
+Us Open,Hard,G,2020-08-31,100644,Alexander Zverev,GER,104731,Kevin Anderson,RSA,7,5525,81,825
+Us Open,Hard,G,2020-08-31,126610,Matteo Berrettini,ITA,104424,Go Soeda,JPN,10,3075,133,490
+Us Open,Hard,G,2020-08-31,200005,Ugo Humbert,FRA,105216,Yuichi Sugita,JPN,30,1646,102,713
+Us Open,Hard,G,2020-08-31,200325,Emil Ruusuvuori,FIN,105379,Aljaz Bedene,SLO,86,796,58,1045
+Us Open,Hard,G,2020-08-31,134770,Casper Ruud,NOR,111456,Mackenzie McDonald,USA,27,1739,193,335
+Us Open,Hard,G,2020-08-31,124014,Ernesto Escobedo,USA,111794,Kamil Majchrzak,POL,198,329,107,680
+Us Open,Hard,G,2020-08-31,106099,Salvatore Caruso,ITA,105902,James Duckworth,AUS,76,843,103,701
+Us Open,Hard,G,2020-08-31,106296,Gregoire Barrere,FRA,106121,Taro Daniel,JPN,109,647,117,581
+Us Open,Hard,G,2020-08-31,126094,Andrey Rublev,RUS,104871,Jeremy Chardy,FRA,8,4119,75,860
+Us Open,Hard,G,2020-08-31,105777,Grigor Dimitrov,BUL,126205,Tommy Paul,USA,19,2260,54,1065
+Us Open,Hard,G,2020-08-31,105916,Marton Fucsovics,HUN,106198,Hugo Dellien,BOL,55,1062,111,638
+Us Open,Hard,G,2020-08-31,126207,Frances Tiafoe,USA,104312,Andreas Seppi,ITA,59,1030,106,689
+Us Open,Hard,G,2020-08-31,105357,John Millman,AUS,105932,Nikoloz Basilashvili,GEO,38,1421,40,1395
+Us Open,Hard,G,2020-08-31,200670,J.J. Wolf,USA,105550,Guido Pella,ARG,127,519,43,1310
+Us Open,Hard,G,2020-08-31,106148,Roberto Carballes Baena,ESP,103852,Feliciano Lopez,ESP,97,731,64,998
+Us Open,Hard,G,2020-08-31,106331,Christopher O'Connell,AUS,111513,Laslo Djere,SRB,120,558,57,1058
+Us Open,Hard,G,2020-08-31,106421,Daniil Medvedev,RUS,105643,Federico Delbonis,ARG,4,8470,82,825
+Us Open,Hard,G,2020-08-31,105138,Roberto Bautista Agut,ESP,105815,Tennys Sandgren,USA,13,2710,49,1081
+Us Open,Hard,G,2020-08-31,200175,Miomir Kecmanovic,SRB,126149,Gianluca Mager,ITA,44,1308,100,725
+Us Open,Hard,G,2020-08-31,105577,Vasek Pospisil,CAN,104259,Philipp Kohlschreiber,GER,61,1006,98,729
+Us Open,Hard,G,2020-08-31,105683,Milos Raonic,CAN,104919,Leonardo Mayer,ARG,14,2580,135,482
+Us Open,Hard,G,2020-08-31,200282,Alex De Minaur,AUS,105413,Andrej Martin,SVK,23,1860,101,724
+Us Open,Hard,G,2020-08-31,104755,Richard Gasquet,FRA,103333,Ivo Karlovic,CRO,47,1145,147,444
+Us Open,Hard,G,2020-08-31,105723,Andrey Kuznetsov,RUS,105023,Sam Querrey,USA,517,63,53,1065
+Us Open,Hard,G,2020-08-31,111575,Karen Khachanov,RUS,206173,Jannik Sinner,ITA,20,2245,37,1444
+Us Open,Hard,G,2020-08-31,200000,Felix Auger Aliassime,CAN,106329,Thiago Monteiro,BRA,21,2216,84,804
+Us Open,Hard,G,2020-08-31,104918,Andy Murray,GBR,106415,Yoshihito Nishioka,JPN,122,547,56,1062
+Us Open,Hard,G,2020-08-31,144895,Corentin Moutet,FRA,106210,Jiri Vesely,CZE,77,838,68,913
+Us Open,Hard,G,2020-08-31,105554,Daniel Evans,GBR,205734,Thiago Seyboth Wild,BRA,32,1589,116,586
+Us Open,Hard,G,2020-08-31,105227,Marin Cilic,CRO,106045,Denis Kudla,USA,42,1325,114,600
+Us Open,Hard,G,2020-08-31,105613,Norbert Gombos,SVK,105430,Radu Albot,MDA,88,789,93,772
+Us Open,Hard,G,2020-08-31,111576,Sumit Nagal,IND,105614,Bradley Klahn,USA,136,475,149,436
+Us Open,Hard,G,2020-08-31,106233,Dominic Thiem,AUT,144719,Jaume Munar,ESP,3,9125,110,646
+Us Open,Hard,G,2020-08-31,104925,Novak Djokovic,SRB,106378,Kyle Edmund,GBR,1,12030,48,1085
+Us Open,Hard,G,2020-08-31,105526,Jan Lennard Struff,GER,111581,Michael Mmoh,USA,36,1450,174,368
+Us Open,Hard,G,2020-08-31,105807,Pablo Carreno Busta,ESP,106283,Mitchell Krueger,USA,16,2535,192,337
+Us Open,Hard,G,2020-08-31,105575,Ricardas Berankis,LTU,105449,Steve Johnson,USA,69,889,72,870
+Us Open,Hard,G,2020-08-31,133430,Denis Shapovalov,CAN,126952,Soon Woo Kwon,KOR,12,2830,95,752
+Us Open,Hard,G,2020-08-31,126203,Taylor Fritz,USA,104468,Gilles Simon,FRA,29,1670,63,1005
+Us Open,Hard,G,2020-08-31,105936,Filip Krajinovic,SRB,106218,Marcos Giron,USA,31,1628,73,869
+Us Open,Hard,G,2020-08-31,105676,David Goffin,BEL,144750,Lloyd Harris,RSA,15,2555,87,793
+Us Open,Hard,G,2020-08-31,126774,Stefanos Tsitsipas,GRE,202195,Maxime Cressy,FRA,6,5925,168,384
+Us Open,Hard,G,2020-08-31,106432,Borna Coric,CRO,106228,Juan Ignacio Londero,ARG,24,1855,79,832
+Us Open,Hard,G,2020-08-31,111442,Jordan Thompson,AUS,106078,Egor Gerasimov,BLR,51,1068,78,834
+Us Open,Hard,G,2020-08-31,105062,Mikhail Kukushkin,KAZ,106426,Christian Garin,CHI,89,776,22,2170
+Us Open,Hard,G,2020-08-31,111815,Cameron Norrie,GBR,105948,Federico Coria,ARG,71,877,91,775
+Us Open,Hard,G,2020-08-31,200221,Alejandro Davidovich Fokina,ESP,128034,Hubert Hurkacz,POL,52,1066,34,1518
+Us Open,Hard,G,2020-08-31,105173,Adrian Mannarino,FRA,106058,Jack Sock,USA,35,1516,253,217
+Us Open,Hard,G,2020-08-31,100644,Alexander Zverev,GER,206909,Brandon Nakashima,USA,7,5525,166,387
+Us Open,Hard,G,2020-08-31,126610,Matteo Berrettini,ITA,200005,Ugo Humbert,FRA,10,3075,30,1646
+Us Open,Hard,G,2020-08-31,134770,Casper Ruud,NOR,200325,Emil Ruusuvuori,FIN,27,1739,86,796
+Us Open,Hard,G,2020-08-31,106099,Salvatore Caruso,ITA,124014,Ernesto Escobedo,USA,76,843,198,329
+Us Open,Hard,G,2020-08-31,126094,Andrey Rublev,RUS,106296,Gregoire Barrere,FRA,8,4119,109,647
+Us Open,Hard,G,2020-08-31,105916,Marton Fucsovics,HUN,105777,Grigor Dimitrov,BUL,55,1062,19,2260
+Us Open,Hard,G,2020-08-31,126207,Frances Tiafoe,USA,105357,John Millman,AUS,59,1030,38,1421
+Us Open,Hard,G,2020-08-31,200670,J.J. Wolf,USA,106148,Roberto Carballes Baena,ESP,127,519,97,731
+Us Open,Hard,G,2020-08-31,106421,Daniil Medvedev,RUS,106331,Christopher O'Connell,AUS,4,8470,120,558
+Us Open,Hard,G,2020-08-31,105138,Roberto Bautista Agut,ESP,200175,Miomir Kecmanovic,SRB,13,2710,44,1308
+Us Open,Hard,G,2020-08-31,105577,Vasek Pospisil,CAN,105683,Milos Raonic,CAN,61,1006,14,2580
+Us Open,Hard,G,2020-08-31,200282,Alex De Minaur,AUS,104755,Richard Gasquet,FRA,23,1860,47,1145
+Us Open,Hard,G,2020-08-31,111575,Karen Khachanov,RUS,105723,Andrey Kuznetsov,RUS,20,2245,517,63
+Us Open,Hard,G,2020-08-31,200000,Felix Auger Aliassime,CAN,104918,Andy Murray,GBR,21,2216,122,547
+Us Open,Hard,G,2020-08-31,144895,Corentin Moutet,FRA,105554,Daniel Evans,GBR,77,838,32,1589
+Us Open,Hard,G,2020-08-31,105227,Marin Cilic,CRO,105613,Norbert Gombos,SVK,42,1325,88,789
+Us Open,Hard,G,2020-08-31,106233,Dominic Thiem,AUT,111576,Sumit Nagal,IND,3,9125,136,475
+Us Open,Hard,G,2020-08-31,104925,Novak Djokovic,SRB,105526,Jan Lennard Struff,GER,1,12030,36,1450
+Us Open,Hard,G,2020-08-31,105807,Pablo Carreno Busta,ESP,105575,Ricardas Berankis,LTU,16,2535,69,889
+Us Open,Hard,G,2020-08-31,133430,Denis Shapovalov,CAN,126203,Taylor Fritz,USA,12,2830,29,1670
+Us Open,Hard,G,2020-08-31,105676,David Goffin,BEL,105936,Filip Krajinovic,SRB,15,2555,31,1628
+Us Open,Hard,G,2020-08-31,106432,Borna Coric,CRO,126774,Stefanos Tsitsipas,GRE,24,1855,6,5925
+Us Open,Hard,G,2020-08-31,111442,Jordan Thompson,AUS,105062,Mikhail Kukushkin,KAZ,51,1068,89,776
+Us Open,Hard,G,2020-08-31,200221,Alejandro Davidovich Fokina,ESP,111815,Cameron Norrie,GBR,52,1066,71,877
+Us Open,Hard,G,2020-08-31,100644,Alexander Zverev,GER,105173,Adrian Mannarino,FRA,7,5525,35,1516
+Us Open,Hard,G,2020-08-31,126610,Matteo Berrettini,ITA,134770,Casper Ruud,NOR,10,3075,27,1739
+Us Open,Hard,G,2020-08-31,126094,Andrey Rublev,RUS,106099,Salvatore Caruso,ITA,8,4119,76,843
+Us Open,Hard,G,2020-08-31,126207,Frances Tiafoe,USA,105916,Marton Fucsovics,HUN,59,1030,55,1062
+Us Open,Hard,G,2020-08-31,106421,Daniil Medvedev,RUS,200670,J.J. Wolf,USA,4,8470,127,519
+Us Open,Hard,G,2020-08-31,105577,Vasek Pospisil,CAN,105138,Roberto Bautista Agut,ESP,61,1006,13,2710
+Us Open,Hard,G,2020-08-31,200282,Alex De Minaur,AUS,111575,Karen Khachanov,RUS,23,1860,20,2245
+Us Open,Hard,G,2020-08-31,200000,Felix Auger Aliassime,CAN,144895,Corentin Moutet,FRA,21,2216,77,838
+Us Open,Hard,G,2020-08-31,106233,Dominic Thiem,AUT,105227,Marin Cilic,CRO,3,9125,42,1325
+Us Open,Hard,G,2020-08-31,105807,Pablo Carreno Busta,ESP,104925,Novak Djokovic,SRB,16,2535,1,12030
+Us Open,Hard,G,2020-08-31,133430,Denis Shapovalov,CAN,105676,David Goffin,BEL,12,2830,15,2555
+Us Open,Hard,G,2020-08-31,106432,Borna Coric,CRO,111442,Jordan Thompson,AUS,24,1855,51,1068
+Us Open,Hard,G,2020-08-31,100644,Alexander Zverev,GER,200221,Alejandro Davidovich Fokina,ESP,7,5525,52,1066
+Us Open,Hard,G,2020-08-31,126094,Andrey Rublev,RUS,126610,Matteo Berrettini,ITA,8,4119,10,3075
+Us Open,Hard,G,2020-08-31,106421,Daniil Medvedev,RUS,126207,Frances Tiafoe,USA,4,8470,59,1030
+Us Open,Hard,G,2020-08-31,200282,Alex De Minaur,AUS,105577,Vasek Pospisil,CAN,23,1860,61,1006
+Us Open,Hard,G,2020-08-31,106233,Dominic Thiem,AUT,200000,Felix Auger Aliassime,CAN,3,9125,21,2216
+Us Open,Hard,G,2020-08-31,105807,Pablo Carreno Busta,ESP,133430,Denis Shapovalov,CAN,16,2535,12,2830
+Us Open,Hard,G,2020-08-31,100644,Alexander Zverev,GER,106432,Borna Coric,CRO,7,5525,24,1855
+Us Open,Hard,G,2020-08-31,106421,Daniil Medvedev,RUS,126094,Andrey Rublev,RUS,4,8470,8,4119
+Us Open,Hard,G,2020-08-31,106233,Dominic Thiem,AUT,200282,Alex De Minaur,AUS,3,9125,23,1860
+Us Open,Hard,G,2020-08-31,100644,Alexander Zverev,GER,105807,Pablo Carreno Busta,ESP,7,5525,16,2535
+Us Open,Hard,G,2020-08-31,106233,Dominic Thiem,AUT,106421,Daniil Medvedev,RUS,3,9125,4,8470
+Us Open,Hard,G,2020-08-31,106233,Dominic Thiem,AUT,100644,Alexander Zverev,GER,3,9125,7,5525
+Kitzbuhel,Clay,A,2020-09-07,200175,Miomir Kecmanovic,SRB,105870,Yannick Hanfmann,GER,44,1308,99,728
+Kitzbuhel,Clay,A,2020-09-07,200175,Miomir Kecmanovic,SRB,144817,Marc Andrea Huesler,SUI,44,1308,148,444
+Kitzbuhel,Clay,A,2020-09-07,105870,Yannick Hanfmann,GER,111513,Laslo Djere,SRB,99,728,57,1058
+Kitzbuhel,Clay,A,2020-09-07,144817,Marc Andrea Huesler,SUI,103852,Feliciano Lopez,ESP,148,444,64,998
+Kitzbuhel,Clay,A,2020-09-07,200175,Miomir Kecmanovic,SRB,105643,Federico Delbonis,ARG,44,1308,82,825
+Kitzbuhel,Clay,A,2020-09-07,105870,Yannick Hanfmann,GER,109739,Maximilian Marterer,GER,99,728,209,300
+Kitzbuhel,Clay,A,2020-09-07,111513,Laslo Djere,SRB,106043,Diego Schwartzman,ARG,57,1058,9,3455
+Kitzbuhel,Clay,A,2020-09-07,144817,Marc Andrea Huesler,SUI,104926,Fabio Fognini,ITA,148,444,17,2400
+Kitzbuhel,Clay,A,2020-09-07,103852,Feliciano Lopez,ESP,105550,Guido Pella,ARG,64,998,43,1310
+Kitzbuhel,Clay,A,2020-09-07,105643,Federico Delbonis,ARG,105932,Nikoloz Basilashvili,GEO,82,825,40,1395
+Kitzbuhel,Clay,A,2020-09-07,200175,Miomir Kecmanovic,SRB,111442,Jordan Thompson,AUS,44,1308,51,1068
+Kitzbuhel,Clay,A,2020-09-07,109739,Maximilian Marterer,GER,128034,Hubert Hurkacz,POL,209,300,34,1518
+Kitzbuhel,Clay,A,2020-09-07,105870,Yannick Hanfmann,GER,105583,Dusan Lajovic,SRB,99,728,26,1785
+Kitzbuhel,Clay,A,2020-09-07,111513,Laslo Djere,SRB,206173,Jannik Sinner,ITA,57,1058,37,1444
+Kitzbuhel,Clay,A,2020-09-07,106043,Diego Schwartzman,ARG,124116,Sebastian Ofner,AUT,9,3455,159,402
+Kitzbuhel,Clay,A,2020-09-07,144817,Marc Andrea Huesler,SUI,200325,Emil Ruusuvuori,FIN,148,444,86,796
+Kitzbuhel,Clay,A,2020-09-07,103852,Feliciano Lopez,ESP,105732,Pierre Hugues Herbert,FRA,64,998,83,812
+Kitzbuhel,Clay,A,2020-09-07,105550,Guido Pella,ARG,106415,Yoshihito Nishioka,JPN,43,1310,56,1062
+Kitzbuhel,Clay,A,2020-09-07,105643,Federico Delbonis,ARG,106228,Juan Ignacio Londero,ARG,82,825,79,832
+Kitzbuhel,Clay,A,2020-09-07,111442,Jordan Thompson,AUS,105357,John Millman,AUS,51,1068,38,1421
+Kitzbuhel,Clay,A,2020-09-07,200175,Miomir Kecmanovic,SRB,105453,Kei Nishikori,JPN,44,1308,41,1345
+Kitzbuhel,Clay,A,2020-09-07,128034,Hubert Hurkacz,POL,105311,Joao Sousa,POR,34,1518,90,776
+Kitzbuhel,Clay,A,2020-09-07,109739,Maximilian Marterer,GER,110602,Dennis Novak,AUT,209,300,96,737
+Kitzbuhel,Clay,A,2020-09-07,105870,Yannick Hanfmann,GER,122330,Alexander Bublik,KAZ,99,728,50,1070
+Kitzbuhel,Clay,A,2020-09-07,111513,Laslo Djere,SRB,105077,Albert Ramos,ESP,57,1058,46,1165
+Kitzbuhel,Clay,A,2020-09-07,206173,Jannik Sinner,ITA,104259,Philipp Kohlschreiber,GER,37,1444,98,729
+Kitzbuhel,Clay,A,2020-09-07,124116,Sebastian Ofner,AUT,105430,Radu Albot,MDA,159,402,93,772
+Rome Masters,Clay,M,2020-09-14,104925,Novak Djokovic,SRB,106043,Diego Schwartzman,ARG,1,12030,9,3455
+Rome Masters,Clay,M,2020-09-14,104925,Novak Djokovic,SRB,134770,Casper Ruud,NOR,1,12030,27,1739
+Rome Masters,Clay,M,2020-09-14,106043,Diego Schwartzman,ARG,133430,Denis Shapovalov,CAN,9,3455,12,2830
+Rome Masters,Clay,M,2020-09-14,104925,Novak Djokovic,SRB,136440,Dominik Koepfer,GER,1,12030,66,921
+Rome Masters,Clay,M,2020-09-14,134770,Casper Ruud,NOR,126610,Matteo Berrettini,ITA,27,1739,10,3075
+Rome Masters,Clay,M,2020-09-14,133430,Denis Shapovalov,CAN,105777,Grigor Dimitrov,BUL,12,2830,19,2260
+Rome Masters,Clay,M,2020-09-14,106043,Diego Schwartzman,ARG,104745,Rafael Nadal,ESP,9,3455,2,9850
+Rome Masters,Clay,M,2020-09-14,104925,Novak Djokovic,SRB,105936,Filip Krajinovic,SRB,1,12030,31,1628
+Rome Masters,Clay,M,2020-09-14,136440,Dominik Koepfer,GER,207518,Lorenzo Musetti,ITA,66,921,128,509
+Rome Masters,Clay,M,2020-09-14,126610,Matteo Berrettini,ITA,105882,Stefano Travaglia,ITA,10,3075,74,869
+Rome Masters,Clay,M,2020-09-14,134770,Casper Ruud,NOR,105227,Marin Cilic,CRO,27,1739,42,1325
+Rome Masters,Clay,M,2020-09-14,133430,Denis Shapovalov,CAN,200005,Ugo Humbert,FRA,12,2830,30,1646
+Rome Masters,Clay,M,2020-09-14,105777,Grigor Dimitrov,BUL,206173,Jannik Sinner,ITA,19,2260,37,1444
+Rome Masters,Clay,M,2020-09-14,106043,Diego Schwartzman,ARG,128034,Hubert Hurkacz,POL,9,3455,34,1518
+Rome Masters,Clay,M,2020-09-14,104745,Rafael Nadal,ESP,105583,Dusan Lajovic,SRB,2,9850,26,1785
+Rome Masters,Clay,M,2020-09-14,104925,Novak Djokovic,SRB,106099,Salvatore Caruso,ITA,1,12030,76,843
+Rome Masters,Clay,M,2020-09-14,105936,Filip Krajinovic,SRB,106065,Marco Cecchinato,ITA,31,1628,80,828
+Rome Masters,Clay,M,2020-09-14,207518,Lorenzo Musetti,ITA,105453,Kei Nishikori,JPN,128,509,41,1345
+Rome Masters,Clay,M,2020-09-14,136440,Dominik Koepfer,GER,104792,Gael Monfils,FRA,66,921,11,2860
+Rome Masters,Clay,M,2020-09-14,126610,Matteo Berrettini,ITA,105948,Federico Coria,ARG,10,3075,91,775
+Rome Masters,Clay,M,2020-09-14,105882,Stefano Travaglia,ITA,106432,Borna Coric,CRO,74,869,24,1855
+Rome Masters,Clay,M,2020-09-14,134770,Casper Ruud,NOR,132283,Lorenzo Sonego,ITA,27,1739,33,1568
+Rome Masters,Clay,M,2020-09-14,105227,Marin Cilic,CRO,105676,David Goffin,BEL,42,1325,15,2555
+Rome Masters,Clay,M,2020-09-14,200005,Ugo Humbert,FRA,104926,Fabio Fognini,ITA,30,1646,17,2400
+Rome Masters,Clay,M,2020-09-14,133430,Denis Shapovalov,CAN,124079,Pedro Martinez,ESP,12,2830,85,800
+Rome Masters,Clay,M,2020-09-14,105777,Grigor Dimitrov,BUL,106415,Yoshihito Nishioka,JPN,19,2260,56,1062
+Rome Masters,Clay,M,2020-09-14,206173,Jannik Sinner,ITA,126774,Stefanos Tsitsipas,GRE,37,1444,6,5925
+Rome Masters,Clay,M,2020-09-14,106043,Diego Schwartzman,ARG,105357,John Millman,AUS,9,3455,38,1421
+Rome Masters,Clay,M,2020-09-14,128034,Hubert Hurkacz,POL,126094,Andrey Rublev,RUS,34,1518,8,4119
+Rome Masters,Clay,M,2020-09-14,105583,Dusan Lajovic,SRB,105683,Milos Raonic,CAN,26,1785,14,2580
+Rome Masters,Clay,M,2020-09-14,104745,Rafael Nadal,ESP,105807,Pablo Carreno Busta,ESP,2,9850,16,2535
+Rome Masters,Clay,M,2020-09-14,106099,Salvatore Caruso,ITA,105815,Tennys Sandgren,USA,76,843,49,1081
+Rome Masters,Clay,M,2020-09-14,106065,Marco Cecchinato,ITA,106378,Kyle Edmund,GBR,80,828,48,1085
+Rome Masters,Clay,M,2020-09-14,105936,Filip Krajinovic,SRB,200000,Felix Auger Aliassime,CAN,31,1628,21,2216
+Rome Masters,Clay,M,2020-09-14,207518,Lorenzo Musetti,ITA,104527,Stan Wawrinka,SUI,128,509,18,2320
+Rome Masters,Clay,M,2020-09-14,105453,Kei Nishikori,JPN,105077,Albert Ramos,ESP,41,1345,46,1165
+Rome Masters,Clay,M,2020-09-14,136440,Dominik Koepfer,GER,200282,Alex De Minaur,AUS,66,921,23,1860
+Rome Masters,Clay,M,2020-09-14,105948,Federico Coria,ARG,105526,Jan Lennard Struff,GER,91,775,36,1450
+Rome Masters,Clay,M,2020-09-14,105882,Stefano Travaglia,ITA,126203,Taylor Fritz,USA,74,869,29,1670
+Rome Masters,Clay,M,2020-09-14,106432,Borna Coric,CRO,106426,Christian Garin,CHI,24,1855,22,2170
+Rome Masters,Clay,M,2020-09-14,134770,Casper Ruud,NOR,111575,Karen Khachanov,RUS,27,1739,20,2245
+Rome Masters,Clay,M,2020-09-14,132283,Lorenzo Sonego,ITA,105932,Nikoloz Basilashvili,GEO,33,1568,40,1395
+Rome Masters,Clay,M,2020-09-14,105227,Marin Cilic,CRO,122330,Alexander Bublik,KAZ,42,1325,50,1070
+Rome Masters,Clay,M,2020-09-14,200005,Ugo Humbert,FRA,104731,Kevin Anderson,RSA,30,1646,81,825
+Rome Masters,Clay,M,2020-09-14,124079,Pedro Martinez,ESP,105023,Sam Querrey,USA,85,800,53,1065
+Rome Masters,Clay,M,2020-09-14,133430,Denis Shapovalov,CAN,105550,Guido Pella,ARG,12,2830,43,1310
+Rome Masters,Clay,M,2020-09-14,105777,Grigor Dimitrov,BUL,126149,Gianluca Mager,ITA,19,2260,100,725
+Rome Masters,Clay,M,2020-09-14,106415,Yoshihito Nishioka,JPN,200175,Miomir Kecmanovic,SRB,56,1062,44,1308
+Rome Masters,Clay,M,2020-09-14,206173,Jannik Sinner,ITA,105332,Benoit Paire,FRA,37,1444,28,1738
+Rome Masters,Clay,M,2020-09-14,105357,John Millman,AUS,105311,Joao Sousa,POR,38,1421,90,776
+Rome Masters,Clay,M,2020-09-14,128034,Hubert Hurkacz,POL,105554,Daniel Evans,GBR,34,1518,32,1589
+Rome Masters,Clay,M,2020-09-14,126094,Andrey Rublev,RUS,105487,Facundo Bagnis,ARG,8,4119,125,531
+Rome Masters,Clay,M,2020-09-14,105683,Milos Raonic,CAN,105173,Adrian Mannarino,FRA,14,2580,35,1516
+Rome Masters,Clay,M,2020-09-14,105583,Dusan Lajovic,SRB,200221,Alejandro Davidovich Fokina,ESP,26,1785,52,1066
+Hamburg,Clay,A,2020-09-21,126094,Andrey Rublev,RUS,126774,Stefanos Tsitsipas,GRE,8,4119,6,5925
+Hamburg,Clay,A,2020-09-21,126094,Andrey Rublev,RUS,134770,Casper Ruud,NOR,8,4119,27,1739
+Hamburg,Clay,A,2020-09-21,126774,Stefanos Tsitsipas,GRE,106426,Christian Garin,CHI,6,5925,22,2170
+Hamburg,Clay,A,2020-09-21,134770,Casper Ruud,NOR,200005,Ugo Humbert,FRA,27,1739,30,1646
+Hamburg,Clay,A,2020-09-21,126094,Andrey Rublev,RUS,105138,Roberto Bautista Agut,ESP,8,4119,13,2710
+Hamburg,Clay,A,2020-09-21,106426,Christian Garin,CHI,122330,Alexander Bublik,KAZ,22,2170,50,1070
+Hamburg,Clay,A,2020-09-21,126774,Stefanos Tsitsipas,GRE,105583,Dusan Lajovic,SRB,6,5925,26,1785
+Hamburg,Clay,A,2020-09-21,200005,Ugo Humbert,FRA,106210,Jiri Vesely,CZE,30,1646,68,913
+Hamburg,Clay,A,2020-09-21,134770,Casper Ruud,NOR,104926,Fabio Fognini,ITA,27,1739,17,2400
+Hamburg,Clay,A,2020-09-21,105138,Roberto Bautista Agut,ESP,136440,Dominik Koepfer,GER,13,2710,66,921
+Hamburg,Clay,A,2020-09-21,126094,Andrey Rublev,RUS,126205,Tommy Paul,USA,8,4119,54,1065
+Hamburg,Clay,A,2020-09-21,122330,Alexander Bublik,KAZ,200000,Felix Auger Aliassime,CAN,50,1070,21,2216
+Hamburg,Clay,A,2020-09-21,106426,Christian Garin,CHI,105870,Yannick Hanfmann,GER,22,2170,99,728
+Hamburg,Clay,A,2020-09-21,105583,Dusan Lajovic,SRB,111575,Karen Khachanov,RUS,26,1785,20,2245
+Hamburg,Clay,A,2020-09-21,126774,Stefanos Tsitsipas,GRE,104655,Pablo Cuevas,URU,6,5925,67,917
+Hamburg,Clay,A,2020-09-21,200005,Ugo Humbert,FRA,106421,Daniil Medvedev,RUS,30,1646,4,8470
+Hamburg,Clay,A,2020-09-21,106210,Jiri Vesely,CZE,104468,Gilles Simon,FRA,68,913,63,1005
+Hamburg,Clay,A,2020-09-21,134770,Casper Ruud,NOR,105332,Benoit Paire,FRA,27,1739,28,1738
+Hamburg,Clay,A,2020-09-21,104926,Fabio Fognini,ITA,104259,Philipp Kohlschreiber,GER,17,2400,98,729
+Hamburg,Clay,A,2020-09-21,105138,Roberto Bautista Agut,ESP,105932,Nikoloz Basilashvili,GEO,13,2710,40,1395
+Hamburg,Clay,A,2020-09-21,136440,Dominik Koepfer,GER,106415,Yoshihito Nishioka,JPN,66,921,56,1062
+Hamburg,Clay,A,2020-09-21,126205,Tommy Paul,USA,104731,Kevin Anderson,RSA,54,1065,81,825
+Hamburg,Clay,A,2020-09-21,126094,Andrey Rublev,RUS,105815,Tennys Sandgren,USA,8,4119,49,1081
+Hamburg,Clay,A,2020-09-21,122330,Alexander Bublik,KAZ,105077,Albert Ramos,ESP,50,1070,46,1165
+Hamburg,Clay,A,2020-09-21,200000,Felix Auger Aliassime,CAN,132283,Lorenzo Sonego,ITA,21,2216,33,1568
+Hamburg,Clay,A,2020-09-21,106426,Christian Garin,CHI,105453,Kei Nishikori,JPN,22,2170,41,1345
+Hamburg,Clay,A,2020-09-21,105870,Yannick Hanfmann,GER,104792,Gael Monfils,FRA,99,728,11,2860
+Hamburg,Clay,A,2020-09-21,111575,Karen Khachanov,RUS,105526,Jan Lennard Struff,GER,20,2245,36,1450
+Hamburg,Clay,A,2020-09-21,105583,Dusan Lajovic,SRB,105173,Adrian Mannarino,FRA,26,1785,35,1516
+Hamburg,Clay,A,2020-09-21,104655,Pablo Cuevas,URU,126203,Taylor Fritz,USA,67,917,29,1670
+Hamburg,Clay,A,2020-09-21,126774,Stefanos Tsitsipas,GRE,105554,Daniel Evans,GBR,6,5925,32,1589
+Roland Garros,Clay,G,2020-09-28,104925,Novak Djokovic,SRB,144707,Mikael Ymer,SWE,1,12030,94,763
+Roland Garros,Clay,G,2020-09-28,105575,Ricardas Berankis,LTU,106198,Hugo Dellien,BOL,69,889,111,638
+Roland Garros,Clay,G,2020-09-28,123755,Daniel Elahi Galan,COL,111815,Cameron Norrie,GBR,115,599,71,877
+Roland Garros,Clay,G,2020-09-28,105815,Tennys Sandgren,USA,128034,Hubert Hurkacz,POL,49,1081,34,1518
+Roland Garros,Clay,G,2020-09-28,106426,Christian Garin,CHI,104259,Philipp Kohlschreiber,GER,22,2170,98,729
+Roland Garros,Clay,G,2020-09-28,117360,Marc Polmans,AUS,200005,Ugo Humbert,FRA,124,539,30,1646
+Roland Garros,Clay,G,2020-09-28,106210,Jiri Vesely,CZE,106281,Liam Broady,GBR,68,913,188,340
+Roland Garros,Clay,G,2020-09-28,111575,Karen Khachanov,RUS,111794,Kamil Majchrzak,POL,20,2245,107,680
+Roland Garros,Clay,G,2020-09-28,105138,Roberto Bautista Agut,ESP,104755,Richard Gasquet,FRA,13,2710,47,1145
+Roland Garros,Clay,G,2020-09-28,105226,Attila Balazs,HUN,106034,Yasutaka Uchiyama,JPN,92,774,104,696
+Roland Garros,Clay,G,2020-09-28,105550,Guido Pella,ARG,106099,Salvatore Caruso,ITA,43,1310,76,843
+Roland Garros,Clay,G,2020-09-28,105807,Pablo Carreno Busta,ESP,105357,John Millman,AUS,16,2535,38,1421
+Roland Garros,Clay,G,2020-09-28,105526,Jan Lennard Struff,GER,126207,Frances Tiafoe,USA,36,1450,59,1030
+Roland Garros,Clay,G,2020-09-28,127157,Daniel Altmaier,GER,103852,Feliciano Lopez,ESP,130,501,64,998
+Roland Garros,Clay,G,2020-09-28,144750,Lloyd Harris,RSA,200615,Alexei Popyrin,AUS,87,793,113,623
+Roland Garros,Clay,G,2020-09-28,126610,Matteo Berrettini,ITA,105577,Vasek Pospisil,CAN,10,3075,61,1006
+Roland Garros,Clay,G,2020-09-28,105916,Marton Fucsovics,HUN,106421,Daniil Medvedev,RUS,55,1062,4,8470
+Roland Garros,Clay,G,2020-09-28,105077,Albert Ramos,ESP,105173,Adrian Mannarino,FRA,46,1165,35,1516
+Roland Garros,Clay,G,2020-09-28,106218,Marcos Giron,USA,111460,Quentin Halys,FRA,73,869,203,310
+Roland Garros,Clay,G,2020-09-28,106329,Thiago Monteiro,BRA,105932,Nikoloz Basilashvili,GEO,84,804,40,1395
+Roland Garros,Clay,G,2020-09-28,105583,Dusan Lajovic,SRB,126149,Gianluca Mager,ITA,26,1785,100,725
+Roland Garros,Clay,G,2020-09-28,104731,Kevin Anderson,RSA,111513,Laslo Djere,SRB,81,825,57,1058
+Roland Garros,Clay,G,2020-09-28,200221,Alejandro Davidovich Fokina,ESP,208004,Harold Mayot,FRA,52,1066,426,88
+Roland Garros,Clay,G,2020-09-28,126094,Andrey Rublev,RUS,105023,Sam Querrey,USA,8,4119,53,1065
+Roland Garros,Clay,G,2020-09-28,133430,Denis Shapovalov,CAN,104468,Gilles Simon,FRA,12,2830,63,1005
+Roland Garros,Clay,G,2020-09-28,106148,Roberto Carballes Baena,ESP,105449,Steve Johnson,USA,97,731,72,870
+Roland Garros,Clay,G,2020-09-28,105413,Andrej Martin,SVK,105311,Joao Sousa,POR,101,724,90,776
+Roland Garros,Clay,G,2020-09-28,105777,Grigor Dimitrov,BUL,106296,Gregoire Barrere,FRA,19,2260,109,647
+Roland Garros,Clay,G,2020-09-28,110748,Nikola Milojevic,SRB,105936,Filip Krajinovic,SRB,138,472,31,1628
+Roland Garros,Clay,G,2020-09-28,105379,Aljaz Bedene,SLO,126239,Arthur Rinderknech,FRA,58,1045,178,361
+Roland Garros,Clay,G,2020-09-28,104655,Pablo Cuevas,URU,105967,Henri Laaksonen,SUI,67,917,134,485
+Roland Garros,Clay,G,2020-09-28,126774,Stefanos Tsitsipas,GRE,144719,Jaume Munar,ESP,6,5925,110,646
+Roland Garros,Clay,G,2020-09-28,122330,Alexander Bublik,KAZ,104792,Gael Monfils,FRA,50,1070,11,2860
+Roland Garros,Clay,G,2020-09-28,132283,Lorenzo Sonego,ITA,105877,Emilio Gomez,ECU,33,1568,160,395
+Roland Garros,Clay,G,2020-09-28,105430,Radu Albot,MDA,111442,Jordan Thompson,AUS,93,772,51,1068
+Roland Garros,Clay,G,2020-09-28,126203,Taylor Fritz,USA,207830,Tomas Machac,CZE,29,1670,195,331
+Roland Garros,Clay,G,2020-09-28,105613,Norbert Gombos,SVK,106432,Borna Coric,CRO,88,789,24,1855
+Roland Garros,Clay,G,2020-09-28,200514,Jurij Rodionov,AUT,104871,Jeremy Chardy,FRA,144,455,75,860
+Roland Garros,Clay,G,2020-09-28,105841,Lorenzo Giustino,ITA,144895,Corentin Moutet,FRA,152,426,77,838
+Roland Garros,Clay,G,2020-09-28,106043,Diego Schwartzman,ARG,200175,Miomir Kecmanovic,SRB,9,3455,44,1308
+Roland Garros,Clay,G,2020-09-28,104527,Stan Wawrinka,SUI,104918,Andy Murray,GBR,18,2320,122,547
+Roland Garros,Clay,G,2020-09-28,136440,Dominik Koepfer,GER,126156,Antoine Hoang,FRA,66,921,121,550
+Roland Garros,Clay,G,2020-09-28,200384,Hugo Gaston,FRA,126125,Maxime Janvier,FRA,162,390,210,293
+Roland Garros,Clay,G,2020-09-28,106415,Yoshihito Nishioka,JPN,200000,Felix Auger Aliassime,CAN,56,1062,21,2216
+Roland Garros,Clay,G,2020-09-28,134770,Casper Ruud,NOR,105216,Yuichi Sugita,JPN,27,1739,102,713
+Roland Garros,Clay,G,2020-09-28,126205,Tommy Paul,USA,105902,James Duckworth,AUS,54,1065,103,701
+Roland Garros,Clay,G,2020-09-28,106058,Jack Sock,USA,124187,Reilly Opelka,USA,253,217,39,1402
+Roland Garros,Clay,G,2020-09-28,106233,Dominic Thiem,AUT,105227,Marin Cilic,CRO,3,9125,42,1325
+Roland Garros,Clay,G,2020-09-28,100644,Alexander Zverev,GER,110602,Dennis Novak,AUT,7,5525,96,737
+Roland Garros,Clay,G,2020-09-28,105732,Pierre Hugues Herbert,FRA,111581,Michael Mmoh,USA,83,812,174,368
+Roland Garros,Clay,G,2020-09-28,106228,Juan Ignacio Londero,ARG,105643,Federico Delbonis,ARG,79,832,82,825
+Roland Garros,Clay,G,2020-09-28,106065,Marco Cecchinato,ITA,200282,Alex De Minaur,AUS,80,828,23,1860
+Roland Garros,Clay,G,2020-09-28,105332,Benoit Paire,FRA,126952,Soon Woo Kwon,KOR,28,1738,95,752
+Roland Garros,Clay,G,2020-09-28,105948,Federico Coria,ARG,105359,Jason Jung,TPE,91,775,132,490
+Roland Garros,Clay,G,2020-09-28,126127,Benjamin Bonzi,FRA,200325,Emil Ruusuvuori,FIN,165,388,86,796
+Roland Garros,Clay,G,2020-09-28,206173,Jannik Sinner,ITA,105676,David Goffin,BEL,37,1444,15,2555
+Roland Garros,Clay,G,2020-09-28,105062,Mikhail Kukushkin,KAZ,104926,Fabio Fognini,ITA,89,776,17,2400
+Roland Garros,Clay,G,2020-09-28,124079,Pedro Martinez,ESP,126846,Aleksandar Vukic,AUS,85,800,196,331
+Roland Garros,Clay,G,2020-09-28,200624,Sebastian Korda,USA,104312,Andreas Seppi,ITA,118,563,106,689
+Roland Garros,Clay,G,2020-09-28,104545,John Isner,USA,200611,Elliot Benchetrit,FRA,25,1850,223,255
+Roland Garros,Clay,G,2020-09-28,105453,Kei Nishikori,JPN,105554,Daniel Evans,GBR,41,1345,32,1589
+Roland Garros,Clay,G,2020-09-28,105882,Stefano Travaglia,ITA,104665,Pablo Andujar,ESP,74,869,60,1024
+Roland Garros,Clay,G,2020-09-28,111456,Mackenzie McDonald,USA,105731,Steven Diez,CAN,193,335,179,358
+Roland Garros,Clay,G,2020-09-28,104745,Rafael Nadal,ESP,106078,Egor Gerasimov,BLR,2,9850,78,834
+Roland Garros,Clay,G,2020-09-28,104925,Novak Djokovic,SRB,105575,Ricardas Berankis,LTU,1,12030,69,889
+Roland Garros,Clay,G,2020-09-28,123755,Daniel Elahi Galan,COL,105815,Tennys Sandgren,USA,115,599,49,1081
+Roland Garros,Clay,G,2020-09-28,106426,Christian Garin,CHI,117360,Marc Polmans,AUS,22,2170,124,539
+Roland Garros,Clay,G,2020-09-28,111575,Karen Khachanov,RUS,106210,Jiri Vesely,CZE,20,2245,68,913
+Roland Garros,Clay,G,2020-09-28,105138,Roberto Bautista Agut,ESP,105226,Attila Balazs,HUN,13,2710,92,774
+Roland Garros,Clay,G,2020-09-28,105807,Pablo Carreno Busta,ESP,105550,Guido Pella,ARG,16,2535,43,1310
+Roland Garros,Clay,G,2020-09-28,127157,Daniel Altmaier,GER,105526,Jan Lennard Struff,GER,130,501,36,1450
+Roland Garros,Clay,G,2020-09-28,126610,Matteo Berrettini,ITA,144750,Lloyd Harris,RSA,10,3075,87,793
+Roland Garros,Clay,G,2020-09-28,105916,Marton Fucsovics,HUN,105077,Albert Ramos,ESP,55,1062,46,1165
+Roland Garros,Clay,G,2020-09-28,106329,Thiago Monteiro,BRA,106218,Marcos Giron,USA,84,804,73,869
+Roland Garros,Clay,G,2020-09-28,104731,Kevin Anderson,RSA,105583,Dusan Lajovic,SRB,81,825,26,1785
+Roland Garros,Clay,G,2020-09-28,126094,Andrey Rublev,RUS,200221,Alejandro Davidovich Fokina,ESP,8,4119,52,1066
+Roland Garros,Clay,G,2020-09-28,106148,Roberto Carballes Baena,ESP,133430,Denis Shapovalov,CAN,97,731,12,2830
+Roland Garros,Clay,G,2020-09-28,105777,Grigor Dimitrov,BUL,105413,Andrej Martin,SVK,19,2260,101,724
+Roland Garros,Clay,G,2020-09-28,105379,Aljaz Bedene,SLO,110748,Nikola Milojevic,SRB,58,1045,138,472
+Roland Garros,Clay,G,2020-09-28,126774,Stefanos Tsitsipas,GRE,104655,Pablo Cuevas,URU,6,5925,67,917
+Roland Garros,Clay,G,2020-09-28,132283,Lorenzo Sonego,ITA,122330,Alexander Bublik,KAZ,33,1568,50,1070
+Roland Garros,Clay,G,2020-09-28,126203,Taylor Fritz,USA,105430,Radu Albot,MDA,29,1670,93,772
+Roland Garros,Clay,G,2020-09-28,105613,Norbert Gombos,SVK,200514,Jurij Rodionov,AUT,88,789,144,455
+Roland Garros,Clay,G,2020-09-28,106043,Diego Schwartzman,ARG,105841,Lorenzo Giustino,ITA,9,3455,152,426
+Roland Garros,Clay,G,2020-09-28,104527,Stan Wawrinka,SUI,136440,Dominik Koepfer,GER,18,2320,66,921
+Roland Garros,Clay,G,2020-09-28,200384,Hugo Gaston,FRA,106415,Yoshihito Nishioka,JPN,162,390,56,1062
+Roland Garros,Clay,G,2020-09-28,134770,Casper Ruud,NOR,126205,Tommy Paul,USA,27,1739,54,1065
+Roland Garros,Clay,G,2020-09-28,106233,Dominic Thiem,AUT,106058,Jack Sock,USA,3,9125,253,217
+Roland Garros,Clay,G,2020-09-28,100644,Alexander Zverev,GER,105732,Pierre Hugues Herbert,FRA,7,5525,83,812
+Roland Garros,Clay,G,2020-09-28,106065,Marco Cecchinato,ITA,106228,Juan Ignacio Londero,ARG,80,828,79,832
+Roland Garros,Clay,G,2020-09-28,105948,Federico Coria,ARG,105332,Benoit Paire,FRA,91,775,28,1738
+Roland Garros,Clay,G,2020-09-28,206173,Jannik Sinner,ITA,126127,Benjamin Bonzi,FRA,37,1444,165,388
+Roland Garros,Clay,G,2020-09-28,124079,Pedro Martinez,ESP,105062,Mikhail Kukushkin,KAZ,85,800,89,776
+Roland Garros,Clay,G,2020-09-28,200624,Sebastian Korda,USA,104545,John Isner,USA,118,563,25,1850
+Roland Garros,Clay,G,2020-09-28,105882,Stefano Travaglia,ITA,105453,Kei Nishikori,JPN,74,869,41,1345
+Roland Garros,Clay,G,2020-09-28,104745,Rafael Nadal,ESP,111456,Mackenzie McDonald,USA,2,9850,193,335
+Roland Garros,Clay,G,2020-09-28,104925,Novak Djokovic,SRB,123755,Daniel Elahi Galan,COL,1,12030,115,599
+Roland Garros,Clay,G,2020-09-28,111575,Karen Khachanov,RUS,106426,Christian Garin,CHI,20,2245,22,2170
+Roland Garros,Clay,G,2020-09-28,105807,Pablo Carreno Busta,ESP,105138,Roberto Bautista Agut,ESP,16,2535,13,2710
+Roland Garros,Clay,G,2020-09-28,127157,Daniel Altmaier,GER,126610,Matteo Berrettini,ITA,130,501,10,3075
+Roland Garros,Clay,G,2020-09-28,105916,Marton Fucsovics,HUN,106329,Thiago Monteiro,BRA,55,1062,84,804
+Roland Garros,Clay,G,2020-09-28,126094,Andrey Rublev,RUS,104731,Kevin Anderson,RSA,8,4119,81,825
+Roland Garros,Clay,G,2020-09-28,105777,Grigor Dimitrov,BUL,106148,Roberto Carballes Baena,ESP,19,2260,97,731
+Roland Garros,Clay,G,2020-09-28,126774,Stefanos Tsitsipas,GRE,105379,Aljaz Bedene,SLO,6,5925,58,1045
+Roland Garros,Clay,G,2020-09-28,132283,Lorenzo Sonego,ITA,126203,Taylor Fritz,USA,33,1568,29,1670
+Roland Garros,Clay,G,2020-09-28,106043,Diego Schwartzman,ARG,105613,Norbert Gombos,SVK,9,3455,88,789
+Roland Garros,Clay,G,2020-09-28,200384,Hugo Gaston,FRA,104527,Stan Wawrinka,SUI,162,390,18,2320
+Roland Garros,Clay,G,2020-09-28,106233,Dominic Thiem,AUT,134770,Casper Ruud,NOR,3,9125,27,1739
+Roland Garros,Clay,G,2020-09-28,100644,Alexander Zverev,GER,106065,Marco Cecchinato,ITA,7,5525,80,828
+Roland Garros,Clay,G,2020-09-28,206173,Jannik Sinner,ITA,105948,Federico Coria,ARG,37,1444,91,775
+Roland Garros,Clay,G,2020-09-28,200624,Sebastian Korda,USA,124079,Pedro Martinez,ESP,118,563,85,800
+Roland Garros,Clay,G,2020-09-28,104745,Rafael Nadal,ESP,105882,Stefano Travaglia,ITA,2,9850,74,869
+Roland Garros,Clay,G,2020-09-28,104925,Novak Djokovic,SRB,111575,Karen Khachanov,RUS,1,12030,20,2245
+Roland Garros,Clay,G,2020-09-28,105807,Pablo Carreno Busta,ESP,127157,Daniel Altmaier,GER,16,2535,130,501
+Roland Garros,Clay,G,2020-09-28,126094,Andrey Rublev,RUS,105916,Marton Fucsovics,HUN,8,4119,55,1062
+Roland Garros,Clay,G,2020-09-28,126774,Stefanos Tsitsipas,GRE,105777,Grigor Dimitrov,BUL,6,5925,19,2260
+Roland Garros,Clay,G,2020-09-28,106043,Diego Schwartzman,ARG,132283,Lorenzo Sonego,ITA,9,3455,33,1568
+Roland Garros,Clay,G,2020-09-28,106233,Dominic Thiem,AUT,200384,Hugo Gaston,FRA,3,9125,162,390
+Roland Garros,Clay,G,2020-09-28,206173,Jannik Sinner,ITA,100644,Alexander Zverev,GER,37,1444,7,5525
+Roland Garros,Clay,G,2020-09-28,104745,Rafael Nadal,ESP,200624,Sebastian Korda,USA,2,9850,118,563
+Roland Garros,Clay,G,2020-09-28,104925,Novak Djokovic,SRB,105807,Pablo Carreno Busta,ESP,1,12030,16,2535
+Roland Garros,Clay,G,2020-09-28,126774,Stefanos Tsitsipas,GRE,126094,Andrey Rublev,RUS,6,5925,8,4119
+Roland Garros,Clay,G,2020-09-28,106043,Diego Schwartzman,ARG,106233,Dominic Thiem,AUT,9,3455,3,9125
+Roland Garros,Clay,G,2020-09-28,104745,Rafael Nadal,ESP,206173,Jannik Sinner,ITA,2,9850,37,1444
+Roland Garros,Clay,G,2020-09-28,104925,Novak Djokovic,SRB,126774,Stefanos Tsitsipas,GRE,1,12030,6,5925
+Roland Garros,Clay,G,2020-09-28,104745,Rafael Nadal,ESP,106043,Diego Schwartzman,ARG,2,9850,9,3455
+Roland Garros,Clay,G,2020-09-28,104745,Rafael Nadal,ESP,104925,Novak Djokovic,SRB,2,9850,1,12030
+Cologne 1,Hard,A,2020-10-12,100644,Alexander Zverev,GER,200000,Felix Auger Aliassime,CAN,7,5525,21,2216
+Cologne 1,Hard,A,2020-10-12,100644,Alexander Zverev,GER,200221,Alejandro Davidovich Fokina,ESP,7,5525,52,1066
+Cologne 1,Hard,A,2020-10-12,200000,Felix Auger Aliassime,CAN,105138,Roberto Bautista Agut,ESP,21,2216,13,2710
+Cologne 1,Hard,A,2020-10-12,100644,Alexander Zverev,GER,144750,Lloyd Harris,RSA,7,5525,87,793
+Cologne 1,Hard,A,2020-10-12,200221,Alejandro Davidovich Fokina,ESP,110602,Dennis Novak,AUT,52,1066,96,737
+Cologne 1,Hard,A,2020-10-12,200000,Felix Auger Aliassime,CAN,105430,Radu Albot,MDA,21,2216,93,772
+Cologne 1,Hard,A,2020-10-12,105138,Roberto Bautista Agut,ESP,128034,Hubert Hurkacz,POL,13,2710,34,1518
+Cologne 1,Hard,A,2020-10-12,100644,Alexander Zverev,GER,104269,Fernando Verdasco,ESP,7,5525,65,975
+Cologne 1,Hard,A,2020-10-12,144750,Lloyd Harris,RSA,105449,Steve Johnson,USA,87,793,72,870
+Cologne 1,Hard,A,2020-10-12,110602,Dennis Novak,AUT,105332,Benoit Paire,FRA,96,737,28,1738
+Cologne 1,Hard,A,2020-10-12,200221,Alejandro Davidovich Fokina,ESP,105227,Marin Cilic,CRO,52,1066,42,1325
+Cologne 1,Hard,A,2020-10-12,105430,Radu Albot,MDA,106214,Oscar Otte,GER,93,772,140,467
+Cologne 1,Hard,A,2020-10-12,200000,Felix Auger Aliassime,CAN,105967,Henri Laaksonen,SUI,21,2216,134,485
+Cologne 1,Hard,A,2020-10-12,128034,Hubert Hurkacz,POL,104999,Mischa Zverev,GER,34,1518,264,208
+Cologne 1,Hard,A,2020-10-12,105138,Roberto Bautista Agut,ESP,104468,Gilles Simon,FRA,13,2710,63,1005
+Cologne 1,Hard,A,2020-10-12,104269,Fernando Verdasco,ESP,104918,Andy Murray,GBR,65,975,122,547
+Cologne 1,Hard,A,2020-10-12,144750,Lloyd Harris,RSA,106378,Kyle Edmund,GBR,87,793,48,1085
+Cologne 1,Hard,A,2020-10-12,105449,Steve Johnson,USA,105936,Filip Krajinovic,SRB,72,870,31,1628
+Cologne 1,Hard,A,2020-10-12,110602,Dennis Novak,AUT,111442,Jordan Thompson,AUS,96,737,51,1068
+Cologne 1,Hard,A,2020-10-12,200221,Alejandro Davidovich Fokina,ESP,200325,Emil Ruusuvuori,FIN,52,1066,86,796
+Cologne 1,Hard,A,2020-10-12,105227,Marin Cilic,CRO,106218,Marcos Giron,USA,42,1325,73,869
+Cologne 1,Hard,A,2020-10-12,106214,Oscar Otte,GER,105526,Jan Lennard Struff,GER,140,467,36,1450
+Cologne 1,Hard,A,2020-10-12,105430,Radu Albot,MDA,105732,Pierre Hugues Herbert,FRA,93,772,83,812
+Cologne 1,Hard,A,2020-10-12,105967,Henri Laaksonen,SUI,127157,Daniel Altmaier,GER,134,485,130,501
+Cologne 1,Hard,A,2020-10-12,128034,Hubert Hurkacz,POL,117360,Marc Polmans,AUS,34,1518,124,539
+Cologne 1,Hard,A,2020-10-12,104999,Mischa Zverev,GER,105357,John Millman,AUS,264,208,38,1421
+Cologne 1,Hard,A,2020-10-12,104468,Gilles Simon,FRA,105916,Marton Fucsovics,HUN,63,1005,55,1062
+Sardinia,Clay,A,2020-10-12,111513,Laslo Djere,SRB,106065,Marco Cecchinato,ITA,57,1058,80,828
+Sardinia,Clay,A,2020-10-12,106065,Marco Cecchinato,ITA,105905,Danilo Petrovic,SRB,80,828,142,458
+Sardinia,Clay,A,2020-10-12,111513,Laslo Djere,SRB,207518,Lorenzo Musetti,ITA,57,1058,128,509
+Sardinia,Clay,A,2020-10-12,105905,Danilo Petrovic,SRB,105643,Federico Delbonis,ARG,142,458,82,825
+Sardinia,Clay,A,2020-10-12,106065,Marco Cecchinato,ITA,105077,Albert Ramos,ESP,80,828,46,1165
+Sardinia,Clay,A,2020-10-12,207518,Lorenzo Musetti,ITA,105870,Yannick Hanfmann,GER,128,509,99,728
+Sardinia,Clay,A,2020-10-12,111513,Laslo Djere,SRB,106210,Jiri Vesely,CZE,57,1058,68,913
+Sardinia,Clay,A,2020-10-12,105905,Danilo Petrovic,SRB,106148,Roberto Carballes Baena,ESP,142,458,97,731
+Sardinia,Clay,A,2020-10-12,105643,Federico Delbonis,ARG,104665,Pablo Andujar,ESP,82,825,60,1024
+Sardinia,Clay,A,2020-10-12,105077,Albert Ramos,ESP,144895,Corentin Moutet,FRA,46,1165,77,838
+Sardinia,Clay,A,2020-10-12,106065,Marco Cecchinato,ITA,126205,Tommy Paul,USA,80,828,54,1065
+Sardinia,Clay,A,2020-10-12,207518,Lorenzo Musetti,ITA,126504,Andrea Pellegrino,ITA,128,509,279,188
+Sardinia,Clay,A,2020-10-12,105870,Yannick Hanfmann,GER,134770,Casper Ruud,NOR,99,728,27,1739
+Sardinia,Clay,A,2020-10-12,106210,Jiri Vesely,CZE,132283,Lorenzo Sonego,ITA,68,913,33,1568
+Sardinia,Clay,A,2020-10-12,111513,Laslo Djere,SRB,105583,Dusan Lajovic,SRB,57,1058,26,1785
+Sardinia,Clay,A,2020-10-12,106148,Roberto Carballes Baena,ESP,105948,Federico Coria,ARG,97,731,91,775
+Sardinia,Clay,A,2020-10-12,105643,Federico Delbonis,ARG,104312,Andreas Seppi,ITA,82,825,106,689
+Sardinia,Clay,A,2020-10-12,104665,Pablo Andujar,ESP,106075,Jozef Kovalik,SVK,60,1024,131,498
+Sardinia,Clay,A,2020-10-12,144895,Corentin Moutet,FRA,126207,Frances Tiafoe,USA,77,838,59,1030
+Sardinia,Clay,A,2020-10-12,106065,Marco Cecchinato,ITA,126149,Gianluca Mager,ITA,80,828,100,725
+Sardinia,Clay,A,2020-10-12,126205,Tommy Paul,USA,105413,Andrej Martin,SVK,54,1065,101,724
+Sardinia,Clay,A,2020-10-12,207518,Lorenzo Musetti,ITA,104655,Pablo Cuevas,URU,128,509,67,917
+Sardinia,Clay,A,2020-10-12,126504,Andrea Pellegrino,ITA,105882,Stefano Travaglia,ITA,279,188,74,869
+Sardinia,Clay,A,2020-10-12,105870,Yannick Hanfmann,GER,106099,Salvatore Caruso,ITA,99,728,76,843
+Sardinia,Clay,A,2020-10-12,132283,Lorenzo Sonego,ITA,206748,Giulio Zeppieri,ITA,33,1568,324,135
+Sardinia,Clay,A,2020-10-12,106210,Jiri Vesely,CZE,111794,Kamil Majchrzak,POL,68,913,107,680
+Sardinia,Clay,A,2020-10-12,111513,Laslo Djere,SRB,111576,Sumit Nagal,IND,57,1058,136,475
+St Petersburg,Hard,A,2020-10-12,126094,Andrey Rublev,RUS,106432,Borna Coric,CRO,8,4119,24,1855
+St Petersburg,Hard,A,2020-10-12,106432,Borna Coric,CRO,105683,Milos Raonic,CAN,24,1855,14,2580
+St Petersburg,Hard,A,2020-10-12,126094,Andrey Rublev,RUS,133430,Denis Shapovalov,CAN,8,4119,12,2830
+St Petersburg,Hard,A,2020-10-12,106432,Borna Coric,CRO,124187,Reilly Opelka,USA,24,1855,39,1402
+St Petersburg,Hard,A,2020-10-12,105683,Milos Raonic,CAN,111575,Karen Khachanov,RUS,14,2580,20,2245
+St Petersburg,Hard,A,2020-10-12,126094,Andrey Rublev,RUS,111815,Cameron Norrie,GBR,8,4119,71,877
+St Petersburg,Hard,A,2020-10-12,133430,Denis Shapovalov,CAN,104527,Stan Wawrinka,SUI,12,2830,18,2320
+St Petersburg,Hard,A,2020-10-12,124187,Reilly Opelka,USA,106421,Daniil Medvedev,RUS,39,1402,4,8470
+St Petersburg,Hard,A,2020-10-12,106432,Borna Coric,CRO,126128,Roman Safiullin,RUS,24,1855,182,350
+St Petersburg,Hard,A,2020-10-12,111575,Karen Khachanov,RUS,106234,Aslan Karatsev,RUS,20,2245,112,637
+St Petersburg,Hard,A,2020-10-12,105683,Milos Raonic,CAN,122330,Alexander Bublik,KAZ,14,2580,50,1070
+St Petersburg,Hard,A,2020-10-12,111815,Cameron Norrie,GBR,200175,Miomir Kecmanovic,SRB,71,877,44,1308
+St Petersburg,Hard,A,2020-10-12,126094,Andrey Rublev,RUS,200005,Ugo Humbert,FRA,8,4119,30,1646
+St Petersburg,Hard,A,2020-10-12,104527,Stan Wawrinka,SUI,105539,Evgeny Donskoy,RUS,18,2320,123,540
+St Petersburg,Hard,A,2020-10-12,133430,Denis Shapovalov,CAN,125802,Ilya Ivashka,BLR,12,2830,108,674
+St Petersburg,Hard,A,2020-10-12,106421,Daniil Medvedev,RUS,104755,Richard Gasquet,FRA,4,8470,47,1145
+St Petersburg,Hard,A,2020-10-12,124187,Reilly Opelka,USA,126120,Nino Serdarusic,CRO,39,1402,293,168
+St Petersburg,Hard,A,2020-10-12,126128,Roman Safiullin,RUS,105877,Emilio Gomez,ECU,182,350,160,395
+St Petersburg,Hard,A,2020-10-12,106432,Borna Coric,CRO,103852,Feliciano Lopez,ESP,24,1855,64,998
+St Petersburg,Hard,A,2020-10-12,111575,Karen Khachanov,RUS,105902,James Duckworth,AUS,20,2245,103,701
+St Petersburg,Hard,A,2020-10-12,106234,Aslan Karatsev,RUS,105815,Tennys Sandgren,USA,112,637,49,1081
+St Petersburg,Hard,A,2020-10-12,122330,Alexander Bublik,KAZ,111456,Mackenzie McDonald,USA,50,1070,193,335
+St Petersburg,Hard,A,2020-10-12,105683,Milos Raonic,CAN,200670,J.J. Wolf,USA,14,2580,127,519
+St Petersburg,Hard,A,2020-10-12,111815,Cameron Norrie,GBR,126203,Taylor Fritz,USA,71,877,29,1670
+St Petersburg,Hard,A,2020-10-12,200175,Miomir Kecmanovic,SRB,105062,Mikhail Kukushkin,KAZ,44,1308,89,776
+St Petersburg,Hard,A,2020-10-12,200005,Ugo Humbert,FRA,200303,Pavel Kotov,RUS,30,1646,272,202
+St Petersburg,Hard,A,2020-10-12,126094,Andrey Rublev,RUS,105577,Vasek Pospisil,CAN,8,4119,61,1006
+St Petersburg,Hard,A,2020-10-12,104527,Stan Wawrinka,SUI,105554,Daniel Evans,GBR,18,2320,32,1589
+St Petersburg,Hard,A,2020-10-12,105539,Evgeny Donskoy,RUS,106078,Egor Gerasimov,BLR,123,540,78,834
+St Petersburg,Hard,A,2020-10-12,125802,Ilya Ivashka,BLR,105173,Adrian Mannarino,FRA,108,674,35,1516
+St Petersburg,Hard,A,2020-10-12,133430,Denis Shapovalov,CAN,104678,Viktor Troicki,SRB,12,2830,201,323
+Antwerp,Hard,A,2020-10-19,103852,Feliciano Lopez,ESP,126205,Tommy Paul,USA,64,998,54,1065
+Antwerp,Hard,A,2020-10-19,106218,Marcos Giron,USA,208134,Luca Nardi,ITA,73,869,785,22
+Antwerp,Hard,A,2020-10-19,104755,Richard Gasquet,FRA,200282,Alex De Minaur,AUS,47,1145,23,1860
+Antwerp,Hard,A,2020-10-19,105453,Kei Nishikori,JPN,104665,Pablo Andujar,ESP,41,1345,60,1024
+Antwerp,Hard,A,2020-10-19,200325,Emil Ruusuvuori,FIN,111815,Cameron Norrie,GBR,86,796,71,877
+Antwerp,Hard,A,2020-10-19,105379,Aljaz Bedene,SLO,105683,Milos Raonic,CAN,58,1045,14,2580
+Antwerp,Hard,A,2020-10-19,105583,Dusan Lajovic,SRB,126207,Frances Tiafoe,USA,26,1785,59,1030
+Antwerp,Hard,A,2020-10-19,106099,Salvatore Caruso,ITA,105554,Daniel Evans,GBR,76,843,32,1589
+Antwerp,Hard,A,2020-10-19,200267,Zizou Bergs,BEL,105077,Albert Ramos,ESP,437,86,46,1165
+Antwerp,Hard,A,2020-10-19,126203,Taylor Fritz,USA,124187,Reilly Opelka,USA,29,1670,39,1402
+Antwerp,Hard,A,2020-10-19,144895,Corentin Moutet,FRA,144750,Lloyd Harris,RSA,77,838,87,793
+Antwerp,Hard,A,2020-10-19,106293,Kimmer Coppejans,BEL,200005,Ugo Humbert,FRA,177,361,30,1646
+Cologne 2,Hard,A,2020-10-19,100644,Alexander Zverev,GER,106043,Diego Schwartzman,ARG,7,5525,9,3455
+Cologne 2,Hard,A,2020-10-19,100644,Alexander Zverev,GER,206173,Jannik Sinner,ITA,7,5525,37,1444
+Cologne 2,Hard,A,2020-10-19,106043,Diego Schwartzman,ARG,200000,Felix Auger Aliassime,CAN,9,3455,21,2216
+Cologne 2,Hard,A,2020-10-19,100644,Alexander Zverev,GER,105173,Adrian Mannarino,FRA,7,5525,35,1516
+Cologne 2,Hard,A,2020-10-19,206173,Jannik Sinner,ITA,104468,Gilles Simon,FRA,37,1444,63,1005
+Cologne 2,Hard,A,2020-10-19,200000,Felix Auger Aliassime,CAN,106415,Yoshihito Nishioka,JPN,21,2216,56,1062
+Cologne 2,Hard,A,2020-10-19,106043,Diego Schwartzman,ARG,200221,Alejandro Davidovich Fokina,ESP,9,3455,52,1066
+Cologne 2,Hard,A,2020-10-19,100644,Alexander Zverev,GER,105357,John Millman,AUS,7,5525,38,1421
+Cologne 2,Hard,A,2020-10-19,105173,Adrian Mannarino,FRA,200175,Miomir Kecmanovic,SRB,35,1516,44,1308
+Cologne 2,Hard,A,2020-10-19,104468,Gilles Simon,FRA,133430,Denis Shapovalov,CAN,63,1005,12,2830
+Cologne 2,Hard,A,2020-10-19,206173,Jannik Sinner,ITA,105732,Pierre Hugues Herbert,FRA,37,1444,83,812
+Cologne 2,Hard,A,2020-10-19,106415,Yoshihito Nishioka,JPN,105526,Jan Lennard Struff,GER,56,1062,36,1450
+Cologne 2,Hard,A,2020-10-19,200000,Felix Auger Aliassime,CAN,106078,Egor Gerasimov,BLR,21,2216,78,834
+Cologne 2,Hard,A,2020-10-19,200221,Alejandro Davidovich Fokina,ESP,105449,Steve Johnson,USA,52,1066,72,870
+Cologne 2,Hard,A,2020-10-19,106043,Diego Schwartzman,ARG,106214,Oscar Otte,GER,9,3455,140,467
+Cologne 2,Hard,A,2020-10-19,105357,John Millman,AUS,104269,Fernando Verdasco,ESP,38,1421,65,975
+Cologne 2,Hard,A,2020-10-19,200175,Miomir Kecmanovic,SRB,111576,Sumit Nagal,IND,44,1308,136,475
+Cologne 2,Hard,A,2020-10-19,105173,Adrian Mannarino,FRA,200615,Alexei Popyrin,AUS,35,1516,113,623
+Cologne 2,Hard,A,2020-10-19,104468,Gilles Simon,FRA,111442,Jordan Thompson,AUS,63,1005,51,1068
+Cologne 2,Hard,A,2020-10-19,105732,Pierre Hugues Herbert,FRA,105815,Tennys Sandgren,USA,83,812,49,1081
+Cologne 2,Hard,A,2020-10-19,206173,Jannik Sinner,ITA,105902,James Duckworth,AUS,37,1444,103,701
+Cologne 2,Hard,A,2020-10-19,105526,Jan Lennard Struff,GER,106065,Marco Cecchinato,ITA,36,1450,80,828
+Cologne 2,Hard,A,2020-10-19,106415,Yoshihito Nishioka,JPN,106378,Kyle Edmund,GBR,56,1062,48,1085
+Cologne 2,Hard,A,2020-10-19,106078,Egor Gerasimov,BLR,127157,Daniel Altmaier,GER,78,834,130,501
+Cologne 2,Hard,A,2020-10-19,105449,Steve Johnson,USA,105227,Marin Cilic,CRO,72,870,42,1325
+Cologne 2,Hard,A,2020-10-19,200221,Alejandro Davidovich Fokina,ESP,106000,Damir Dzumhur,BIH,52,1066,119,562
+Cologne 2,Hard,A,2020-10-19,106214,Oscar Otte,GER,110602,Dennis Novak,AUT,140,467,96,737
+Nur-Sultan,Hard,A,2020-10-26,105357,John Millman,AUS,105173,Adrian Mannarino,FRA,38,1421,35,1516
+Nur-Sultan,Hard,A,2020-10-26,105173,Adrian Mannarino,FRA,200325,Emil Ruusuvuori,FIN,35,1516,86,796
+Nur-Sultan,Hard,A,2020-10-26,105357,John Millman,AUS,126207,Frances Tiafoe,USA,38,1421,59,1030
+Nur-Sultan,Hard,A,2020-10-26,200325,Emil Ruusuvuori,FIN,105062,Mikhail Kukushkin,KAZ,86,796,89,776
+Nur-Sultan,Hard,A,2020-10-26,105173,Adrian Mannarino,FRA,111456,Mackenzie McDonald,USA,35,1516,193,335
+Nur-Sultan,Hard,A,2020-10-26,105357,John Millman,AUS,126205,Tommy Paul,USA,38,1421,54,1065
+Nur-Sultan,Hard,A,2020-10-26,126207,Frances Tiafoe,USA,106078,Egor Gerasimov,BLR,59,1030,78,834
+Nur-Sultan,Hard,A,2020-10-26,105062,Mikhail Kukushkin,KAZ,105332,Benoit Paire,FRA,89,776,28,1738
+Nur-Sultan,Hard,A,2020-10-26,200325,Emil Ruusuvuori,FIN,111442,Jordan Thompson,AUS,86,796,51,1068
+Nur-Sultan,Hard,A,2020-10-26,105173,Adrian Mannarino,FRA,105216,Yuichi Sugita,JPN,35,1516,102,713
+Nur-Sultan,Hard,A,2020-10-26,111456,Mackenzie McDonald,USA,104312,Andreas Seppi,ITA,193,335,106,689
+Nur-Sultan,Hard,A,2020-10-26,126205,Tommy Paul,USA,105430,Radu Albot,MDA,54,1065,93,772
+Nur-Sultan,Hard,A,2020-10-26,105357,John Millman,AUS,104269,Fernando Verdasco,ESP,38,1421,65,975
+Nur-Sultan,Hard,A,2020-10-26,106078,Egor Gerasimov,BLR,106210,Jiri Vesely,CZE,78,834,68,913
+Nur-Sultan,Hard,A,2020-10-26,126207,Frances Tiafoe,USA,200175,Miomir Kecmanovic,SRB,59,1030,44,1308
+Nur-Sultan,Hard,A,2020-10-26,105062,Mikhail Kukushkin,KAZ,105643,Federico Delbonis,ARG,89,776,82,825
+Nur-Sultan,Hard,A,2020-10-26,200325,Emil Ruusuvuori,FIN,207608,Timofey Skatov,RUS,86,796,445,83
+Nur-Sultan,Hard,A,2020-10-26,111442,Jordan Thompson,AUS,111815,Cameron Norrie,GBR,51,1068,71,877
+Nur-Sultan,Hard,A,2020-10-26,105216,Yuichi Sugita,JPN,106000,Damir Dzumhur,BIH,102,713,119,562
+Nur-Sultan,Hard,A,2020-10-26,104312,Andreas Seppi,ITA,106234,Aslan Karatsev,RUS,106,689,112,637
+Nur-Sultan,Hard,A,2020-10-26,111456,Mackenzie McDonald,USA,122330,Alexander Bublik,KAZ,193,335,50,1070
+Nur-Sultan,Hard,A,2020-10-26,126205,Tommy Paul,USA,105882,Stefano Travaglia,ITA,54,1065,74,869
+Nur-Sultan,Hard,A,2020-10-26,105430,Radu Albot,MDA,122078,Dmitry Popko,KAZ,93,772,170,381
+Nur-Sultan,Hard,A,2020-10-26,104269,Fernando Verdasco,ESP,105902,James Duckworth,AUS,65,975,103,701
+Nur-Sultan,Hard,A,2020-10-26,106210,Jiri Vesely,CZE,105815,Tennys Sandgren,USA,68,913,49,1081
+Nur-Sultan,Hard,A,2020-10-26,106078,Egor Gerasimov,BLR,144750,Lloyd Harris,RSA,78,834,87,793
+Nur-Sultan,Hard,A,2020-10-26,126207,Frances Tiafoe,USA,144895,Corentin Moutet,FRA,59,1030,77,838
+Vienna,Hard,A,2020-10-26,126094,Andrey Rublev,RUS,132283,Lorenzo Sonego,ITA,8,4119,33,1568
+Vienna,Hard,A,2020-10-26,132283,Lorenzo Sonego,ITA,105554,Daniel Evans,GBR,33,1568,32,1589
+Vienna,Hard,A,2020-10-26,126094,Andrey Rublev,RUS,104731,Kevin Anderson,RSA,8,4119,81,825
+Vienna,Hard,A,2020-10-26,132283,Lorenzo Sonego,ITA,104925,Novak Djokovic,SRB,33,1568,1,12030
+Vienna,Hard,A,2020-10-26,105554,Daniel Evans,GBR,105777,Grigor Dimitrov,BUL,32,1589,19,2260
+Vienna,Hard,A,2020-10-26,104731,Kevin Anderson,RSA,106421,Daniil Medvedev,RUS,81,825,4,8470
+Vienna,Hard,A,2020-10-26,126094,Andrey Rublev,RUS,106233,Dominic Thiem,AUT,8,4119,3,9125
+Vienna,Hard,A,2020-10-26,104925,Novak Djokovic,SRB,106432,Borna Coric,CRO,1,12030,24,1855
+Vienna,Hard,A,2020-10-26,132283,Lorenzo Sonego,ITA,128034,Hubert Hurkacz,POL,33,1568,34,1518
+Vienna,Hard,A,2020-10-26,105777,Grigor Dimitrov,BUL,126774,Stefanos Tsitsipas,GRE,19,2260,6,5925
+Vienna,Hard,A,2020-10-26,105554,Daniel Evans,GBR,200514,Jurij Rodionov,AUT,32,1589,144,455
+Vienna,Hard,A,2020-10-26,104731,Kevin Anderson,RSA,105807,Pablo Carreno Busta,ESP,81,825,16,2535
+Vienna,Hard,A,2020-10-26,106421,Daniil Medvedev,RUS,105577,Vasek Pospisil,CAN,4,8470,61,1006
+Vienna,Hard,A,2020-10-26,126094,Andrey Rublev,RUS,206173,Jannik Sinner,ITA,8,4119,37,1444
+Vienna,Hard,A,2020-10-26,106233,Dominic Thiem,AUT,106426,Christian Garin,CHI,3,9125,22,2170
+Vienna,Hard,A,2020-10-26,104925,Novak Djokovic,SRB,105936,Filip Krajinovic,SRB,1,12030,31,1628
+Vienna,Hard,A,2020-10-26,106432,Borna Coric,CRO,126203,Taylor Fritz,USA,24,1855,29,1670
+Vienna,Hard,A,2020-10-26,128034,Hubert Hurkacz,POL,105226,Attila Balazs,HUN,34,1518,92,774
+Vienna,Hard,A,2020-10-26,132283,Lorenzo Sonego,ITA,105583,Dusan Lajovic,SRB,33,1568,26,1785
+Vienna,Hard,A,2020-10-26,126774,Stefanos Tsitsipas,GRE,105526,Jan Lennard Struff,GER,6,5925,36,1450
+Vienna,Hard,A,2020-10-26,105777,Grigor Dimitrov,BUL,111575,Karen Khachanov,RUS,19,2260,20,2245
+Vienna,Hard,A,2020-10-26,105554,Daniel Evans,GBR,105379,Aljaz Bedene,SLO,32,1589,58,1045
+Vienna,Hard,A,2020-10-26,200514,Jurij Rodionov,AUT,133430,Denis Shapovalov,CAN,144,455,12,2830
+Vienna,Hard,A,2020-10-26,105807,Pablo Carreno Busta,ESP,104792,Gael Monfils,FRA,16,2535,11,2860
+Vienna,Hard,A,2020-10-26,104731,Kevin Anderson,RSA,110602,Dennis Novak,AUT,81,825,96,737
+Vienna,Hard,A,2020-10-26,105577,Vasek Pospisil,CAN,200000,Felix Auger Aliassime,CAN,61,1006,21,2216
+Vienna,Hard,A,2020-10-26,106421,Daniil Medvedev,RUS,105359,Jason Jung,TPE,4,8470,132,490
+Vienna,Hard,A,2020-10-26,126094,Andrey Rublev,RUS,105613,Norbert Gombos,SVK,8,4119,88,789
+Vienna,Hard,A,2020-10-26,206173,Jannik Sinner,ITA,134770,Casper Ruud,NOR,37,1444,27,1739
+Vienna,Hard,A,2020-10-26,106426,Christian Garin,CHI,104527,Stan Wawrinka,SUI,22,2170,18,2320
+Vienna,Hard,A,2020-10-26,106233,Dominic Thiem,AUT,126964,Vitaliy Sachko,UKR,3,9125,400,99
+Paris Masters,Hard,M,2020-11-02,106421,Daniil Medvedev,RUS,100644,Alexander Zverev,GER,4,8470,7,5525
+Paris Masters,Hard,M,2020-11-02,100644,Alexander Zverev,GER,104745,Rafael Nadal,ESP,7,5525,2,9850
+Paris Masters,Hard,M,2020-11-02,106421,Daniil Medvedev,RUS,105683,Milos Raonic,CAN,4,8470,14,2580
+Paris Masters,Hard,M,2020-11-02,104745,Rafael Nadal,ESP,105807,Pablo Carreno Busta,ESP,2,9850,16,2535
+Paris Masters,Hard,M,2020-11-02,100644,Alexander Zverev,GER,104527,Stan Wawrinka,SUI,7,5525,18,2320
+Paris Masters,Hard,M,2020-11-02,106421,Daniil Medvedev,RUS,106043,Diego Schwartzman,ARG,4,8470,9,3455
+Paris Masters,Hard,M,2020-11-02,105683,Milos Raonic,CAN,200005,Ugo Humbert,FRA,14,2580,30,1646
+Paris Masters,Hard,M,2020-11-02,104745,Rafael Nadal,ESP,111442,Jordan Thompson,AUS,2,9850,51,1068
+Paris Masters,Hard,M,2020-11-02,105807,Pablo Carreno Busta,ESP,105613,Norbert Gombos,SVK,16,2535,88,789
+Paris Masters,Hard,M,2020-11-02,100644,Alexander Zverev,GER,105173,Adrian Mannarino,FRA,7,5525,35,1516
+Paris Masters,Hard,M,2020-11-02,104527,Stan Wawrinka,SUI,126094,Andrey Rublev,RUS,18,2320,8,4119
+Paris Masters,Hard,M,2020-11-02,106043,Diego Schwartzman,ARG,200221,Alejandro Davidovich Fokina,ESP,9,3455,52,1066
+Paris Masters,Hard,M,2020-11-02,106421,Daniil Medvedev,RUS,200282,Alex De Minaur,AUS,4,8470,23,1860
+Paris Masters,Hard,M,2020-11-02,105683,Milos Raonic,CAN,106218,Marcos Giron,USA,14,2580,73,869
+Paris Masters,Hard,M,2020-11-02,200005,Ugo Humbert,FRA,105227,Marin Cilic,CRO,30,1646,42,1325
+Paris Masters,Hard,M,2020-11-02,104745,Rafael Nadal,ESP,103852,Feliciano Lopez,ESP,2,9850,64,998
+Paris Masters,Hard,M,2020-11-02,111442,Jordan Thompson,AUS,106432,Borna Coric,CRO,51,1068,24,1855
+Paris Masters,Hard,M,2020-11-02,105807,Pablo Carreno Busta,ESP,105526,Jan Lennard Struff,GER,16,2535,36,1450
+Paris Masters,Hard,M,2020-11-02,105613,Norbert Gombos,SVK,105676,David Goffin,BEL,88,789,15,2555
+Paris Masters,Hard,M,2020-11-02,100644,Alexander Zverev,GER,200175,Miomir Kecmanovic,SRB,7,5525,44,1308
+Paris Masters,Hard,M,2020-11-02,105173,Adrian Mannarino,FRA,106415,Yoshihito Nishioka,JPN,35,1516,56,1062
+Paris Masters,Hard,M,2020-11-02,104527,Stan Wawrinka,SUI,126205,Tommy Paul,USA,18,2320,54,1065
+Paris Masters,Hard,M,2020-11-02,126094,Andrey Rublev,RUS,105430,Radu Albot,MDA,8,4119,93,772
+Paris Masters,Hard,M,2020-11-02,106043,Diego Schwartzman,ARG,104755,Richard Gasquet,FRA,9,3455,47,1145
+Paris Masters,Hard,M,2020-11-02,200221,Alejandro Davidovich Fokina,ESP,126127,Benjamin Bonzi,FRA,52,1066,165,388
+Paris Masters,Hard,M,2020-11-02,200282,Alex De Minaur,AUS,132283,Lorenzo Sonego,ITA,23,1860,33,1568
+Paris Masters,Hard,M,2020-11-02,106421,Daniil Medvedev,RUS,104731,Kevin Anderson,RSA,4,8470,81,825
+Paris Masters,Hard,M,2020-11-02,106218,Marcos Giron,USA,126610,Matteo Berrettini,ITA,73,869,10,3075
+Paris Masters,Hard,M,2020-11-02,105683,Milos Raonic,CAN,105732,Pierre Hugues Herbert,FRA,14,2580,83,812
+Paris Masters,Hard,M,2020-11-02,105227,Marin Cilic,CRO,144895,Corentin Moutet,FRA,42,1325,77,838
+Paris Masters,Hard,M,2020-11-02,200005,Ugo Humbert,FRA,126774,Stefanos Tsitsipas,GRE,30,1646,6,5925
+Paris Masters,Hard,M,2020-11-02,103852,Feliciano Lopez,ESP,105936,Filip Krajinovic,SRB,64,998,31,1628
+Paris Masters,Hard,M,2020-11-02,111442,Jordan Thompson,AUS,105643,Federico Delbonis,ARG,51,1068,82,825
+Paris Masters,Hard,M,2020-11-02,106432,Borna Coric,CRO,105916,Marton Fucsovics,HUN,24,1855,55,1062
+Paris Masters,Hard,M,2020-11-02,105807,Pablo Carreno Busta,ESP,200384,Hugo Gaston,FRA,16,2535,162,390
+Paris Masters,Hard,M,2020-11-02,105526,Jan Lennard Struff,GER,105932,Nikoloz Basilashvili,GEO,36,1450,40,1395
+Paris Masters,Hard,M,2020-11-02,105613,Norbert Gombos,SVK,106065,Marco Cecchinato,ITA,88,789,80,828
+Paris Masters,Hard,M,2020-11-02,200175,Miomir Kecmanovic,SRB,105357,John Millman,AUS,44,1308,38,1421
+Paris Masters,Hard,M,2020-11-02,106415,Yoshihito Nishioka,JPN,104665,Pablo Andujar,ESP,56,1062,60,1024
+Paris Masters,Hard,M,2020-11-02,105173,Adrian Mannarino,FRA,105583,Dusan Lajovic,SRB,35,1516,26,1785
+Paris Masters,Hard,M,2020-11-02,104527,Stan Wawrinka,SUI,105554,Daniel Evans,GBR,18,2320,32,1589
+Paris Masters,Hard,M,2020-11-02,126205,Tommy Paul,USA,104468,Gilles Simon,FRA,54,1065,63,1005
+Paris Masters,Hard,M,2020-11-02,105430,Radu Albot,MDA,128034,Hubert Hurkacz,POL,93,772,34,1518
+Paris Masters,Hard,M,2020-11-02,104755,Richard Gasquet,FRA,126203,Taylor Fritz,USA,47,1145,29,1670
+Paris Masters,Hard,M,2020-11-02,126127,Benjamin Bonzi,FRA,105948,Federico Coria,ARG,165,388,91,775
+Paris Masters,Hard,M,2020-11-02,200221,Alejandro Davidovich Fokina,ESP,111575,Karen Khachanov,RUS,52,1066,20,2245
+Paris Masters,Hard,M,2020-11-02,200282,Alex De Minaur,AUS,105882,Stefano Travaglia,ITA,23,1860,74,869
+Paris Masters,Hard,M,2020-11-02,132283,Lorenzo Sonego,ITA,122330,Alexander Bublik,KAZ,33,1568,50,1070
+Paris Masters,Hard,M,2020-11-02,104731,Kevin Anderson,RSA,111513,Laslo Djere,SRB,81,825,57,1058
+Paris Masters,Hard,M,2020-11-02,106218,Marcos Giron,USA,105077,Albert Ramos,ESP,73,869,46,1165
+Paris Masters,Hard,M,2020-11-02,105732,Pierre Hugues Herbert,FRA,105815,Tennys Sandgren,USA,83,812,49,1081
+Paris Masters,Hard,M,2020-11-02,105683,Milos Raonic,CAN,105379,Aljaz Bedene,SLO,14,2580,58,1045
+Paris Masters,Hard,M,2020-11-02,105227,Marin Cilic,CRO,200000,Felix Auger Aliassime,CAN,42,1325,21,2216
+Paris Masters,Hard,M,2020-11-02,144895,Corentin Moutet,FRA,106099,Salvatore Caruso,ITA,77,838,76,843
+Paris Masters,Hard,M,2020-11-02,200005,Ugo Humbert,FRA,134770,Casper Ruud,NOR,30,1646,27,1739
+Sofia,Hard,A,2020-11-09,206173,Jannik Sinner,ITA,105577,Vasek Pospisil,CAN,37,1444,61,1006
+Sofia,Hard,A,2020-11-09,206173,Jannik Sinner,ITA,105173,Adrian Mannarino,FRA,37,1444,35,1516
+Sofia,Hard,A,2020-11-09,105577,Vasek Pospisil,CAN,104755,Richard Gasquet,FRA,61,1006,47,1145
+Sofia,Hard,A,2020-11-09,105173,Adrian Mannarino,FRA,105430,Radu Albot,MDA,35,1516,93,772
+Sofia,Hard,A,2020-11-09,206173,Jannik Sinner,ITA,200282,Alex De Minaur,AUS,37,1444,23,1860
+Sofia,Hard,A,2020-11-09,105577,Vasek Pospisil,CAN,105357,John Millman,AUS,61,1006,38,1421
+Sofia,Hard,A,2020-11-09,104755,Richard Gasquet,FRA,106099,Salvatore Caruso,ITA,47,1145,76,843
+Sofia,Hard,A,2020-11-09,105430,Radu Albot,MDA,133430,Denis Shapovalov,CAN,93,772,12,2830
+Sofia,Hard,A,2020-11-09,105173,Adrian Mannarino,FRA,106078,Egor Gerasimov,BLR,35,1516,78,834
+Sofia,Hard,A,2020-11-09,200282,Alex De Minaur,AUS,106234,Aslan Karatsev,RUS,23,1860,112,637
+Sofia,Hard,A,2020-11-09,206173,Jannik Sinner,ITA,144817,Marc Andrea Huesler,SUI,37,1444,148,444
+Sofia,Hard,A,2020-11-09,105357,John Millman,AUS,104468,Gilles Simon,FRA,38,1421,63,1005
+Sofia,Hard,A,2020-11-09,105577,Vasek Pospisil,CAN,105526,Jan Lennard Struff,GER,61,1006,36,1450
+Sofia,Hard,A,2020-11-09,104755,Richard Gasquet,FRA,207797,Jonas Forejtek,CZE,47,1145,361,115
+Sofia,Hard,A,2020-11-09,106099,Salvatore Caruso,ITA,200000,Felix Auger Aliassime,CAN,76,843,21,2216
+Sofia,Hard,A,2020-11-09,105430,Radu Albot,MDA,105216,Yuichi Sugita,JPN,93,772,102,713
+Sofia,Hard,A,2020-11-09,106078,Egor Gerasimov,BLR,104678,Viktor Troicki,SRB,78,834,201,323
+Sofia,Hard,A,2020-11-09,105173,Adrian Mannarino,FRA,105373,Martin Klizan,SVK,35,1516,151,432
+Sofia,Hard,A,2020-11-09,106234,Aslan Karatsev,RUS,106121,Taro Daniel,JPN,112,637,117,581
+Sofia,Hard,A,2020-11-09,206173,Jannik Sinner,ITA,105916,Marton Fucsovics,HUN,37,1444,55,1062
+Sofia,Hard,A,2020-11-09,144817,Marc Andrea Huesler,SUI,105932,Nikoloz Basilashvili,GEO,148,444,40,1395
+Sofia,Hard,A,2020-11-09,105357,John Millman,AUS,202090,Adrian Andreev,BUL,38,1421,561,52
+Sofia,Hard,A,2020-11-09,104468,Gilles Simon,FRA,105413,Andrej Martin,SVK,63,1005,101,724
+Sofia,Hard,A,2020-11-09,105577,Vasek Pospisil,CAN,105011,Illya Marchenko,UKR,61,1006,215,278
+Sofia,Hard,A,2020-11-09,207797,Jonas Forejtek,CZE,105227,Marin Cilic,CRO,361,115,42,1325
+Sofia,Hard,A,2020-11-09,104755,Richard Gasquet,FRA,106148,Roberto Carballes Baena,ESP,47,1145,97,731
+Sofia,Hard,A,2020-11-09,106099,Salvatore Caruso,ITA,106220,Dimitar Kuzmanov,BUL,76,843,295,166
+Tour Finals,Hard,F,2020-11-16,106421,Daniil Medvedev,RUS,106233,Dominic Thiem,AUT,4,8470,3,9125
+Tour Finals,Hard,F,2020-11-16,106421,Daniil Medvedev,RUS,104745,Rafael Nadal,ESP,4,8470,2,9850
+Tour Finals,Hard,F,2020-11-16,106233,Dominic Thiem,AUT,104925,Novak Djokovic,SRB,3,9125,1,12030
+Tour Finals,Hard,F,2020-11-16,106421,Daniil Medvedev,RUS,104925,Novak Djokovic,SRB,4,8470,1,12030
+Tour Finals,Hard,F,2020-11-16,104925,Novak Djokovic,SRB,100644,Alexander Zverev,GER,1,12030,7,5525
+Tour Finals,Hard,F,2020-11-16,104925,Novak Djokovic,SRB,106043,Diego Schwartzman,ARG,1,12030,9,3455
+Tour Finals,Hard,F,2020-11-16,106421,Daniil Medvedev,RUS,100644,Alexander Zverev,GER,4,8470,7,5525
+Tour Finals,Hard,F,2020-11-16,106421,Daniil Medvedev,RUS,106043,Diego Schwartzman,ARG,4,8470,9,3455
+Tour Finals,Hard,F,2020-11-16,100644,Alexander Zverev,GER,106043,Diego Schwartzman,ARG,7,5525,9,3455
+Tour Finals,Hard,F,2020-11-16,106233,Dominic Thiem,AUT,104745,Rafael Nadal,ESP,3,9125,2,9850
+Tour Finals,Hard,F,2020-11-16,104745,Rafael Nadal,ESP,126774,Stefanos Tsitsipas,GRE,2,9850,6,5925
+Tour Finals,Hard,F,2020-11-16,104745,Rafael Nadal,ESP,126094,Andrey Rublev,RUS,2,9850,8,4119
+Tour Finals,Hard,F,2020-11-16,106233,Dominic Thiem,AUT,126774,Stefanos Tsitsipas,GRE,3,9125,6,5925
+Tour Finals,Hard,F,2020-11-16,126094,Andrey Rublev,RUS,106233,Dominic Thiem,AUT,8,4119,3,9125
+Tour Finals,Hard,F,2020-11-16,126774,Stefanos Tsitsipas,GRE,126094,Andrey Rublev,RUS,6,5925,8,4119
+Davis Cup,Clay,D,2020-03-06,123755,Daniel Elahi Galan,COL,104919,Leonardo Mayer,ARG,115,599,135,482
+Davis Cup,Clay,D,2020-03-06,106228,Juan Ignacio Londero,ARG,105053,Santiago Giraldo,COL,79,832,318,140
+Davis Cup,Clay,D,2020-03-06,123755,Daniel Elahi Galan,COL,106228,Juan Ignacio Londero,ARG,115,599,79,832
+Davis Cup,Hard,D,2020-03-06,111442,Jordan Thompson,AUS,106329,Thiago Monteiro,BRA,51,1068,84,804
+Davis Cup,Hard,D,2020-03-06,105357,John Millman,AUS,205734,Thiago Seyboth Wild,BRA,38,1421,116,586
+Davis Cup,Hard,D,2020-03-06,105357,John Millman,AUS,106329,Thiago Monteiro,BRA,38,1421,84,804
+Davis Cup,Hard,D,2020-03-06,110602,Dennis Novak,AUT,105899,Martin Cuevas,URU,96,737,484,72
+Davis Cup,Hard,D,2020-03-06,104655,Pablo Cuevas,URU,200514,Jurij Rodionov,AUT,67,917,144,455
+Davis Cup,Hard,D,2020-03-06,110602,Dennis Novak,AUT,104655,Pablo Cuevas,URU,96,737,67,917
+Davis Cup,Clay,D,2020-03-06,105074,Ruben Bemelmans,BEL,105226,Attila Balazs,HUN,227,253,92,774
+Davis Cup,Clay,D,2020-03-06,105916,Marton Fucsovics,HUN,106293,Kimmer Coppejans,BEL,55,1062,177,361
+Davis Cup,Clay,D,2020-03-06,105226,Attila Balazs,HUN,106293,Kimmer Coppejans,BEL,92,774,177,361
+Davis Cup,Clay,D,2020-03-06,105916,Marton Fucsovics,HUN,105074,Ruben Bemelmans,BEL,55,1062,227,253
+Davis Cup,Hard,D,2020-03-06,127339,Borna Gojo,CRO,105432,Prajnesh Gunneswaran,IND,221,257,129,506
+Davis Cup,Hard,D,2020-03-06,105227,Marin Cilic,CRO,106368,Ramkumar Ramanathan,IND,42,1325,190,340
+Davis Cup,Hard,D,2020-03-06,105227,Marin Cilic,CRO,111576,Sumit Nagal,IND,42,1325,136,475
+Davis Cup,Clay,D,2020-03-06,106210,Jiri Vesely,CZE,106075,Jozef Kovalik,SVK,68,913,131,498
+Davis Cup,Clay,D,2020-03-06,104586,Lukas Rosol,CZE,105413,Andrej Martin,SVK,199,327,101,724
+Davis Cup,Clay,D,2020-03-06,106210,Jiri Vesely,CZE,105413,Andrej Martin,SVK,68,913,101,724
+Davis Cup,Hard,D,2020-03-06,105526,Jan Lennard Struff,GER,125802,Ilya Ivashka,BLR,36,1450,108,674
+Davis Cup,Hard,D,2020-03-06,106078,Egor Gerasimov,BLR,104259,Philipp Kohlschreiber,GER,78,834,98,729
+Davis Cup,Hard,D,2020-03-06,105526,Jan Lennard Struff,GER,106078,Egor Gerasimov,BLR,36,1450,78,834
+Davis Cup,Hard,D,2020-03-06,136440,Dominik Koepfer,GER,209867,Daniil Ostapenkov,BLR,66,921,0,0
+Davis Cup,Hard,D,2020-03-06,105877,Emilio Gomez,ECU,104424,Go Soeda,JPN,160,395,133,490
+Davis Cup,Hard,D,2020-03-06,105933,Roberto Quiroz,ECU,106034,Yasutaka Uchiyama,JPN,296,166,104,696
+Davis Cup,Hard,D,2020-03-06,104898,Robin Haase,NED,105062,Mikhail Kukushkin,KAZ,197,330,89,776
+Davis Cup,Hard,D,2020-03-06,122330,Alexander Bublik,KAZ,134868,Tallon Griekspoor,NED,50,1070,153,423
+Davis Cup,Hard,D,2020-03-06,122330,Alexander Bublik,KAZ,104898,Robin Haase,NED,50,1070,197,330
+Davis Cup,Hard,D,2020-03-06,144707,Mikael Ymer,SWE,144642,Marcelo Tomas Barrios Vera,CHI,94,763,254,214
+Davis Cup,Hard,D,2020-03-06,126214,Alejandro Tabilo,CHI,111200,Elias Ymer,SWE,169,382,205,309
+Davis Cup,Hard,D,2020-03-06,144707,Mikael Ymer,SWE,126214,Alejandro Tabilo,CHI,94,763,169,382
+Davis Cup,Hard,D,2020-03-06,124187,Reilly Opelka,USA,104797,Denis Istomin,UZB,39,1402,184,348
+Davis Cup,Hard,D,2020-03-06,126203,Taylor Fritz,USA,122109,Sanjar Fayziev,UZB,29,1670,513,64
+Davis Cup,Hard,D,2020-03-06,126205,Tommy Paul,USA,104797,Denis Istomin,UZB,54,1065,184,348
+Davis Cup,Hard,D,2020-03-06,106000,Damir Dzumhur,BIH,105434,Ruan Roelofse,RSA,119,562,640,36
+Davis Cup,Hard,D,2020-03-06,144750,Lloyd Harris,RSA,105806,Mirza Basic,BIH,87,793,326,134
+Davis Cup,Hard,D,2020-03-06,106000,Damir Dzumhur,BIH,144750,Lloyd Harris,RSA,119,562,87,793
+Davis Cup,Clay,D,2020-03-06,106198,Hugo Dellien,BOL,105497,Jose Hernandez,DOM,111,638,316,142
+Davis Cup,Clay,D,2020-03-06,106232,Roberto Cid,DOM,105156,Federico Zeballos,BOL,228,253,572,50
+Davis Cup,Clay,D,2020-03-06,106198,Hugo Dellien,BOL,106232,Roberto Cid,DOM,111,638,228,253
+Davis Cup,Clay,D,2020-03-06,133975,Benjamin Hassan,GER,127143,Jirat Navasirisomboon,THA,367,111,1586,2
+Davis Cup,Clay,D,2020-03-06,106397,Wishaya Trongcharoenchaikul,THA,133979,Hasan Ibrahim,GER,644,36,1546,2
+Davis Cup,Clay,D,2020-03-06,133975,Benjamin Hassan,GER,106397,Wishaya Trongcharoenchaikul,THA,367,111,644,36
+Davis Cup,Hard,D,2020-03-06,106393,Frederico Ferreira Silva,POR,105827,Laurynas Grigelis,LTU,183,349,422,90
+Davis Cup,Hard,D,2020-03-06,105311,Joao Sousa,POR,108772,Julius Tverijonas,LTU,90,776,830,19
+Davis Cup,Hard,D,2020-03-06,105155,Pedro Sousa,POR,105827,Laurynas Grigelis,LTU,105,691,422,90
+Davis Cup,Clay,D,2020-03-06,126609,Patrik Niklas Salminen,FIN,105688,Manuel Sanchez,MEX,440,85,852,17
+Davis Cup,Clay,D,2020-03-06,126204,Gerardo Lopez Villasenor,MEX,202261,Otto Virtanen,FIN,549,55,610,41
+Davis Cup,Clay,D,2020-03-06,126204,Gerardo Lopez Villasenor,MEX,105349,Harri Heliovaara,FIN,549,55,635,37
+Davis Cup,Clay,D,2020-03-06,202261,Otto Virtanen,FIN,105688,Manuel Sanchez,MEX,610,41,852,17
+Davis Cup,Hard,D,2020-03-06,126340,Viktor Durasovic,NOR,105985,Darian King,BAR,340,127,285,176
+Davis Cup,Hard,D,2020-03-06,134770,Casper Ruud,NOR,104656,Haydn Lewis,BAR,27,1739,0,0
+Davis Cup,Hard,D,2020-03-06,206716,Lukas Hellum Lilleengen,NOR,209868,Kaipo Marshall,BAR,1444,3,0,0
+Davis Cup,Grass,D,2020-03-06,103529,Aisam Ul Haq Qureshi,PAK,106247,Nik Razborsek,SLO,0,0,729,27
+Davis Cup,Grass,D,2020-03-06,103499,Aqeel Khan,PAK,104882,Blaz Kavcic,SLO,0,0,269,203
+Davis Cup,Clay,D,2020-03-06,122669,Juan Pablo Varillas,PER,105757,Sandro Ehrat,SUI,158,411,377,108
+Davis Cup,Clay,D,2020-03-06,105967,Henri Laaksonen,SUI,126190,Nicolas Alvarez,PER,134,485,345,123
+Davis Cup,Clay,D,2020-03-06,122669,Juan Pablo Varillas,PER,105967,Henri Laaksonen,SUI,158,411,134,485
+Davis Cup,Clay,D,2020-03-06,131951,Daniel Cukierman,ISR,117356,Cem Ilkel,TUR,783,22,219,260
+Davis Cup,Clay,D,2020-03-06,123795,Altug Celikbilek,TUR,127326,Ben Patael,ISR,310,147,578,48
+Davis Cup,Clay,D,2020-03-06,122548,Edan Leshem,ISR,117356,Cem Ilkel,TUR,372,110,219,260
+Davis Cup,Hard,D,2020-03-06,202358,Chun Hsin Tseng,TPE,104660,Sergiy Stakhovsky,UKR,280,185,202,322
+Davis Cup,Hard,D,2020-03-06,126555,Tung Lin Wu,TPE,105011,Illya Marchenko,UKR,244,223,215,278
+Davis Cup,Hard,D,2020-03-06,104660,Sergiy Stakhovsky,UKR,126555,Tung Lin Wu,TPE,202,322,244,223
+Davis Cup,Hard,D,2020-03-06,105011,Illya Marchenko,UKR,202358,Chun Hsin Tseng,TPE,215,278,280,185
+Davis Cup,Hard,D,2020-03-06,110686,Finn Tearney,NZL,105467,Jordi Munoz Abreu,VEN,1042,9,1265,4
+Davis Cup,Hard,D,2020-03-06,105334,Luis David Martinez,VEN,208055,Ajeet Rai,NZL,0,0,949,13
+Davis Cup,Hard,D,2020-03-06,104907,Jose Rubin Statham,NZL,207738,Brandon Perez,VEN,0,0,1722,1
+Davis Cup,Hard,D,2020-03-06,106220,Dimitar Kuzmanov,BUL,145016,Julian Saborio,CRC,295,166,0,0
+Davis Cup,Hard,D,2020-03-06,200247,Alexandar Lazarov,BUL,132374,Jesse Flores,CAN,546,56,1051,9
+Davis Cup,Hard,D,2020-03-06,106220,Dimitar Kuzmanov,BUL,132374,Jesse Flores,CAN,295,166,1051,9
+Davis Cup,Hard,D,2020-03-06,200574,Alexander Donski,CAN,209869,Rodrigo Crespo Piedra,CRC,592,45,0,0
+Davis Cup,Hard,D,2020-03-06,111453,Mikael Torpegaard,DEN,144687,Quinton Vega,USA,189,340,0,0
+Davis Cup,Hard,D,2020-03-06,208029,Holger Rune,DEN,200620,Ignacio Garcia,PUR,472,75,0,0
+Davis Cup,Hard,D,2020-03-06,104233,Frederik Nielsen,DEN,200620,Ignacio Garcia,PUR,0,0,0,0
+Davis Cup,Hard,D,2020-03-06,208029,Holger Rune,DEN,144687,Quinton Vega,USA,472,75,0,0
+Davis Cup,Hard,D,2020-03-06,209080,Blaise Bicknell,USA,108763,Alberto Emmanuel Alvarado Larin,ESA,1361,3,0,0
+Davis Cup,Hard,D,2020-03-06,105656,Marcelo Arevalo,ESA,202120,Rowland Phillips,JAM,447,82,1438,3
+Davis Cup,Hard,D,2020-03-06,105656,Marcelo Arevalo,ESA,209080,Blaise Bicknell,USA,447,82,1361,3
+Davis Cup,Hard,D,2020-03-06,105932,Nikoloz Basilashvili,GEO,104901,Vladimir Ivanov,EST,40,1395,710,29
+Davis Cup,Hard,D,2020-03-06,144932,Kristjan Tamm,EST,106223,Aleksandre Metreveli,GEO,625,39,593,44
+Davis Cup,Hard,D,2020-03-06,144932,Kristjan Tamm,EST,206600,Zura Tkemaladze,GEO,625,39,0,0
+Davis Cup,Hard,D,2020-03-06,206750,Daniil Glinka,EST,202246,Nikoloz Davlianidze,GEO,844,18,0,0
+Davis Cup,Hard,D,2020-03-06,108739,Wilfredo Gonzalez,GUA,144826,Aziz Dougaz,TUN,1123,7,380,107
+Davis Cup,Hard,D,2020-03-06,104291,Malek Jaziri,TUN,132932,Franz Luna Lavidalie,GUA,249,219,0,0
+Davis Cup,Hard,D,2020-03-06,104291,Malek Jaziri,TUN,108739,Wilfredo Gonzalez,GUA,249,219,1123,7
+Davis Cup,Hard,D,2020-03-06,105464,Christopher Rungkat,INA,207401,Sheil Kotecha,KEN,0,0,1422,3
+Davis Cup,Hard,D,2020-03-06,105812,David Agung Susanto,INA,208043,Ismael Changawa Ruwa Mzai,KEN,1385,3,0,0
+Davis Cup,Hard,D,2020-03-06,209870,Gunawan Trismuwantara,INA,206199,Kevin Cheruiyot,KEN,0,0,1800,1
+Davis Cup,Hard,D,2020-03-06,105633,Mohamed Safwat,EGY,209866,Karlis Ozolins,LVA,154,418,1073,8
+Davis Cup,Hard,D,2020-03-06,105208,Ernests Gulbis,LAT,105747,Karim Mohamed Maamoun,EGY,181,351,391,102
+Davis Cup,Hard,D,2020-03-06,105208,Ernests Gulbis,LAT,105633,Mohamed Safwat,EGY,181,351,154,418
+Davis Cup,Hard,D,2020-03-06,207669,Robert Strombachs,GER,209871,Amr Elsayed Abdou Ahmed Mohamed,EGY,668,33,0,0
+Davis Cup,Clay,D,2020-03-06,104467,Lamine Ouahab,ALG,122533,Nam Hoang Ly,VIE,648,35,705,29
+Davis Cup,Clay,D,2020-03-06,125842,Adam Moundir,SUI,202300,Phuong Van Nguyen,VIE,498,69,0,0
+Davis Cup,Clay,D,2020-03-06,209119,Aissa Benchakroun,MAR,144775,Linh Giang Trinh,VIE,1722,1,0,0
+Davis Cup,Clay,D,2020-03-06,209226,Adolfo Daniel Vallejo,PAR,134886,Sharmal Dissanayake,SRI,0,0,0,0
+Davis Cup,Clay,D,2020-03-06,209225,Martin Antonio Vergara Del Puerto,PAR,202462,Yasitha De Silva,SRI,0,0,0,0
+Davis Cup,Clay,D,2020-03-06,209226,Adolfo Daniel Vallejo,PAR,209872,Thehan Sanjaya Wijemanne,SRI,0,0,0,0
+Davis Cup,Clay,D,2020-03-06,126774,Stefanos Tsitsipas,GRE,202165,Alberto Lim,PHI,6,5925,0,0
+Davis Cup,Clay,D,2020-03-06,202065,Petros Tsitsipas,GRE,106150,Jeson Patrombon,PHI,1004,11,1463,2
+Davis Cup,Clay,D,2020-03-06,126774,Stefanos Tsitsipas,GRE,106150,Jeson Patrombon,PHI,6,5925,1463,2
+Davis Cup,Clay,D,2020-03-06,202065,Petros Tsitsipas,GRE,209873,Eric Jr. Olivarez,PHI,1004,11,0,0
+Davis Cup,Hard,D,2020-03-06,200390,Kacper Zuk,POL,205695,Ching Lam,HKG,262,209,0,0
+Davis Cup,Hard,D,2020-03-06,105668,Jerzy Janowicz,POL,106388,Pak Long Yeung,HKG,503,68,964,12
+Davis Cup,Hard,D,2020-03-06,209874,Maks Kasnikowski,POL,207852,Wai Yu Kai,HKG,0,0,0,0
+Davis Cup,Hard,D,2020-03-06,208518,Hazem Naw,UNK,200250,Mehluli Don Ayanda Sibanda,ZIM,0,0,775,23
+Davis Cup,Hard,D,2020-03-06,111761,Benjamin Lock,ZIM,200181,Amer Naow,SYR,441,85,0,0
+Davis Cup,Hard,D,2020-03-06,111761,Benjamin Lock,ZIM,208518,Hazem Naw,UNK,441,85,0,0
