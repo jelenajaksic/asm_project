@@ -26,7 +26,7 @@ def merge_data(ranks, matches):
     """ matches[['closest', 'days_bt_x_and_y']] = matches.date.apply(
         lambda x: find_closest_date(x, ranks.loc[ranks['date'] == max(ranks['date'])]['date'])) """
 
-    ranks = ranks.loc[ranks['date'] == max(ranks['date'])]
+    ranks = ranks.loc[ranks['date'] == max(ranks['date'])].drop_duplicates()
     # merge winner id to get rank and points
 
     matches = matches.merge(ranks, how='left',
