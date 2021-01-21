@@ -6,20 +6,29 @@ import scipy.stats as stats
 df2018 = pandas.read_csv('data/final2018.csv')
 players2018 = pandas.read_csv('data/players2018.csv')
 
+df2018 = df2018[(df2018['winner_rank']!=0)]
+df2018=df2018[(df2018['loser_rank']!=0)]
+
 df2018 = df2018.drop(columns=['tourney_name','surface','tourney_level','date','winner_id','winner_state','loser_id','loser_state','winner_rank','winner_points','loser_rank','loser_points'])
 df2018['weight']=1
 
 df2019 = pandas.read_csv('data/final2019.csv')
 players2019 = pandas.read_csv('data/players2019.csv')
 
+df2019 = df2019[(df2019['winner_rank']!=0)]
+df2019=df2019[(df2019['loser_rank']!=0)]
+
 df2019 = df2019.drop(columns=['tourney_name','surface','tourney_level','date','winner_id','winner_state','loser_id','loser_state','winner_rank','winner_points','loser_rank','loser_points'])
-df2019['weight']=3
+df2019['weight']=2
 
 df2020= pandas.read_csv('data/final2020.csv')
-players2020 = pandas.read_csv('data/players2018.csv')
+players2020 = pandas.read_csv('data/players2020.csv')
+
+df2020 = df2020[(df2020['winner_rank']!=0)]
+df2020=df2020[(df2020['loser_rank']!=0)]
 
 df2020 = df2020.drop(columns=['tourney_name','surface','tourney_level','date','winner_id','winner_state','loser_id','loser_state','winner_rank','winner_points','loser_rank','loser_points'])
-df2020['weight']=4
+df2020['weight']=2
 
 frames=[df2018,df2019,df2020]
 agregirano=pandas.concat(frames)

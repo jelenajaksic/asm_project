@@ -1,318 +1,340 @@
 graph [
   node [
     id 0
-    label "Jo-Wilfried Tsonga"
-    state "FRA"
+    label "Grigor Dimitrov"
+    state "BUL"
+    rank 19
+    tourney_num 19
+    core 1
   ]
   node [
     id 1
-    label "Bjorn Fratangelo"
-    state "USA"
+    label "Gael Monfils"
+    state "FRA"
+    rank 29
+    tourney_num 21
+    core 1
   ]
   node [
     id 2
-    label "Pablo Carreno Busta"
-    state "ESP"
+    label "Marin Cilic"
+    state "CRO"
+    rank 7
+    tourney_num 20
+    core 1
   ]
   node [
     id 3
-    label "Benoit Paire"
-    state "FRA"
+    label "Mirza Basic"
+    state "BIH"
+    rank 87
+    tourney_num 18
+    core 1
   ]
   node [
     id 4
-    label "Henri Laaksonen"
-    state "SUI"
+    label "Juan Martin del Potro"
+    state "ARG"
+    rank 5
+    tourney_num 15
+    core 1
   ]
   node [
     id 5
-    label "Denis Kudla"
-    state "USA"
+    label "Horacio Zeballos"
+    state "ARG"
+    rank 173
+    tourney_num 14
   ]
   node [
     id 6
-    label "Jeremy Chardy"
-    state "FRA"
+    label "Hyeon Chung"
+    state "KOR"
+    rank 25
+    tourney_num 18
+    core 1
   ]
   node [
     id 7
-    label "Bernard Tomic"
-    state "AUS"
+    label "Steve Johnson"
+    state "USA"
+    rank 33
+    tourney_num 25
+    core 1
   ]
   node [
     id 8
-    label "Marton Fucsovics"
-    state "HUN"
+    label "Martin Klizan"
+    state "SVK"
+    rank 41
+    tourney_num 11
   ]
   node [
     id 9
-    label "Diego Schwartzman"
-    state "ARG"
+    label "Borna Coric"
+    state "CRO"
+    rank 12
+    tourney_num 21
+    core 1
   ]
   node [
     id 10
-    label "Rafael Nadal"
-    state "ESP"
+    label "Roger Federer"
+    state "SUI"
+    rank 3
+    tourney_num 13
+    core 1
   ]
   node [
     id 11
-    label "Kei Nishikori"
-    state "JPN"
+    label "Marton Fucsovics"
+    state "HUN"
+    rank 36
+    tourney_num 24
+    core 1
   ]
   node [
     id 12
-    label "Matteo Berrettini"
-    state "ITA"
+    label "Donald Young"
+    state "USA"
+    rank 248
+    tourney_num 12
   ]
   node [
     id 13
-    label "Roberto Bautista Agut"
-    state "ESP"
+    label "Peter Polansky"
+    state "CAN"
+    rank 119
+    tourney_num 11
   ]
   node [
     id 14
-    label "Stan Wawrinka"
-    state "SUI"
+    label "Richard Gasquet"
+    state "FRA"
+    rank 26
+    tourney_num 25
+    core 1
   ]
   node [
     id 15
-    label "Hubert Hurkacz"
-    state "POL"
+    label "John Millman"
+    state "AUS"
+    rank 38
+    tourney_num 19
+    core 1
   ]
   node [
     id 16
-    label "Federico Delbonis"
-    state "ARG"
+    label "Kevin Anderson"
+    state "RSA"
+    rank 6
+    tourney_num 20
+    core 1
   ]
   node [
     id 17
-    label "John Millman"
-    state "AUS"
+    label "Milos Raonic"
+    state "CAN"
+    rank 18
+    tourney_num 19
+    core 1
   ]
   node [
     id 18
-    label "Dominic Thiem"
-    state "AUT"
+    label "Kyle Edmund"
+    state "GBR"
+    rank 14
+    tourney_num 22
+    core 1
   ]
   node [
     id 19
-    label "Novak Djokovic"
-    state "SRB"
+    label "Benoit Paire"
+    state "FRA"
+    rank 52
+    tourney_num 29
+    core 1
   ]
   node [
     id 20
-    label "Denis Shapovalov"
-    state "CAN"
+    label "Joao Sousa"
+    state "POR"
+    rank 44
+    tourney_num 28
+    core 1
   ]
   node [
     id 21
-    label "Sam Querrey"
-    state "USA"
+    label "Roberto Bautista Agut"
+    state "ESP"
+    rank 24
+    tourney_num 20
+    core 1
   ]
   node [
     id 22
-    label "John Isner"
-    state "USA"
+    label "Taro Daniel"
+    state "JPN"
+    rank 77
+    tourney_num 18
+    core 1
   ]
   node [
     id 23
-    label "Ugo Humbert"
-    state "FRA"
+    label "Dominic Thiem"
+    state "AUT"
+    rank 8
+    tourney_num 24
+    core 1
   ]
   node [
     id 24
-    label "Daniil Medvedev"
-    state "RUS"
+    label "Albert Ramos"
+    state "ESP"
+    rank 65
+    tourney_num 29
+    core 1
   ]
   node [
     id 25
-    label "David Goffin"
-    state "BEL"
+    label "Tennys Sandgren"
+    state "USA"
+    rank 61
+    tourney_num 20
+    core 1
   ]
   node [
     id 26
-    label "Go Soeda"
-    state "JPN"
+    label "Rafael Nadal"
+    state "ESP"
+    rank 2
+    tourney_num 10
+    core 1
   ]
   node [
     id 27
-    label "Juan Martin del Potro"
-    state "ARG"
+    label "Fernando Verdasco"
+    state "ESP"
+    rank 28
+    tourney_num 28
+    core 1
   ]
   node [
     id 28
-    label "Corentin Moutet"
-    state "FRA"
+    label "Novak Djokovic"
+    state "SRB"
+    rank 1
+    tourney_num 16
+    core 1
   ]
   node [
     id 29
-    label "Grigor Dimitrov"
-    state "BUL"
+    label "Adrian Mannarino"
+    state "FRA"
+    rank 42
+    tourney_num 30
+    core 1
   ]
   node [
     id 30
-    label "Damir Dzumhur"
-    state "BIH"
+    label "John Isner"
+    state "USA"
+    rank 10
+    tourney_num 23
+    core 1
   ]
   node [
     id 31
-    label "Philipp Kohlschreiber"
-    state "GER"
+    label "Damir Dzumhur"
+    state "BIH"
+    rank 47
+    tourney_num 32
+    core 1
   ]
   node [
     id 32
-    label "Kyle Edmund"
-    state "GBR"
+    label "Jeremy Chardy"
+    state "FRA"
+    rank 40
+    tourney_num 22
+    core 1
   ]
   node [
     id 33
-    label "Jan Lennard Struff"
-    state "GER"
+    label "Karen Khachanov"
+    state "RUS"
+    rank 11
+    tourney_num 25
+    core 1
   ]
   node [
     id 34
     label "Alexander Zverev"
     state "GER"
+    rank 4
+    tourney_num 22
+    core 1
   ]
   node [
     id 35
     label "Nikoloz Basilashvili"
     state "GEO"
+    rank 21
+    tourney_num 29
+    core 1
   ]
   node [
     id 36
-    label "Lucas Pouille"
-    state "FRA"
+    label "Kei Nishikori"
+    state "JPN"
+    rank 9
+    tourney_num 20
+    core 1
   ]
   node [
     id 37
-    label "Roger Federer"
-    state "SUI"
+    label "Dusan Lajovic"
+    state "SRB"
+    rank 48
+    tourney_num 24
+    core 1
   ]
   node [
     id 38
-    label "Alexei Popyrin"
-    state "AUS"
+    label "Stefanos Tsitsipas"
+    state "GRE"
+    rank 15
+    tourney_num 29
+    core 1
   ]
   node [
     id 39
-    label "Mitchell Krueger"
-    state "USA"
+    label "Marco Cecchinato"
+    state "ITA"
+    rank 20
+    tourney_num 24
+    core 1
   ]
   node [
     id 40
-    label "Taylor Fritz"
-    state "USA"
+    label "Alexandr Dolgopolov"
+    state "UKR"
+    rank 260
+    tourney_num 5
   ]
   node [
     id 41
-    label "Roberto Carballes Baena"
-    state "ESP"
+    label "Rogerio Dutra Silva"
+    state "BRA"
+    rank 159
+    tourney_num 11
   ]
   node [
     id 42
-    label "Marin Cilic"
-    state "CRO"
-  ]
-  node [
-    id 43
-    label "Juan Ignacio Londero"
-    state "ARG"
-  ]
-  node [
-    id 44
-    label "Stefanos Tsitsipas"
-    state "GRE"
-  ]
-  node [
-    id 45
-    label "Karen Khachanov"
-    state "RUS"
-  ]
-  node [
-    id 46
-    label "Yoshihito Nishioka"
-    state "JPN"
-  ]
-  node [
-    id 47
-    label "Salvatore Caruso"
-    state "ITA"
-  ]
-  edge [
-    source 0
-    target 3
-    weight 1
-  ]
-  edge [
-    source 0
-    target 24
-    weight 2
-  ]
-  edge [
-    source 0
-    target 18
-    weight 1
-  ]
-  edge [
-    source 0
-    target 33
-    weight 1
-  ]
-  edge [
-    source 0
-    target 7
-    weight 1
-  ]
-  edge [
-    source 0
-    target 6
-    weight 1
-  ]
-  edge [
-    source 0
-    target 45
-    weight 1
-  ]
-  edge [
-    source 0
-    target 32
-    weight 1
-  ]
-  edge [
-    source 0
-    target 36
-    weight 1
-  ]
-  edge [
-    source 0
-    target 12
-    weight 1
-  ]
-  edge [
-    source 0
-    target 35
-    weight 1
-  ]
-  edge [
-    source 0
-    target 23
-    weight 1
-  ]
-  edge [
-    source 0
-    target 11
-    weight 1
-  ]
-  edge [
-    source 0
-    target 19
-    weight 1
-  ]
-  edge [
-    source 0
-    target 10
-    weight 2
+    label "Jaume Munar"
+    state "ESP"
+    rank 81
+    tourney_num 11
   ]
   edge [
     source 0
@@ -321,467 +343,587 @@ graph [
   ]
   edge [
     source 0
-    target 40
+    target 27
     weight 1
   ]
   edge [
-    source 1
-    target 24
+    source 0
+    target 31
     weight 1
   ]
   edge [
-    source 1
-    target 19
-    weight 1
-  ]
-  edge [
-    source 1
-    target 21
-    weight 1
-  ]
-  edge [
-    source 1
-    target 23
-    weight 1
-  ]
-  edge [
-    source 2
-    target 38
-    weight 1
-  ]
-  edge [
-    source 2
-    target 3
-    weight 1
-  ]
-  edge [
-    source 2
-    target 25
-    weight 1
-  ]
-  edge [
-    source 2
-    target 20
-    weight 2
-  ]
-  edge [
-    source 2
-    target 18
-    weight 2
-  ]
-  edge [
-    source 2
-    target 33
-    weight 1
-  ]
-  edge [
-    source 2
-    target 6
-    weight 2
-  ]
-  edge [
-    source 2
-    target 11
-    weight 1
-  ]
-  edge [
-    source 2
-    target 19
-    weight 1
-  ]
-  edge [
-    source 2
-    target 7
-    weight 1
-  ]
-  edge [
-    source 2
-    target 22
-    weight 1
-  ]
-  edge [
-    source 2
-    target 17
-    weight 1
-  ]
-  edge [
-    source 2
-    target 21
-    weight 1
-  ]
-  edge [
-    source 3
-    target 30
-    weight 1
-  ]
-  edge [
-    source 3
-    target 20
-    weight 1
-  ]
-  edge [
-    source 3
-    target 22
-    weight 1
-  ]
-  edge [
-    source 3
-    target 43
-    weight 2
-  ]
-  edge [
-    source 3
-    target 40
-    weight 1
-  ]
-  edge [
-    source 3
-    target 23
-    weight 1
-  ]
-  edge [
-    source 3
-    target 24
-    weight 1
-  ]
-  edge [
-    source 3
-    target 25
-    weight 1
-  ]
-  edge [
-    source 3
-    target 9
-    weight 1
-  ]
-  edge [
-    source 3
-    target 18
-    weight 1
-  ]
-  edge [
-    source 3
-    target 4
-    weight 1
-  ]
-  edge [
-    source 3
+    source 0
     target 15
     weight 1
   ]
   edge [
-    source 3
-    target 6
+    source 0
+    target 18
     weight 1
   ]
   edge [
-    source 3
-    target 11
-    weight 2
-  ]
-  edge [
-    source 3
-    target 35
+    source 0
+    target 21
     weight 1
   ]
   edge [
-    source 3
-    target 19
+    source 0
+    target 25
     weight 1
   ]
   edge [
-    source 3
-    target 13
-    weight 1
-  ]
-  edge [
-    source 3
-    target 14
-    weight 1
-  ]
-  edge [
-    source 3
-    target 44
-    weight 1
-  ]
-  edge [
-    source 4
-    target 24
-    weight 1
-  ]
-  edge [
-    source 4
-    target 20
-    weight 1
-  ]
-  edge [
-    source 4
-    target 33
-    weight 1
-  ]
-  edge [
-    source 4
-    target 45
-    weight 1
-  ]
-  edge [
-    source 4
-    target 19
-    weight 1
-  ]
-  edge [
-    source 5
-    target 38
-    weight 1
-  ]
-  edge [
-    source 5
-    target 7
-    weight 1
-  ]
-  edge [
-    source 5
+    source 0
     target 32
     weight 1
   ]
   edge [
-    source 5
-    target 12
-    weight 2
-  ]
-  edge [
-    source 5
-    target 40
-    weight 1
-  ]
-  edge [
-    source 5
-    target 9
-    weight 1
-  ]
-  edge [
-    source 5
-    target 11
-    weight 1
-  ]
-  edge [
-    source 5
+    source 0
     target 36
     weight 1
   ]
   edge [
-    source 5
-    target 8
-    weight 1
-  ]
-  edge [
-    source 5
-    target 19
-    weight 2
-  ]
-  edge [
-    source 5
-    target 41
-    weight 1
-  ]
-  edge [
-    source 5
-    target 46
-    weight 1
-  ]
-  edge [
-    source 6
-    target 34
-    weight 2
-  ]
-  edge [
-    source 6
-    target 24
-    weight 1
-  ]
-  edge [
-    source 6
-    target 25
-    weight 1
-  ]
-  edge [
-    source 6
-    target 9
-    weight 1
-  ]
-  edge [
-    source 6
-    target 15
-    weight 1
-  ]
-  edge [
-    source 6
-    target 33
-    weight 1
-  ]
-  edge [
-    source 6
-    target 32
-    weight 1
-  ]
-  edge [
-    source 6
-    target 21
-    weight 1
-  ]
-  edge [
-    source 6
-    target 23
-    weight 1
-  ]
-  edge [
-    source 6
-    target 45
-    weight 1
-  ]
-  edge [
-    source 6
-    target 11
-    weight 1
-  ]
-  edge [
-    source 6
-    target 42
-    weight 1
-  ]
-  edge [
-    source 6
-    target 12
-    weight 1
-  ]
-  edge [
-    source 6
-    target 35
-    weight 1
-  ]
-  edge [
-    source 6
-    target 19
-    weight 1
-  ]
-  edge [
-    source 6
-    target 10
-    weight 1
-  ]
-  edge [
-    source 6
-    target 14
-    weight 1
-  ]
-  edge [
-    source 6
-    target 44
-    weight 1
-  ]
-  edge [
-    source 7
-    target 22
-    weight 1
-  ]
-  edge [
-    source 7
-    target 17
-    weight 1
-  ]
-  edge [
-    source 7
-    target 42
-    weight 1
-  ]
-  edge [
-    source 7
-    target 19
-    weight 1
-  ]
-  edge [
-    source 7
-    target 13
-    weight 1
-  ]
-  edge [
-    source 7
-    target 40
-    weight 1
-  ]
-  edge [
-    source 8
-    target 24
-    weight 1
-  ]
-  edge [
-    source 8
-    target 9
-    weight 1
-  ]
-  edge [
-    source 8
-    target 18
-    weight 1
-  ]
-  edge [
-    source 8
+    source 0
     target 16
     weight 1
   ]
   edge [
-    source 8
+    source 0
+    target 2
+    weight 1
+  ]
+  edge [
+    source 0
     target 17
     weight 1
   ]
   edge [
-    source 8
-    target 45
+    source 0
+    target 28
+    weight 2
+  ]
+  edge [
+    source 0
+    target 26
     weight 1
   ]
   edge [
-    source 8
-    target 11
+    source 0
+    target 10
     weight 1
   ]
   edge [
-    source 8
+    source 1
+    target 29
+    weight 1
+  ]
+  edge [
+    source 1
+    target 23
+    weight 1
+  ]
+  edge [
+    source 1
+    target 27
+    weight 2
+  ]
+  edge [
+    source 1
+    target 37
+    weight 1
+  ]
+  edge [
+    source 1
+    target 5
+    weight 1
+  ]
+  edge [
+    source 1
+    target 42
+    weight 1
+  ]
+  edge [
+    source 1
+    target 30
+    weight 2
+  ]
+  edge [
+    source 1
+    target 39
+    weight 1
+  ]
+  edge [
+    source 1
+    target 2
+    weight 1
+  ]
+  edge [
+    source 1
+    target 8
+    weight 1
+  ]
+  edge [
+    source 1
+    target 35
+    weight 1
+  ]
+  edge [
+    source 1
+    target 14
+    weight 1
+  ]
+  edge [
+    source 1
+    target 7
+    weight 1
+  ]
+  edge [
+    source 1
+    target 36
+    weight 1
+  ]
+  edge [
+    source 1
+    target 16
+    weight 1
+  ]
+  edge [
+    source 1
+    target 18
+    weight 1
+  ]
+  edge [
+    source 1
+    target 3
+    weight 1
+  ]
+  edge [
+    source 1
+    target 28
+    weight 1
+  ]
+  edge [
+    source 1
+    target 26
+    weight 1
+  ]
+  edge [
+    source 1
+    target 38
+    weight 1
+  ]
+  edge [
+    source 2
+    target 34
+    weight 2
+  ]
+  edge [
+    source 2
     target 30
     weight 1
   ]
   edge [
-    source 8
+    source 2
+    target 4
+    weight 1
+  ]
+  edge [
+    source 2
+    target 36
+    weight 2
+  ]
+  edge [
+    source 2
+    target 19
+    weight 1
+  ]
+  edge [
+    source 2
+    target 9
+    weight 1
+  ]
+  edge [
+    source 2
+    target 27
+    weight 2
+  ]
+  edge [
+    source 2
+    target 20
+    weight 1
+  ]
+  edge [
+    source 2
+    target 33
+    weight 1
+  ]
+  edge [
+    source 2
+    target 18
+    weight 1
+  ]
+  edge [
+    source 2
+    target 11
+    weight 1
+  ]
+  edge [
+    source 2
+    target 17
+    weight 1
+  ]
+  edge [
+    source 2
+    target 28
+    weight 3
+  ]
+  edge [
+    source 2
+    target 26
+    weight 1
+  ]
+  edge [
+    source 2
+    target 7
+    weight 1
+  ]
+  edge [
+    source 2
+    target 10
+    weight 1
+  ]
+  edge [
+    source 3
+    target 23
+    weight 1
+  ]
+  edge [
+    source 3
+    target 20
+    weight 2
+  ]
+  edge [
+    source 3
+    target 33
+    weight 1
+  ]
+  edge [
+    source 3
+    target 39
+    weight 1
+  ]
+  edge [
+    source 3
+    target 8
+    weight 2
+  ]
+  edge [
+    source 3
+    target 17
+    weight 1
+  ]
+  edge [
+    source 3
+    target 28
+    weight 1
+  ]
+  edge [
+    source 3
+    target 25
+    weight 1
+  ]
+  edge [
+    source 4
+    target 9
+    weight 1
+  ]
+  edge [
+    source 4
+    target 37
+    weight 1
+  ]
+  edge [
+    source 4
+    target 30
+    weight 2
+  ]
+  edge [
+    source 4
+    target 24
+    weight 2
+  ]
+  edge [
+    source 4
+    target 34
+    weight 1
+  ]
+  edge [
+    source 4
+    target 19
+    weight 1
+  ]
+  edge [
+    source 4
+    target 31
+    weight 2
+  ]
+  edge [
+    source 4
+    target 23
+    weight 1
+  ]
+  edge [
+    source 4
+    target 12
+    weight 1
+  ]
+  edge [
+    source 4
+    target 27
+    weight 1
+  ]
+  edge [
+    source 4
+    target 6
+    weight 1
+  ]
+  edge [
+    source 4
+    target 32
+    weight 1
+  ]
+  edge [
+    source 4
+    target 33
+    weight 3
+  ]
+  edge [
+    source 4
+    target 36
+    weight 1
+  ]
+  edge [
+    source 4
+    target 16
+    weight 1
+  ]
+  edge [
+    source 4
+    target 17
+    weight 2
+  ]
+  edge [
+    source 4
+    target 26
+    weight 2
+  ]
+  edge [
+    source 4
+    target 14
+    weight 1
+  ]
+  edge [
+    source 4
+    target 10
+    weight 1
+  ]
+  edge [
+    source 4
+    target 38
+    weight 1
+  ]
+  edge [
+    source 4
+    target 35
+    weight 1
+  ]
+  edge [
+    source 4
+    target 28
+    weight 1
+  ]
+  edge [
+    source 4
+    target 21
+    weight 1
+  ]
+  edge [
+    source 5
+    target 40
+    weight 1
+  ]
+  edge [
+    source 5
+    target 23
+    weight 1
+  ]
+  edge [
+    source 5
+    target 37
+    weight 2
+  ]
+  edge [
+    source 5
+    target 39
+    weight 1
+  ]
+  edge [
+    source 5
+    target 41
+    weight 1
+  ]
+  edge [
+    source 5
+    target 30
+    weight 1
+  ]
+  edge [
+    source 5
+    target 28
+    weight 1
+  ]
+  edge [
+    source 6
+    target 34
+    weight 1
+  ]
+  edge [
+    source 6
+    target 12
+    weight 1
+  ]
+  edge [
+    source 6
+    target 37
+    weight 1
+  ]
+  edge [
+    source 6
+    target 20
+    weight 1
+  ]
+  edge [
+    source 6
+    target 30
+    weight 1
+  ]
+  edge [
+    source 6
+    target 8
+    weight 1
+  ]
+  edge [
+    source 6
+    target 28
+    weight 1
+  ]
+  edge [
+    source 6
+    target 25
+    weight 2
+  ]
+  edge [
+    source 6
+    target 16
+    weight 1
+  ]
+  edge [
+    source 6
+    target 18
+    weight 1
+  ]
+  edge [
+    source 6
+    target 39
+    weight 1
+  ]
+  edge [
+    source 6
+    target 10
+    weight 2
+  ]
+  edge [
+    source 7
+    target 19
+    weight 1
+  ]
+  edge [
+    source 7
+    target 9
+    weight 1
+  ]
+  edge [
+    source 7
+    target 23
+    weight 1
+  ]
+  edge [
+    source 7
+    target 33
+    weight 1
+  ]
+  edge [
+    source 7
+    target 8
+    weight 1
+  ]
+  edge [
+    source 7
+    target 11
+    weight 1
+  ]
+  edge [
+    source 7
+    target 28
+    weight 1
+  ]
+  edge [
+    source 7
+    target 21
+    weight 2
+  ]
+  edge [
+    source 7
+    target 29
+    weight 2
+  ]
+  edge [
+    source 7
+    target 42
+    weight 1
+  ]
+  edge [
+    source 7
+    target 30
+    weight 1
+  ]
+  edge [
+    source 7
+    target 18
+    weight 1
+  ]
+  edge [
+    source 7
+    target 17
+    weight 1
+  ]
+  edge [
+    source 7
+    target 35
+    weight 1
+  ]
+  edge [
+    source 7
     target 25
     weight 1
   ]
   edge [
     source 8
-    target 33
+    target 23
     weight 1
-  ]
-  edge [
-    source 8
-    target 12
-    weight 1
-  ]
-  edge [
-    source 8
-    target 35
-    weight 2
   ]
   edge [
     source 8
     target 31
-    weight 1
-  ]
-  edge [
-    source 8
-    target 13
-    weight 1
-  ]
-  edge [
-    source 8
-    target 19
     weight 1
   ]
   edge [
@@ -791,17 +933,17 @@ graph [
   ]
   edge [
     source 8
-    target 14
+    target 42
     weight 1
   ]
   edge [
     source 8
-    target 44
+    target 28
     weight 1
   ]
   edge [
-    source 9
-    target 24
+    source 8
+    target 26
     weight 1
   ]
   edge [
@@ -811,27 +953,12 @@ graph [
   ]
   edge [
     source 9
-    target 18
+    target 24
     weight 2
   ]
   edge [
     source 9
-    target 45
-    weight 1
-  ]
-  edge [
-    source 9
-    target 11
-    weight 1
-  ]
-  edge [
-    source 9
-    target 32
-    weight 1
-  ]
-  edge [
-    source 9
-    target 42
+    target 19
     weight 1
   ]
   edge [
@@ -841,42 +968,52 @@ graph [
   ]
   edge [
     source 9
-    target 41
+    target 32
+    weight 1
+  ]
+  edge [
+    source 9
+    target 16
+    weight 1
+  ]
+  edge [
+    source 9
+    target 35
+    weight 2
+  ]
+  edge [
+    source 9
+    target 14
     weight 1
   ]
   edge [
     source 9
     target 21
-    weight 1
-  ]
-  edge [
-    source 9
-    target 40
-    weight 1
-  ]
-  edge [
-    source 9
-    target 46
-    weight 3
-  ]
-  edge [
-    source 9
-    target 33
-    weight 1
-  ]
-  edge [
-    source 9
-    target 19
     weight 1
   ]
   edge [
     source 9
     target 10
-    weight 3
+    weight 1
   ]
   edge [
     source 9
-    target 13
+    target 23
+    weight 2
+  ]
+  edge [
+    source 9
+    target 15
+    weight 1
+  ]
+  edge [
+    source 9
+    target 28
+    weight 2
+  ]
+  edge [
+    source 9
+    target 38
     weight 1
   ]
   edge [
@@ -886,28 +1023,23 @@ graph [
   ]
   edge [
     source 10
-    target 20
+    target 15
     weight 1
   ]
   edge [
     source 10
-    target 18
+    target 36
+    weight 2
+  ]
+  edge [
+    source 10
+    target 16
     weight 1
   ]
   edge [
     source 10
-    target 19
-    weight 1
-  ]
-  edge [
-    source 10
-    target 24
-    weight 3
-  ]
-  edge [
-    source 10
-    target 25
-    weight 1
+    target 28
+    weight 2
   ]
   edge [
     source 10
@@ -916,23 +1048,23 @@ graph [
   ]
   edge [
     source 10
-    target 33
-    weight 1
-  ]
-  edge [
-    source 10
-    target 17
-    weight 1
-  ]
-  edge [
-    source 10
-    target 43
-    weight 1
-  ]
-  edge [
-    source 10
-    target 45
+    target 19
     weight 2
+  ]
+  edge [
+    source 10
+    target 23
+    weight 1
+  ]
+  edge [
+    source 10
+    target 37
+    weight 1
+  ]
+  edge [
+    source 10
+    target 32
+    weight 1
   ]
   edge [
     source 10
@@ -941,28 +1073,13 @@ graph [
   ]
   edge [
     source 10
-    target 42
-    weight 1
-  ]
-  edge [
-    source 10
-    target 12
-    weight 1
-  ]
-  edge [
-    source 10
-    target 35
-    weight 1
-  ]
-  edge [
-    source 10
-    target 13
-    weight 1
-  ]
-  edge [
-    source 10
-    target 37
+    target 17
     weight 2
+  ]
+  edge [
+    source 10
+    target 14
+    weight 1
   ]
   edge [
     source 10
@@ -970,13 +1087,18 @@ graph [
     weight 1
   ]
   edge [
-    source 10
-    target 14
+    source 11
+    target 19
     weight 2
   ]
   edge [
-    source 10
-    target 44
+    source 11
+    target 18
+    weight 1
+  ]
+  edge [
+    source 11
+    target 29
     weight 1
   ]
   edge [
@@ -986,177 +1108,52 @@ graph [
   ]
   edge [
     source 11
-    target 15
-    weight 2
-  ]
-  edge [
-    source 11
-    target 29
-    weight 1
-  ]
-  edge [
-    source 11
-    target 33
-    weight 1
-  ]
-  edge [
-    source 11
-    target 41
-    weight 1
-  ]
-  edge [
-    source 11
-    target 40
-    weight 2
-  ]
-  edge [
-    source 11
-    target 19
-    weight 1
-  ]
-  edge [
-    source 11
-    target 37
-    weight 1
-  ]
-  edge [
-    source 11
-    target 14
-    weight 2
-  ]
-  edge [
-    source 11
-    target 46
-    weight 1
-  ]
-  edge [
-    source 12
-    target 34
-    weight 1
-  ]
-  edge [
-    source 12
-    target 25
-    weight 1
-  ]
-  edge [
-    source 12
-    target 20
-    weight 1
-  ]
-  edge [
-    source 12
-    target 18
-    weight 2
-  ]
-  edge [
-    source 12
-    target 29
-    weight 1
-  ]
-  edge [
-    source 12
-    target 15
-    weight 1
-  ]
-  edge [
-    source 12
-    target 43
-    weight 1
-  ]
-  edge [
-    source 12
-    target 38
-    weight 1
-  ]
-  edge [
-    source 12
-    target 33
-    weight 2
-  ]
-  edge [
-    source 12
-    target 45
-    weight 3
-  ]
-  edge [
-    source 12
-    target 32
-    weight 1
-  ]
-  edge [
-    source 12
-    target 36
-    weight 1
-  ]
-  edge [
-    source 12
-    target 35
-    weight 1
-  ]
-  edge [
-    source 12
     target 31
     weight 1
   ]
   edge [
-    source 12
-    target 13
+    source 11
+    target 20
     weight 1
   ]
   edge [
-    source 12
-    target 41
-    weight 1
-  ]
-  edge [
-    source 12
-    target 19
-    weight 1
-  ]
-  edge [
-    source 12
-    target 37
+    source 11
+    target 39
     weight 2
   ]
   edge [
-    source 12
-    target 21
+    source 11
+    target 17
     weight 1
   ]
   edge [
-    source 12
-    target 44
-    weight 1
-  ]
-  edge [
-    source 12
-    target 40
-    weight 1
-  ]
-  edge [
-    source 13
-    target 22
-    weight 1
-  ]
-  edge [
-    source 13
-    target 45
-    weight 2
-  ]
-  edge [
-    source 13
-    target 35
-    weight 1
-  ]
-  edge [
-    source 13
-    target 19
-    weight 2
-  ]
-  edge [
-    source 13
+    source 11
     target 28
+    weight 1
+  ]
+  edge [
+    source 12
+    target 20
+    weight 1
+  ]
+  edge [
+    source 12
+    target 36
+    weight 1
+  ]
+  edge [
+    source 12
+    target 28
+    weight 1
+  ]
+  edge [
+    source 13
+    target 29
+    weight 1
+  ]
+  edge [
+    source 13
+    target 34
     weight 1
   ]
   edge [
@@ -1166,47 +1163,12 @@ graph [
   ]
   edge [
     source 13
-    target 17
-    weight 2
-  ]
-  edge [
-    source 13
-    target 42
+    target 33
     weight 1
   ]
   edge [
     source 13
-    target 14
-    weight 1
-  ]
-  edge [
-    source 13
-    target 40
-    weight 1
-  ]
-  edge [
-    source 13
-    target 37
-    weight 1
-  ]
-  edge [
-    source 13
-    target 21
-    weight 1
-  ]
-  edge [
-    source 13
-    target 44
-    weight 1
-  ]
-  edge [
-    source 13
-    target 46
-    weight 1
-  ]
-  edge [
-    source 14
-    target 30
+    target 28
     weight 1
   ]
   edge [
@@ -1216,37 +1178,7 @@ graph [
   ]
   edge [
     source 14
-    target 25
-    weight 1
-  ]
-  edge [
-    source 14
-    target 45
-    weight 1
-  ]
-  edge [
-    source 14
-    target 37
-    weight 3
-  ]
-  edge [
-    source 14
-    target 20
-    weight 1
-  ]
-  edge [
-    source 14
-    target 29
-    weight 3
-  ]
-  edge [
-    source 14
-    target 36
-    weight 1
-  ]
-  edge [
-    source 14
-    target 42
+    target 34
     weight 1
   ]
   edge [
@@ -1256,102 +1188,102 @@ graph [
   ]
   edge [
     source 14
-    target 44
+    target 37
+    weight 1
+  ]
+  edge [
+    source 14
+    target 32
+    weight 2
+  ]
+  edge [
+    source 14
+    target 36
+    weight 1
+  ]
+  edge [
+    source 14
+    target 18
+    weight 2
+  ]
+  edge [
+    source 14
+    target 28
+    weight 1
+  ]
+  edge [
+    source 14
+    target 26
+    weight 1
+  ]
+  edge [
+    source 14
+    target 31
+    weight 1
+  ]
+  edge [
+    source 14
+    target 16
+    weight 1
+  ]
+  edge [
+    source 14
+    target 38
     weight 1
   ]
   edge [
     source 15
-    target 34
+    target 19
+    weight 1
+  ]
+  edge [
+    source 15
+    target 31
+    weight 1
+  ]
+  edge [
+    source 15
+    target 23
+    weight 1
+  ]
+  edge [
+    source 15
+    target 37
+    weight 1
+  ]
+  edge [
+    source 15
+    target 36
+    weight 1
+  ]
+  edge [
+    source 15
+    target 39
+    weight 2
+  ]
+  edge [
+    source 15
+    target 17
+    weight 1
+  ]
+  edge [
+    source 15
+    target 35
     weight 1
   ]
   edge [
     source 15
     target 28
-    weight 1
-  ]
-  edge [
-    source 15
-    target 20
     weight 2
   ]
   edge [
     source 15
-    target 18
-    weight 1
-  ]
-  edge [
-    source 15
-    target 36
-    weight 1
-  ]
-  edge [
-    source 15
-    target 44
-    weight 3
-  ]
-  edge [
-    source 15
-    target 40
+    target 38
     weight 1
   ]
   edge [
     source 15
     target 22
-    weight 1
-  ]
-  edge [
-    source 15
-    target 45
-    weight 1
-  ]
-  edge [
-    source 15
-    target 42
-    weight 1
-  ]
-  edge [
-    source 15
-    target 19
-    weight 2
-  ]
-  edge [
-    source 15
-    target 37
-    weight 1
-  ]
-  edge [
-    source 16
-    target 34
-    weight 2
-  ]
-  edge [
-    source 16
-    target 38
-    weight 1
-  ]
-  edge [
-    source 16
-    target 29
-    weight 1
-  ]
-  edge [
-    source 16
-    target 17
-    weight 1
-  ]
-  edge [
-    source 16
-    target 41
-    weight 1
-  ]
-  edge [
-    source 16
-    target 43
-    weight 1
-  ]
-  edge [
-    source 16
-    target 19
     weight 1
   ]
   edge [
@@ -1360,9 +1292,69 @@ graph [
     weight 1
   ]
   edge [
-    source 17
-    target 34
+    source 16
+    target 36
+    weight 3
+  ]
+  edge [
+    source 16
+    target 29
     weight 1
+  ]
+  edge [
+    source 16
+    target 19
+    weight 1
+  ]
+  edge [
+    source 16
+    target 37
+    weight 1
+  ]
+  edge [
+    source 16
+    target 27
+    weight 1
+  ]
+  edge [
+    source 16
+    target 32
+    weight 2
+  ]
+  edge [
+    source 16
+    target 30
+    weight 1
+  ]
+  edge [
+    source 16
+    target 33
+    weight 1
+  ]
+  edge [
+    source 16
+    target 35
+    weight 3
+  ]
+  edge [
+    source 16
+    target 38
+    weight 2
+  ]
+  edge [
+    source 16
+    target 18
+    weight 1
+  ]
+  edge [
+    source 16
+    target 28
+    weight 3
+  ]
+  edge [
+    source 17
+    target 30
+    weight 2
   ]
   edge [
     source 17
@@ -1371,7 +1363,22 @@ graph [
   ]
   edge [
     source 17
-    target 33
+    target 37
+    weight 1
+  ]
+  edge [
+    source 17
+    target 32
+    weight 1
+  ]
+  edge [
+    source 17
+    target 20
+    weight 1
+  ]
+  edge [
+    source 17
+    target 39
     weight 1
   ]
   edge [
@@ -1381,42 +1388,17 @@ graph [
   ]
   edge [
     source 17
-    target 30
-    weight 1
-  ]
-  edge [
-    source 17
-    target 42
-    weight 1
-  ]
-  edge [
-    source 17
-    target 19
-    weight 1
-  ]
-  edge [
-    source 17
-    target 37
-    weight 1
-  ]
-  edge [
-    source 17
-    target 21
-    weight 1
-  ]
-  edge [
-    source 18
-    target 38
-    weight 1
-  ]
-  edge [
-    source 18
-    target 24
+    target 28
     weight 1
   ]
   edge [
     source 18
     target 34
+    weight 2
+  ]
+  edge [
+    source 18
+    target 27
     weight 1
   ]
   edge [
@@ -1426,12 +1408,12 @@ graph [
   ]
   edge [
     source 18
-    target 45
-    weight 2
+    target 24
+    weight 1
   ]
   edge [
     source 18
-    target 42
+    target 37
     weight 1
   ]
   edge [
@@ -1441,42 +1423,7 @@ graph [
   ]
   edge [
     source 18
-    target 19
-    weight 1
-  ]
-  edge [
-    source 18
-    target 37
-    weight 3
-  ]
-  edge [
-    source 18
-    target 44
-    weight 1
-  ]
-  edge [
-    source 18
-    target 29
-    weight 1
-  ]
-  edge [
-    source 18
-    target 21
-    weight 1
-  ]
-  edge [
-    source 19
-    target 24
-    weight 1
-  ]
-  edge [
-    source 19
-    target 34
-    weight 1
-  ]
-  edge [
-    source 19
-    target 38
+    target 28
     weight 1
   ]
   edge [
@@ -1486,18 +1433,8 @@ graph [
   ]
   edge [
     source 19
-    target 30
-    weight 1
-  ]
-  edge [
-    source 19
-    target 25
+    target 36
     weight 2
-  ]
-  edge [
-    source 19
-    target 20
-    weight 4
   ]
   edge [
     source 19
@@ -1505,113 +1442,28 @@ graph [
     weight 1
   ]
   edge [
-    source 19
+    source 20
     target 29
     weight 1
   ]
   edge [
-    source 19
-    target 33
-    weight 1
-  ]
-  edge [
-    source 19
-    target 22
-    weight 1
-  ]
-  edge [
-    source 19
-    target 43
-    weight 1
-  ]
-  edge [
-    source 19
-    target 27
-    weight 1
-  ]
-  edge [
-    source 19
-    target 45
-    weight 1
-  ]
-  edge [
-    source 19
-    target 32
-    weight 1
-  ]
-  edge [
-    source 19
-    target 36
-    weight 3
-  ]
-  edge [
-    source 19
+    source 20
     target 42
     weight 1
   ]
   edge [
-    source 19
+    source 20
+    target 34
+    weight 1
+  ]
+  edge [
+    source 20
     target 39
     weight 1
   ]
   edge [
-    source 19
+    source 20
     target 35
-    weight 1
-  ]
-  edge [
-    source 19
-    target 31
-    weight 1
-  ]
-  edge [
-    source 19
-    target 41
-    weight 1
-  ]
-  edge [
-    source 19
-    target 37
-    weight 1
-  ]
-  edge [
-    source 19
-    target 47
-    weight 1
-  ]
-  edge [
-    source 19
-    target 21
-    weight 1
-  ]
-  edge [
-    source 19
-    target 44
-    weight 1
-  ]
-  edge [
-    source 19
-    target 40
-    weight 2
-  ]
-  edge [
-    source 19
-    target 23
-    weight 1
-  ]
-  edge [
-    source 19
-    target 46
-    weight 1
-  ]
-  edge [
-    source 20
-    target 25
-    weight 1
-  ]
-  edge [
-    source 20
-    target 34
     weight 1
   ]
   edge [
@@ -1621,52 +1473,52 @@ graph [
   ]
   edge [
     source 20
-    target 45
-    weight 1
+    target 28
+    weight 2
   ]
   edge [
     source 20
-    target 42
-    weight 1
-  ]
-  edge [
-    source 20
-    target 44
-    weight 1
-  ]
-  edge [
-    source 20
-    target 40
-    weight 1
-  ]
-  edge [
-    source 20
-    target 23
-    weight 1
-  ]
-  edge [
-    source 20
-    target 33
-    weight 3
-  ]
-  edge [
-    source 20
-    target 27
-    weight 1
-  ]
-  edge [
-    source 20
-    target 36
-    weight 1
-  ]
-  edge [
-    source 20
-    target 37
+    target 21
     weight 1
   ]
   edge [
     source 21
     target 34
+    weight 2
+  ]
+  edge [
+    source 21
+    target 23
+    weight 1
+  ]
+  edge [
+    source 21
+    target 27
+    weight 1
+  ]
+  edge [
+    source 21
+    target 28
+    weight 1
+  ]
+  edge [
+    source 21
+    target 37
+    weight 1
+  ]
+  edge [
+    source 21
+    target 42
+    weight 1
+  ]
+  edge [
+    source 21
+    target 33
+    weight 1
+  ]
+  edge [
+    source 21
+    target 39
     weight 1
   ]
   edge [
@@ -1675,239 +1527,299 @@ graph [
     weight 1
   ]
   edge [
-    source 21
-    target 43
+    source 22
+    target 27
     weight 1
   ]
   edge [
-    source 21
-    target 29
+    source 22
+    target 42
     weight 1
   ]
   edge [
-    source 21
+    source 22
+    target 38
+    weight 1
+  ]
+  edge [
+    source 22
+    target 32
+    weight 1
+  ]
+  edge [
+    source 22
+    target 28
+    weight 1
+  ]
+  edge [
+    source 22
     target 41
     weight 1
   ]
   edge [
-    source 21
-    target 40
-    weight 1
-  ]
-  edge [
-    source 22
-    target 38
-    weight 1
-  ]
-  edge [
-    source 22
-    target 33
-    weight 1
-  ]
-  edge [
-    source 22
-    target 32
-    weight 1
-  ]
-  edge [
-    source 22
-    target 36
-    weight 1
-  ]
-  edge [
-    source 22
-    target 23
-    weight 1
-  ]
-  edge [
-    source 22
-    target 45
-    weight 1
-  ]
-  edge [
-    source 22
-    target 42
-    weight 1
-  ]
-  edge [
-    source 22
-    target 37
-    weight 1
-  ]
-  edge [
-    source 22
-    target 44
-    weight 1
-  ]
-  edge [
-    source 22
-    target 40
-    weight 1
-  ]
-  edge [
     source 23
-    target 38
-    weight 1
-  ]
-  edge [
-    source 23
-    target 29
-    weight 1
-  ]
-  edge [
-    source 23
-    target 32
-    weight 1
-  ]
-  edge [
-    source 23
-    target 31
-    weight 1
-  ]
-  edge [
-    source 23
-    target 25
-    weight 1
-  ]
-  edge [
-    source 24
     target 34
     weight 1
   ]
   edge [
-    source 24
-    target 38
+    source 23
+    target 29
     weight 1
   ]
   edge [
-    source 24
+    source 23
+    target 37
+    weight 2
+  ]
+  edge [
+    source 23
+    target 42
+    weight 1
+  ]
+  edge [
+    source 23
+    target 36
+    weight 1
+  ]
+  edge [
+    source 23
+    target 39
+    weight 1
+  ]
+  edge [
+    source 23
+    target 28
+    weight 1
+  ]
+  edge [
+    source 23
+    target 26
+    weight 3
+  ]
+  edge [
+    source 23
+    target 38
+    weight 2
+  ]
+  edge [
+    source 23
+    target 27
+    weight 1
+  ]
+  edge [
+    source 23
+    target 33
+    weight 1
+  ]
+  edge [
+    source 23
     target 25
     weight 1
   ]
   edge [
     source 24
-    target 29
+    target 30
     weight 1
   ]
   edge [
     source 24
-    target 33
-    weight 1
-  ]
-  edge [
-    source 24
-    target 45
-    weight 1
-  ]
-  edge [
-    source 24
-    target 32
+    target 41
     weight 2
   ]
   edge [
     source 24
-    target 36
-    weight 1
-  ]
-  edge [
-    source 24
-    target 42
-    weight 1
-  ]
-  edge [
-    source 24
-    target 44
-    weight 1
-  ]
-  edge [
-    source 24
     target 37
     weight 1
   ]
   edge [
+    source 24
+    target 33
+    weight 2
+  ]
+  edge [
+    source 24
+    target 28
+    weight 2
+  ]
+  edge [
+    source 24
+    target 38
+    weight 1
+  ]
+  edge [
     source 25
-    target 34
+    target 30
     weight 1
   ]
   edge [
     source 25
     target 28
+    weight 2
+  ]
+  edge [
+    source 25
+    target 41
     weight 1
   ]
   edge [
     source 25
-    target 42
+    target 32
     weight 1
   ]
   edge [
     source 25
-    target 40
+    target 35
     weight 1
   ]
   edge [
-    source 25
-    target 46
+    source 26
+    target 28
     weight 1
   ]
   edge [
-    source 25
-    target 29
-    weight 1
+    source 26
+    target 34
+    weight 2
   ]
   edge [
-    source 25
-    target 33
-    weight 1
-  ]
-  edge [
-    source 25
-    target 27
-    weight 1
-  ]
-  edge [
-    source 25
-    target 37
-    weight 3
-  ]
-  edge [
-    source 25
-    target 44
+    source 26
+    target 31
     weight 2
   ]
   edge [
     source 26
     target 33
+    weight 3
+  ]
+  edge [
+    source 26
+    target 36
     weight 1
   ]
   edge [
-    source 27
-    target 46
+    source 26
+    target 35
+    weight 1
+  ]
+  edge [
+    source 26
+    target 38
     weight 2
   ]
   edge [
     source 27
-    target 45
+    target 31
+    weight 1
+  ]
+  edge [
+    source 27
+    target 37
+    weight 1
+  ]
+  edge [
+    source 27
+    target 32
+    weight 1
+  ]
+  edge [
+    source 27
+    target 35
+    weight 1
+  ]
+  edge [
+    source 27
+    target 28
+    weight 1
+  ]
+  edge [
+    source 28
+    target 34
+    weight 2
+  ]
+  edge [
+    source 28
+    target 33
+    weight 1
+  ]
+  edge [
+    source 28
+    target 39
     weight 1
   ]
   edge [
     source 28
     target 29
+    weight 2
+  ]
+  edge [
+    source 28
+    target 40
     weight 1
   ]
   edge [
     source 28
-    target 43
+    target 31
     weight 1
   ]
   edge [
     source 28
-    target 47
+    target 37
+    weight 1
+  ]
+  edge [
+    source 28
+    target 42
+    weight 1
+  ]
+  edge [
+    source 28
+    target 32
+    weight 2
+  ]
+  edge [
+    source 28
+    target 30
+    weight 1
+  ]
+  edge [
+    source 28
+    target 36
+    weight 4
+  ]
+  edge [
+    source 28
+    target 35
+    weight 1
+  ]
+  edge [
+    source 28
+    target 41
+    weight 1
+  ]
+  edge [
+    source 28
+    target 38
     weight 1
   ]
   edge [
     source 29
-    target 30
+    target 39
+    weight 2
+  ]
+  edge [
+    source 29
+    target 31
     weight 1
+  ]
+  edge [
+    source 29
+    target 37
+    weight 1
+  ]
+  edge [
+    source 29
+    target 32
+    weight 2
   ]
   edge [
     source 29
@@ -1916,42 +1828,42 @@ graph [
   ]
   edge [
     source 29
-    target 42
-    weight 1
-  ]
-  edge [
-    source 29
-    target 37
-    weight 1
-  ]
-  edge [
-    source 29
-    target 46
-    weight 1
-  ]
-  edge [
-    source 29
-    target 40
+    target 36
     weight 1
   ]
   edge [
     source 30
-    target 44
-    weight 1
-  ]
-  edge [
-    source 30
-    target 41
+    target 34
     weight 1
   ]
   edge [
     source 30
     target 37
+    weight 2
+  ]
+  edge [
+    source 30
+    target 38
+    weight 1
+  ]
+  edge [
+    source 30
+    target 33
+    weight 2
+  ]
+  edge [
+    source 31
+    target 34
     weight 1
   ]
   edge [
     source 31
-    target 45
+    target 38
+    weight 1
+  ]
+  edge [
+    source 31
+    target 37
     weight 1
   ]
   edge [
@@ -1961,13 +1873,8 @@ graph [
   ]
   edge [
     source 31
-    target 36
-    weight 1
-  ]
-  edge [
-    source 31
-    target 37
-    weight 1
+    target 39
+    weight 2
   ]
   edge [
     source 32
@@ -1976,12 +1883,17 @@ graph [
   ]
   edge [
     source 32
-    target 44
+    target 35
     weight 1
   ]
   edge [
     source 32
-    target 40
+    target 41
+    weight 1
+  ]
+  edge [
+    source 32
+    target 38
     weight 1
   ]
   edge [
@@ -1991,7 +1903,7 @@ graph [
   ]
   edge [
     source 33
-    target 45
+    target 37
     weight 1
   ]
   edge [
@@ -2001,132 +1913,47 @@ graph [
   ]
   edge [
     source 33
+    target 38
+    weight 1
+  ]
+  edge [
+    source 34
+    target 37
+    weight 1
+  ]
+  edge [
+    source 34
+    target 36
+    weight 1
+  ]
+  edge [
+    source 34
+    target 35
+    weight 1
+  ]
+  edge [
+    source 34
+    target 38
+    weight 1
+  ]
+  edge [
+    source 35
+    target 37
+    weight 1
+  ]
+  edge [
+    source 35
+    target 36
+    weight 1
+  ]
+  edge [
+    source 36
+    target 38
+    weight 1
+  ]
+  edge [
+    source 38
     target 42
-    weight 1
-  ]
-  edge [
-    source 33
-    target 44
-    weight 1
-  ]
-  edge [
-    source 33
-    target 40
-    weight 1
-  ]
-  edge [
-    source 33
-    target 46
-    weight 1
-  ]
-  edge [
-    source 33
-    target 35
-    weight 1
-  ]
-  edge [
-    source 34
-    target 38
-    weight 1
-  ]
-  edge [
-    source 34
-    target 43
-    weight 1
-  ]
-  edge [
-    source 34
-    target 35
-    weight 1
-  ]
-  edge [
-    source 34
-    target 37
-    weight 1
-  ]
-  edge [
-    source 34
-    target 45
-    weight 1
-  ]
-  edge [
-    source 34
-    target 44
-    weight 3
-  ]
-  edge [
-    source 34
-    target 40
-    weight 1
-  ]
-  edge [
-    source 35
-    target 43
-    weight 1
-  ]
-  edge [
-    source 35
-    target 45
-    weight 1
-  ]
-  edge [
-    source 35
-    target 44
-    weight 2
-  ]
-  edge [
-    source 36
-    target 38
-    weight 1
-  ]
-  edge [
-    source 36
-    target 45
-    weight 1
-  ]
-  edge [
-    source 36
-    target 46
-    weight 1
-  ]
-  edge [
-    source 36
-    target 37
-    weight 1
-  ]
-  edge [
-    source 37
-    target 43
-    weight 1
-  ]
-  edge [
-    source 37
-    target 44
-    weight 3
-  ]
-  edge [
-    source 37
-    target 40
-    weight 1
-  ]
-  edge [
-    source 40
-    target 45
-    weight 1
-  ]
-  edge [
-    source 40
-    target 44
-    weight 1
-  ]
-  edge [
-    source 40
-    target 46
-    weight 1
-  ]
-  edge [
-    source 45
-    target 46
     weight 1
   ]
 ]

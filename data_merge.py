@@ -26,7 +26,7 @@ def merge_data(ranks, matches):
     """ matches[['closest', 'days_bt_x_and_y']] = matches.date.apply(
         lambda x: find_closest_date(x, ranks.loc[ranks['date'] == max(ranks['date'])]['date'])) """
 
-    ranks = ranks.loc[ranks['date'] == max(ranks['date'])].drop_duplicates()
+    ranks = ranks.loc[ranks['date'] == '2018-12-17'].drop_duplicates()
     # merge winner id to get rank and points
 
     matches = matches.merge(ranks, how='left',
@@ -84,9 +84,9 @@ ranks2020['date'] = ranks2020['date'].apply(
 #ranks = pandas.concat([ranks2018, ranks2019, ranks2020], ignore_index=True)
 
 final2018 = merge_data(ranks2018, matches2018)
-final2019 = merge_data(ranks2019, matches2019)
-final2020 = merge_data(ranks2020, matches2020)
+""" final2019 = merge_data(ranks2019, matches2019)
+final2020 = merge_data(ranks2020, matches2020) """
 
-final2018.to_csv('data/final2018.csv', index=False)
-final2019.to_csv('data/final2019.csv', index=False)
-final2020.to_csv('data/final2020.csv', index=False)
+final2018.to_csv('data/final20181.csv', index=False)
+""" final2019.to_csv('data/final2019.csv', index=False)
+final2020.to_csv('data/final2020.csv', index=False) """

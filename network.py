@@ -4,17 +4,21 @@ import matplotlib.pyplot as plt
 import scipy.stats as stats
 import numpy as np
 
-matches = pandas.read_csv('data/final2018.csv')
-players = pandas.read_csv('data/players2018.csv')
+matches = pandas.read_csv('data/final2019.csv')
+players = pandas.read_csv('data/players2019.csv')
+
+
+matches = matches[(matches['winner_rank']!=0)]
+matches=matches[(matches['loser_rank']!=0)]
 
 matches = matches.drop(columns=['surface','tourney_level','date','winner_id','winner_state','loser_id','loser_state','winner_rank','winner_points','loser_rank','loser_points'])
 matches['weight']=1
 
 G=nx.from_pandas_edgelist(matches.groupby([matches.winner_name, matches.loser_name]).sum().reset_index(), 'winner_name', 'loser_name', edge_attr=True)
 
-turniri=matches[(matches['winner_name']=='Novak Djokovic') | (matches['loser_name']=='Novak Djokovic')]
-turniri=turniri.groupby(by=['tourney_name'])
-print(len(turniri.groups.keys()))
+""" turniri=matches[(matches['winner_name']=='Novak Djokovic') | (matches['loser_name']=='Novak Djokovic')]
+turniri=turniri.groupby(by=['tourney_name']) """
+
 for node in G.nodes():
     #print(G.nodes['Adam Moundir'])
     #print(players[players['name']==node]['state'].iloc[0])
@@ -24,28 +28,28 @@ for node in G.nodes():
     G.nodes[node]['rank']= int(players[players['name']==node]['rank'].iloc[0])
     G.nodes[node]['tourney_num']=len(turniri.groups.keys())
 
-# plt.figure()
-# x = nx.get_node_attributes(G, 'rank').values()
+plt.figure()
+x = nx.get_node_attributes(G, 'rank').values()
 # print(x)
-# y = nx.get_node_attributes(G, 'tourney_num').values()
-# plt.bar(x,y)
-# plt.xlabel('ATP rang')
-# plt.ylabel('Broj odigranih turnira')
+y = nx.get_node_attributes(G, 'tourney_num').values()
+plt.bar(x,y)
+plt.xlabel('ATP rang')
+plt.ylabel('Broj odigranih turnira')
 
 plt.figure()
 degs=G.degree()
-print(degs)
+# print(degs)
 ranks, degrees = zip(*[(G.nodes[node]['rank'],val) for (node, val) in G.degree()])
 ranksw, degreesw = zip(*[(G.nodes[node]['rank'],val) for (node, val) in G.degree(weight='weight')])
-print(degrees)
+# print(degrees)
 degreesw=np.array(degreesw)-np.array(degrees)
 plt.bar(ranksw,degreesw)
 plt.xlabel('ATP rang')
 plt.ylabel('Razlika tezinskog i netezinskog stepena cvora')
 # plt.bar(ranks,degrees)
 # plt.show()
-print(G.nodes['Novak Djokovic'])
-# nx.write_gml(G, 'mreza2018.gml')
+# print(G.nodes['Novak Djokovic'])
+
 print(nx.info(G))
 """ print(df2018[(df2018['winner_name']=='Novak Djokovic') &  (df2018['loser_name']=='Rafael Nadal')])
 print(df2018[(df2018['loser_name']=='Novak Djokovic') &  (df2018['winner_name']=='Rafael Nadal')]) """
@@ -56,9 +60,12 @@ print(df2018[(df2018['loser_name']=='Novak Djokovic') &  (df2018['winner_name']=
 core = nx.k_core(G)
 print(core.nodes())
 
+for node in core:
+    G.nodes[node]['core']=1
 ranks_core = [G.nodes[node]['rank'] for (node) in G.nodes()]
 ranks_core.sort()
 print(ranks_core)
+nx.write_gml(G, 'mreza2019.gml')
 
 #distribucija stepena
 plt.figure()
@@ -74,14 +81,14 @@ plt.scatter(ranks, degrees, s=1)
 plt.xlabel('ATP rang')
 plt.ylabel('Stepen cvora')
 
-plt.show()
+#plt.show()
 #EGO 
 ego_mrezaNDJ = nx.ego_graph(G, 'Novak Djokovic')
 ego_mrezaRF =nx.ego_graph(G, 'Roger Federer')
 ego_mrezaRN =nx.ego_graph(G, 'Rafael Nadal')
-# nx.write_gml(ego_mrezaNDJ, "Novak2020.gml")
-# nx.write_gml(ego_mrezaRF, "Federer2020.gml")
-# nx.write_gml(ego_mrezaRN, "Nadal2020.gml")
+nx.write_gml(ego_mrezaNDJ, "Novak2019.gml")
+nx.write_gml(ego_mrezaRF, "Federer2019.gml")
+nx.write_gml(ego_mrezaRN, "Nadal2019.gml")
 """ print(f"Čvorovi ego mreže igrača crraii su {ego_mreza.nodes}")
 plt.figure(figsize=(15,10))
 tezine_grana = nx.get_edge_attributes(ego_mreza,'weight')
@@ -96,7 +103,7 @@ plt.show() """
 #VELIKA TROJKA EGO UNIJA
 velika_trojka_ego_pom = nx.compose(ego_mrezaNDJ,ego_mrezaRF)
 velika_trojka_ego = nx.compose(velika_trojka_ego_pom,ego_mrezaRN)
-# nx.write_gml(velika_trojka_ego, "velika_trojka_ego2020.gml")
+nx.write_gml(velika_trojka_ego, "velika_trojka_ego2019.gml")
 
 #ASORTATIVNOST
 
@@ -124,6 +131,7 @@ prosecni_stepen_klasterisanja = nx.average_clustering(G)
 
 print(f"Max lokalni cc: {max_lokalni_stepen_klasterisanja}")
 print(f"Prosečan cc: {prosecni_stepen_klasterisanja}")
+
 # print("Lokalni stepeni klasterisanja koji nisu nula:")
 # print(df)
 
@@ -154,3 +162,14 @@ for ind in labele:
 
 print(cross_correlation_matrix)
 print(p_val_matrix)
+
+# distribucija broja tenisera u odnosu na broj mečeva koji su odigrali
+plt.figure()
+degrees = [G.degree(n, weight="weight") for n in G.nodes()]
+plt.hist(degrees)
+plt.title('Distribucija broja tenisera u odnosu na broj mečeva koji su odigrali')
+
+# distribucija broja turnira u odnosu na podlogu i godinu održavanja
+# distribucija broja mečeva u odnosu na podlogu i godinu održavanja
+
+plt.show()
