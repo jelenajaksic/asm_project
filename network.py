@@ -5,7 +5,10 @@ import matplotlib.pyplot as plt
 import scipy.stats as stats
 import numpy as np
 import collections
+from collections import deque
 from operator import itemgetter
+from networkx.algorithms.community import k_clique_communities
+from networkx.algorithms import community
 
 def plot_degree_histogram(g, normalized=True, weight=None):
 
@@ -23,8 +26,8 @@ def plot_degree_histogram(g, normalized=True, weight=None):
     return aux_x, aux_y
 
 
-matches = pandas.read_csv('data/final2019.csv')
-players = pandas.read_csv('data/players2019.csv')
+matches = pandas.read_csv('data/final2020.csv')
+players = pandas.read_csv('data/players2020.csv')
 
 
 matches = matches[(matches['winner_rank'] != 0)]
@@ -49,6 +52,31 @@ for node in G.nodes():
     G.nodes[node]['tourney_num'] = len(turniri.groups.keys())
 
 print(nx.info(G))
+# c = list(k_clique_communities(G, 7))
+# print(len(c))
+# for i in range(len(c)):
+#     print(i)
+#     t=list(c[i])
+#     for j in range(len(t)):
+#         print(t[j])
+#         G.nodes[t[j]]['k7']=i
+# print(list(c[0]))
+# nx.write_gml(G, "kklik2020_7.gml")
+
+# communities_generator = community.girvan_newman(G)
+# print(communities_generator)
+# j=0
+# level0=next(communities_generator)
+# dd = deque(communities_generator, maxlen=1)
+# last_element = dd.pop()
+# # for p in range():
+# #     level=next(communities_generator)
+# for c in last_element:
+#     for i in range(len(list(c))):
+#         G.nodes[list(c)[i]]['gn']=j
+#     j+=1
+
+# nx.write_gml(G, "gn2020_p.gml")
 
 # Rang u odnosu na broj turnira
 plt.figure()
@@ -137,14 +165,14 @@ plt.ylabel('Stepen cvora')
 ego_mrezaNDJ = nx.ego_graph(G, 'Novak Djokovic')
 ego_mrezaRF = nx.ego_graph(G, 'Roger Federer')
 ego_mrezaRN = nx.ego_graph(G, 'Rafael Nadal')
-nx.write_gml(ego_mrezaNDJ, "Novak2019.gml")
-nx.write_gml(ego_mrezaRF, "Federer2019.gml")
-nx.write_gml(ego_mrezaRN, "Nadal2019.gml")
+nx.write_gml(ego_mrezaNDJ, "Novak2020.gml")
+nx.write_gml(ego_mrezaRF, "Federer2020.gml")
+nx.write_gml(ego_mrezaRN, "Nadal2020.gml")
 
 # VELIKA TROJKA EGO UNIJA
 velika_trojka_ego_pom = nx.compose(ego_mrezaNDJ, ego_mrezaRF)
 velika_trojka_ego = nx.compose(velika_trojka_ego_pom, ego_mrezaRN)
-nx.write_gml(velika_trojka_ego, "velika_trojka_ego2019.gml")
+nx.write_gml(velika_trojka_ego, "velika_trojka_ego2020.gml")
 
 # ASORTATIVNOST
 
@@ -208,13 +236,13 @@ print(cross_correlation_matrix)
 print(p_val_matrix)
 
 # distribucija broja tenisera u odnosu na broj mečeva koji su odigrali
-plt.figure()
+""" plt.figure()
 degrees = [G.degree(n, weight="weight") for n in G.nodes()]
 plt.hist(degrees)
-plt.title('Distribucija broja tenisera u odnosu na broj mečeva koji su odigrali')
+plt.title('Distribucija broja tenisera u odnosu na broj mečeva koji su odigrali') """
 
 # distribucija broja turnira u odnosu na podlogu i godinu održavanja
 # distribucija broja mečeva u odnosu na podlogu i godinu održavanja
 
-nx.write_gml(G, 'mreza2019.gml')
+nx.write_gml(G, 'mreza2020.gml')
 plt.show()
