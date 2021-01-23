@@ -10,6 +10,12 @@ from operator import itemgetter
 from networkx.algorithms.community import k_clique_communities
 from networkx.algorithms import community
 
+# URDITI
+
+# slike grafova
+# matrice asortativnosti
+# uvod zakljucak literatura
+
 def plot_degree_histogram(g, normalized=True, weight=None):
 
     degree_sequence = sorted([d for n, d in g.degree(
