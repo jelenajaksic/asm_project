@@ -92,21 +92,7 @@ for i in range(len(points)):
         G.nodes[nodesWithPoints[j]]['rank']=i+1
         G.nodes[nodesWithPoints[j]]['rank_c']=0 if i<150 else 1
 
-# communities_generator = community.girvan_newman(G)
-# print(communities_generator)
-# j=0
-# level0=next(communities_generator)
-# dd = deque(communities_generator, maxlen=1)
-# last_element = dd.pop()
-# for p in range(10):
-#     level=next(communities_generator)
-# for c in level:
-#     for i in range(len(list(c))):
-#         G.nodes[list(c)[i]]['gn']=j
-#     j+=1
-
-# nx.write_gml(G, "gnAGR_10.gml")
-""" def calculate_centralities(G):
+def calculate_centralities(G):
 
     DC_dict = nx.degree_centrality(G)
     CC_dict = nx.closeness_centrality(G)
@@ -305,7 +291,7 @@ for ind in labele:
             df[ind], df[col])
 
 print(cross_correlation_matrix)
-print(p_val_matrix) """
+print(p_val_matrix)
 
 # distribucija broja turnira u odnosu na podlogu i godinu održavanja
 barWidth = 0.25
@@ -359,7 +345,5 @@ plt.xlabel('Godina', fontweight='bold')
 plt.xticks([r + barWidth for r in range(len(hard))], ['2018', '2019', '2020'])
  
 plt.legend()
-""" nx.write_gml(G, 'mrezaAGR.gml')
-plt.show() """
-
+nx.write_gml(G, 'mrezaAGR.gml')
 plt.show()

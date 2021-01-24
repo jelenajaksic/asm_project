@@ -10,12 +10,6 @@ from operator import itemgetter
 from networkx.algorithms.community import k_clique_communities
 from networkx.algorithms import community
 
-# URDITI
-
-# slike grafova
-# matrice asortativnosti
-# uvod zakljucak literatura
-
 def plot_degree_histogram(g, normalized=True, weight=None):
 
     degree_sequence = sorted([d for n, d in g.degree(
@@ -56,6 +50,7 @@ for node in G.nodes():
     G.nodes[node]['rank'] = int(
         players[players['name'] == node]['rank'].iloc[0])
     G.nodes[node]['tourney_num'] = len(turniri.groups.keys())
+    G.nodes[node]['rank_c']=0 if G.nodes[node]['rank']<150 else 1
 
 print(nx.info(G))
 # c = list(k_clique_communities(G, 7))
@@ -190,6 +185,8 @@ print(f"Koeficijent asortativnosti na osnovu netežinskog stepena čvora: {r1}")
 r2 = nx.degree_assortativity_coefficient(G, weight='weight')
 print(f"Koeficijent asortativnosti na osnovu težinskog stepena čvora: {r2}")
 
+r3=nx.attribute_mixing_matrix(G, "rank_c")
+print(f"Koeficijent asortativnosti na atributa za kategoriju ranga:\n {r3}")
 
 # KOEF KLASTERIZACIJE
 

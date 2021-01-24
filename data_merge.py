@@ -3,12 +3,6 @@ import numpy as np
 
 
 def find_closest_date(timepoint, time_series, add_time_delta_column=True):
-    # takes a pd.Timestamp() instance and a pd.Series with dates in it
-    # calcs the delta between `timepoint` and each date in `time_series`
-    # returns the closest date and optionally the number of days in its time delta
-    """ timepoint=pandas.to_datetime(str(timepoint), format='%Y-%m-%d')
-    print(timepoint)
-    time_series=pandas.to_datetime(str(time_series), format='%Y-%m-%d') """
     print(time_series)
     deltas = np.abs(time_series - timepoint)
     print(deltas)
@@ -84,9 +78,9 @@ ranks2020['date'] = ranks2020['date'].apply(
 #ranks = pandas.concat([ranks2018, ranks2019, ranks2020], ignore_index=True)
 
 final2018 = merge_data(ranks2018, matches2018)
-""" final2019 = merge_data(ranks2019, matches2019)
-final2020 = merge_data(ranks2020, matches2020) """
+final2019 = merge_data(ranks2019, matches2019)
+final2020 = merge_data(ranks2020, matches2020)
 
 final2018.to_csv('data/final20181.csv', index=False)
-""" final2019.to_csv('data/final2019.csv', index=False)
-final2020.to_csv('data/final2020.csv', index=False) """
+final2019.to_csv('data/final2019.csv', index=False)
+final2020.to_csv('data/final2020.csv', index=False)
